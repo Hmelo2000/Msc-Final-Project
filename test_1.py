@@ -50,6 +50,80 @@ root.geometry("725x500") # Setting Dimensions
 Title = Label(root, text="Which sport (out of the 2 below) would you like to make a prediciton in: ", font=("Gamerock", 17, "bold"))
 Title.grid(row=0, column=0)
 
+def mainfunction(button, teams):
+    #Disable chosen button (sport already chosen)
+    button['state'] = DISABLED
+
+    #Display predict and make another prediction buttons
+    PredictButton.grid(row=8, column=0)
+    AnotherPredictionButton.grid(row=9, column=0)
+
+    #Disable  make another prediction Button
+    AnotherPredictionButton['state'] = DISABLED
+
+    #Create Home and Away Labels
+    HomeLabel = Label(root, text="Home Team: ")
+    AwayLabel = Label(root, text="Away Team: ")
+
+    #Display both Labels
+    HomeLabel.grid(row=4, column=0)
+    AwayLabel.grid(row=6, column=0)
+
+    #Create global variables that hold the team chosen in the drop down boxes
+    global home_team
+    global away_team
+    global drop_menu_1
+    global drop_menu_2
+
+    #Create drop down box that will allow the user to pick the home team
+    home_team= StringVar()
+    home_team.set(teams[0])
+    drop_menu_1 = OptionMenu(root, home_team, *teams)
+    drop_menu_1.grid(row=5, column=0)
+
+    #Create drop down box that will allow the user to pick the away team
+    away_team= StringVar()
+    away_team.set(teams[1])
+    drop_menu_2 = OptionMenu(root, away_team, *teams)
+    drop_menu_2.grid(row=7, column=0)
+
+# Hockey Button function
+def hockeyfunction():
+    # If a prediction has just beeen made in another sport, erase the previous drop down boxes so that they don't overlap with the ones
+    if BasketballButton['state'] == DISABLED:
+        drop_menu_1.destroy()
+        drop_menu_2.destroy()
+
+    #Enable basketball and predict button
+    BasketballButton['state'] = NORMAL
+    PredictButton['state'] = NORMAL
+    
+    #Call mainfunction with the respective sport button and teams
+    mainfunction(HockeyButton, teams_hockey)
+
+def basketballfunction():
+     # If a prediction has just beeen made in another sport, erase the previous drop down boxes so that they don't overlap with the ones
+    if HockeyButton['state'] == DISABLED:
+        drop_menu_1.destroy()
+        drop_menu_2.destroy()
+
+    #Enable hockey and predict button
+    HockeyButton['state'] = NORMAL
+    PredictButton['state'] = NORMAL
+    
+    #Call mainfunction with the respective sport button and teams
+    mainfunction(BasketballButton, teams_basketball)
+
+#create list called teams that contains every hockey team's name
+teams_hockey = []
+for i in range(len(df_ratings_hockey_ridge)):
+    teams_hockey.append(df_ratings_hockey_ridge.iloc[i, 0])
+
+#create list called teams that contains every basketball team's name
+teams_basketball = []
+for i in range(len(df_ratings_basketball_ridge)):
+    teams_basketball.append(df_ratings_basketball_ridge.iloc[i, 0])
+
 #create button for the basketball sport
 BasketballButton = Button(root, text="Basketball", padx=4, pady=3, command=basketballfunction, fg="orange", font=("Gamerock", 14, "italic"))
 BasketballButton.grid(row=1, column=0) # Position the button
