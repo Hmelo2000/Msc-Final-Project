@@ -1,4 +1,3 @@
 # Msc-Final-Project
 
-test_data.csv obtained from here: https://www.hockey-reference.com/leagues/NHL_2020_games.html
-(NHL 2020 season games)
+Data so far obtained from here: https://www.hockey-reference.com/leagues/NHL_2021_games.html and https://www.basketball-reference.com/leagues/NBA_2021_games.html
