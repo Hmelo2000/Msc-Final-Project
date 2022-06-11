@@ -1,0 +1,2430 @@
+﻿Date,Day of Week,Visitor Team,Home Team,VisitorPts,HomePts,Day or Night,Attendance,Time of Game (minutes)
+01/04/2021,Thu,Pittsburgh Pirates,Chicago Cubs,5,3,D,10343,240
+01/04/2021,Thu,St. Louis Cardinals,Cincinnati Reds,11,6,D,12264,211
+01/04/2021,Thu,Los Angeles Dodgers,Colorado Rockies,5,8,D,20570,226
+01/04/2021,Thu,Tampa Bay Rays,Miami Marlins,1,0,D,7062,164
+01/04/2021,Thu,Minnesota Twins,Milwaukee Brewers,5,6,D,11740,254
+01/04/2021,Thu,Atlanta Braves,Philadelphia Phillies,2,3,D,8529,213
+01/04/2021,Thu,Arizona D'Backs,San Diego Padres,7,8,D,10350,206
+01/04/2021,Thu,Chicago White Sox,Los Angeles Angels,3,4,N,13207,171
+01/04/2021,Thu,Cleveland Indians,Detroit Tigers,2,3,D,8000,183
+01/04/2021,Thu,Texas Rangers,Kansas City Royals,10,14,D,9155,266
+01/04/2021,Thu,Toronto Blue Jays,New York Yankees,3,2,D,10850,224
+01/04/2021,Thu,Houston Astros,Oakland Athletics,8,1,N,10436,208
+01/04/2021,Thu,San Francisco Giants,Seattle Mariners,7,8,N,8174,225
+02/04/2021,Fri,Los Angeles Dodgers,Colorado Rockies,11,6,N,20363,199
+02/04/2021,Fri,Tampa Bay Rays,Miami Marlins,6,4,N,6115,202
+02/04/2021,Fri,Arizona D'Backs,San Diego Padres,2,4,N,10350,233
+02/04/2021,Fri,Chicago White Sox,Los Angeles Angels,12,8,N,12763,224
+02/04/2021,Fri,Baltimore Orioles,Boston Red Sox,3,0,D,4452,190
+02/04/2021,Fri,Houston Astros,Oakland Athletics,9,5,N,5446,214
+02/04/2021,Fri,San Francisco Giants,Seattle Mariners,6,3,N,8392,196
+03/04/2021,Sat,Pittsburgh Pirates,Chicago Cubs,1,5,D,10343,188
+03/04/2021,Sat,St. Louis Cardinals,Cincinnati Reds,6,9,D,12213,204
+03/04/2021,Sat,Los Angeles Dodgers,Colorado Rockies,6,5,N,20688,215
+03/04/2021,Sat,Tampa Bay Rays,Miami Marlins,7,12,N,6179,212
+03/04/2021,Sat,Minnesota Twins,Milwaukee Brewers,2,0,N,11383,166
+03/04/2021,Sat,Atlanta Braves,Philadelphia Phillies,0,4,D,8582,150
+03/04/2021,Sat,Arizona D'Backs,San Diego Padres,0,7,N,10350,178
+03/04/2021,Sat,Chicago White Sox,Los Angeles Angels,3,5,N,12043,184
+03/04/2021,Sat,Baltimore Orioles,Boston Red Sox,4,2,D,4571,171
+03/04/2021,Sat,Cleveland Indians,Detroit Tigers,2,5,D,8000,197
+03/04/2021,Sat,Texas Rangers,Kansas City Royals,4,11,D,8889,173
+03/04/2021,Sat,Toronto Blue Jays,New York Yankees,3,5,D,10107,218
+03/04/2021,Sat,Houston Astros,Oakland Athletics,9,1,D,5803,204
+03/04/2021,Sat,San Francisco Giants,Seattle Mariners,0,4,N,8651,179
+04/04/2021,Sun,Pittsburgh Pirates,Chicago Cubs,3,4,D,10343,189
+04/04/2021,Sun,St. Louis Cardinals,Cincinnati Reds,1,12,D,11629,180
+04/04/2021,Sun,Los Angeles Dodgers,Colorado Rockies,4,2,D,20368,171
+04/04/2021,Sun,Minnesota Twins,Milwaukee Brewers,8,2,D,10666,209
+04/04/2021,Sun,Atlanta Braves,Philadelphia Phillies,1,2,D,10773,160
+04/04/2021,Sun,Arizona D'Backs,San Diego Padres,3,1,D,10350,199
+04/04/2021,Sun,Chicago White Sox,Los Angeles Angels,4,7,N,12396,236
+04/04/2021,Sun,Baltimore Orioles,Boston Red Sox,11,3,D,4458,208
+04/04/2021,Sun,Cleveland Indians,Detroit Tigers,9,3,D,8000,158
+04/04/2021,Sun,Texas Rangers,Kansas City Royals,7,3,D,8869,173
+04/04/2021,Sun,Toronto Blue Jays,New York Yankees,3,1,D,10066,161
+04/04/2021,Sun,Houston Astros,Oakland Athletics,9,2,D,4504,195
+05/04/2021,Mon,Milwaukee Brewers,Chicago Cubs,3,5,N,10343,169
+05/04/2021,Mon,Pittsburgh Pirates,Cincinnati Reds,3,5,N,9097,198
+05/04/2021,Mon,St. Louis Cardinals,Miami Marlins,4,1,N,4605,189
+05/04/2021,Mon,New York Mets,Philadelphia Phillies,3,5,N,10782,195
+05/04/2021,Mon,San Francisco Giants,San Diego Padres,3,2,N,10350,215
+05/04/2021,Mon,Houston Astros,Los Angeles Angels,6,7,N,13447,241
+05/04/2021,Mon,Tampa Bay Rays,Boston Red Sox,2,11,N,4577,206
+05/04/2021,Mon,Kansas City Royals,Cleveland Indians,3,0,D,8914,172
+05/04/2021,Mon,Minnesota Twins,Detroit Tigers,15,6,D,7232,212
+05/04/2021,Mon,Baltimore Orioles,New York Yankees,0,7,N,9008,178
+05/04/2021,Mon,Los Angeles Dodgers,Oakland Athletics,10,3,N,6653,215
+05/04/2021,Mon,Chicago White Sox,Seattle Mariners,6,0,N,6436,203
+05/04/2021,Mon,Toronto Blue Jays,Texas Rangers,6,2,D,38238,184
+06/04/2021,Tue,Milwaukee Brewers,Chicago Cubs,4,0,N,10343,186
+06/04/2021,Tue,Pittsburgh Pirates,Cincinnati Reds,1,14,N,11093,155
+06/04/2021,Tue,Arizona D'Backs,Colorado Rockies,10,8,N,10240,269
+06/04/2021,Tue,St. Louis Cardinals,Miami Marlins,4,2,N,4982,223
+06/04/2021,Tue,New York Mets,Philadelphia Phillies,8,4,N,10752,220
+06/04/2021,Tue,San Francisco Giants,San Diego Padres,1,3,N,10350,173
+06/04/2021,Tue,Atlanta Braves,Washington Nationals,5,6,D,4801,190
+06/04/2021,Tue,Houston Astros,Los Angeles Angels,4,2,D,11122,167
+06/04/2021,Tue,Tampa Bay Rays,Boston Red Sox,5,6,N,4682,265
+06/04/2021,Tue,Minnesota Twins,Detroit Tigers,3,4,D,7306,240
+06/04/2021,Tue,Baltimore Orioles,New York Yankees,2,7,N,9404,178
+06/04/2021,Tue,Los Angeles Dodgers,Oakland Athletics,5,1,N,7672,165
+06/04/2021,Tue,Chicago White Sox,Seattle Mariners,10,4,N,7980,225
+06/04/2021,Tue,Toronto Blue Jays,Texas Rangers,4,7,N,18585,153
+07/04/2021,Wed,Milwaukee Brewers,Chicago Cubs,4,2,D,10343,212
+07/04/2021,Wed,Pittsburgh Pirates,Cincinnati Reds,4,11,D,11463,155
+07/04/2021,Wed,Arizona D'Backs,Colorado Rockies,0,8,N,12894,177
+07/04/2021,Wed,St. Louis Cardinals,Miami Marlins,7,0,D,5244,190
+07/04/2021,Wed,New York Mets,Philadelphia Phillies,2,8,D,10807,215
+07/04/2021,Wed,San Francisco Giants,San Diego Padres,3,2,D,10350,201
+07/04/2021,Wed,Atlanta Braves,Washington Nationals,7,6,D,0,169
+07/04/2021,Wed,Atlanta Braves,Washington Nationals,2,0,N,4927,128
+07/04/2021,Wed,Tampa Bay Rays,Boston Red Sox,2,9,D,4751,171
+07/04/2021,Wed,Kansas City Royals,Cleveland Indians,2,4,D,5908,173
+07/04/2021,Wed,Minnesota Twins,Detroit Tigers,3,2,D,7568,166
+07/04/2021,Wed,Baltimore Orioles,New York Yankees,4,3,N,10254,234
+07/04/2021,Wed,Los Angeles Dodgers,Oakland Athletics,3,4,D,8131,226
+07/04/2021,Wed,Chicago White Sox,Seattle Mariners,4,8,D,7429,229
+07/04/2021,Wed,Toronto Blue Jays,Texas Rangers,1,2,D,16876,153
+08/04/2021,Thu,Arizona D'Backs,Colorado Rockies,3,7,D,10836,171
+08/04/2021,Thu,Miami Marlins,New York Mets,2,3,D,8492,198
+08/04/2021,Thu,Chicago Cubs,Pittsburgh Pirates,4,2,D,7749,195
+08/04/2021,Thu,Milwaukee Brewers,St. Louis Cardinals,1,3,D,13328,185
+08/04/2021,Thu,Boston Red Sox,Baltimore Orioles,7,3,D,10150,188
+08/04/2021,Thu,Kansas City Royals,Chicago White Sox,0,6,D,8207,168
+08/04/2021,Thu,Oakland Athletics,Houston Astros,2,6,N,21765,190
+08/04/2021,Thu,Seattle Mariners,Minnesota Twins,2,10,D,9675,207
+08/04/2021,Thu,Los Angeles Angels,Toronto Blue Jays,7,5,N,1348,237
+09/04/2021,Fri,Cincinnati Reds,Arizona D'Backs,6,5,N,19385,227
+09/04/2021,Fri,Philadelphia Phillies,Atlanta Braves,1,8,N,14342,183
+09/04/2021,Fri,Washington Nationals,Los Angeles Dodgers,0,1,D,15036,151
+09/04/2021,Fri,Colorado Rockies,San Francisco Giants,1,3,D,7390,174
+09/04/2021,Fri,Detroit Tigers,Cleveland Indians,1,4,N,7775,160
+09/04/2021,Fri,Oakland Athletics,Houston Astros,6,2,N,21768,194
+09/04/2021,Fri,New York Yankees,Tampa Bay Rays,5,10,D,9021,173
+09/04/2021,Fri,San Diego Padres,Texas Rangers,3,0,N,27575,166
+09/04/2021,Fri,Los Angeles Angels,Toronto Blue Jays,7,1,N,1523,186
+10/04/2021,Sat,Cincinnati Reds,Arizona D'Backs,3,8,N,13208,189
+10/04/2021,Sat,Philadelphia Phillies,Atlanta Braves,4,5,N,14394,170
+10/04/2021,Sat,Washington Nationals,Los Angeles Dodgers,5,9,N,15021,191
+10/04/2021,Sat,Miami Marlins,New York Mets,3,0,D,8419,156
+10/04/2021,Sat,Chicago Cubs,Pittsburgh Pirates,2,8,N,7052,187
+10/04/2021,Sat,Colorado Rockies,San Francisco Giants,3,4,D,6176,193
+10/04/2021,Sat,Milwaukee Brewers,St. Louis Cardinals,9,5,D,13304,223
+10/04/2021,Sat,Boston Red Sox,Baltimore Orioles,6,4,N,9307,214
+10/04/2021,Sat,Detroit Tigers,Cleveland Indians,3,11,N,7570,173
+10/04/2021,Sat,Oakland Athletics,Houston Astros,7,3,D,21760,194
+10/04/2021,Sat,Seattle Mariners,Minnesota Twins,4,3,D,9817,194
+10/04/2021,Sat,New York Yankees,Tampa Bay Rays,0,4,D,6270,184
+10/04/2021,Sat,San Diego Padres,Texas Rangers,7,4,N,35856,195
+10/04/2021,Sat,Los Angeles Angels,Toronto Blue Jays,1,15,N,1292,201
+11/04/2021,Sun,Cincinnati Reds,Arizona D'Backs,0,7,D,10981,159
+11/04/2021,Sun,Philadelphia Phillies,Atlanta Braves,7,6,N,14221,183
+11/04/2021,Sun,Washington Nationals,Los Angeles Dodgers,0,3,D,15049,149
+11/04/2021,Sun,Miami Marlins,New York Mets,5,6,D,8199,245
+11/04/2021,Sun,Chicago Cubs,Pittsburgh Pirates,1,7,D,6851,182
+11/04/2021,Sun,Colorado Rockies,San Francisco Giants,0,4,D,6560,180
+11/04/2021,Sun,Milwaukee Brewers,St. Louis Cardinals,9,3,D,13176,184
+11/04/2021,Sun,Boston Red Sox,Baltimore Orioles,14,9,D,8171,226
+11/04/2021,Sun,Kansas City Royals,Chicago White Sox,4,3,D,7695,234
+11/04/2021,Sun,Detroit Tigers,Cleveland Indians,2,5,D,6859,184
+11/04/2021,Sun,Seattle Mariners,Minnesota Twins,8,6,D,9792,208
+11/04/2021,Sun,New York Yankees,Tampa Bay Rays,8,4,D,6965,222
+11/04/2021,Sun,San Diego Padres,Texas Rangers,2,0,D,26723,196
+12/04/2021,Mon,Oakland Athletics,Arizona D'Backs,9,5,N,8768,209
+12/04/2021,Mon,Miami Marlins,Atlanta Braves,5,3,N,11830,225
+12/04/2021,Mon,Chicago Cubs,Milwaukee Brewers,3,6,N,11209,184
+12/04/2021,Mon,San Diego Padres,Pittsburgh Pirates,6,2,N,4068,184
+12/04/2021,Mon,Cincinnati Reds,San Francisco Giants,3,0,N,3662,155
+12/04/2021,Mon,Washington Nationals,St. Louis Cardinals,5,2,N,12894,200
+12/04/2021,Mon,Cleveland Indians,Chicago White Sox,3,4,N,7393,185
+12/04/2021,Mon,Detroit Tigers,Houston Astros,6,2,N,15779,184
+12/04/2021,Mon,Los Angeles Angels,Kansas City Royals,10,3,N,6962,208
+12/04/2021,Mon,Texas Rangers,Tampa Bay Rays,0,1,N,3627,162
+12/04/2021,Mon,New York Yankees,Toronto Blue Jays,3,1,N,1576,184
+13/04/2021,Tue,Oakland Athletics,Arizona D'Backs,7,5,D,7010,219
+13/04/2021,Tue,Miami Marlins,Atlanta Braves,14,8,N,12036,231
+13/04/2021,Tue,Colorado Rockies,Los Angeles Dodgers,0,7,N,15021,188
+13/04/2021,Tue,Chicago Cubs,Milwaukee Brewers,3,2,N,11025,187
+13/04/2021,Tue,Philadelphia Phillies,New York Mets,3,4,D,0,191
+13/04/2021,Tue,Philadelphia Phillies,New York Mets,0,4,N,7611,150
+13/04/2021,Tue,San Diego Padres,Pittsburgh Pirates,4,8,N,4814,247
+13/04/2021,Tue,Cincinnati Reds,San Francisco Giants,6,7,N,3673,191
+13/04/2021,Tue,Washington Nationals,St. Louis Cardinals,3,14,N,12714,204
+13/04/2021,Tue,Seattle Mariners,Baltimore Orioles,4,3,D,0,146
+13/04/2021,Tue,Seattle Mariners,Baltimore Orioles,6,7,N,4147,158
+13/04/2021,Tue,Cleveland Indians,Chicago White Sox,2,0,N,7102,182
+13/04/2021,Tue,Detroit Tigers,Houston Astros,8,2,N,17080,207
+13/04/2021,Tue,Los Angeles Angels,Kansas City Royals,2,3,N,6404,177
+13/04/2021,Tue,Boston Red Sox,Minnesota Twins,4,2,D,6724,197
+13/04/2021,Tue,Texas Rangers,Tampa Bay Rays,8,3,N,4753,163
+13/04/2021,Tue,New York Yankees,Toronto Blue Jays,3,7,N,1550,184
+14/04/2021,Wed,Miami Marlins,Atlanta Braves,6,5,N,12480,206
+14/04/2021,Wed,Colorado Rockies,Los Angeles Dodgers,2,4,N,15093,216
+14/04/2021,Wed,Chicago Cubs,Milwaukee Brewers,0,7,D,10598,186
+14/04/2021,Wed,Philadelphia Phillies,New York Mets,1,5,N,7520,170
+14/04/2021,Wed,San Diego Padres,Pittsburgh Pirates,1,5,N,5228,207
+14/04/2021,Wed,Cincinnati Reds,San Francisco Giants,0,3,D,6409,150
+14/04/2021,Wed,Washington Nationals,St. Louis Cardinals,6,0,D,13206,191
+14/04/2021,Wed,Cleveland Indians,Chicago White Sox,0,8,N,7148,160
+14/04/2021,Wed,Detroit Tigers,Houston Astros,6,4,N,14720,240
+14/04/2021,Wed,Los Angeles Angels,Kansas City Royals,1,6,D,6814,190
+14/04/2021,Wed,Boston Red Sox,Minnesota Twins,3,2,D,0,160
+14/04/2021,Wed,Boston Red Sox,Minnesota Twins,7,1,N,7074,151
+14/04/2021,Wed,Texas Rangers,Tampa Bay Rays,5,1,N,3021,178
+14/04/2021,Wed,New York Yankees,Toronto Blue Jays,4,5,D,1613,174
+15/04/2021,Thu,Miami Marlins,Atlanta Braves,6,7,D,11739,204
+15/04/2021,Thu,Colorado Rockies,Los Angeles Dodgers,5,7,N,15129,181
+15/04/2021,Thu,San Diego Padres,Pittsburgh Pirates,8,3,D,4023,195
+15/04/2021,Thu,Arizona D'Backs,Washington Nationals,11,6,N,6666,206
+15/04/2021,Thu,Seattle Mariners,Baltimore Orioles,4,2,D,0,143
+15/04/2021,Thu,Seattle Mariners,Baltimore Orioles,2,1,N,5060,121
+15/04/2021,Thu,Cleveland Indians,Chicago White Sox,4,2,D,7049,197
+15/04/2021,Thu,Toronto Blue Jays,Kansas City Royals,5,7,N,6266,171
+15/04/2021,Thu,Boston Red Sox,Minnesota Twins,3,4,D,7925,205
+15/04/2021,Thu,Detroit Tigers,Oakland Athletics,4,8,N,3004,197
+15/04/2021,Thu,Texas Rangers,Tampa Bay Rays,6,4,N,4217,224
+16/04/2021,Fri,Atlanta Braves,Chicago Cubs,5,2,D,10343,242
+16/04/2021,Fri,Cleveland Indians,Cincinnati Reds,3,10,N,12497,191
+16/04/2021,Fri,San Francisco Giants,Miami Marlins,1,4,N,5734,164
+16/04/2021,Fri,Pittsburgh Pirates,Milwaukee Brewers,6,1,N,11967,189
+16/04/2021,Fri,St. Louis Cardinals,Philadelphia Phillies,2,9,N,10842,154
+16/04/2021,Fri,Los Angeles Dodgers,San Diego Padres,11,6,N,15250,297
+16/04/2021,Fri,Arizona D'Backs,Washington Nationals,0,1,N,8056,174
+16/04/2021,Fri,Minnesota Twins,Los Angeles Angels,3,10,N,13428,188
+16/04/2021,Fri,Tampa Bay Rays,New York Yankees,8,2,N,10202,202
+16/04/2021,Fri,Detroit Tigers,Oakland Athletics,0,3,N,4538,151
+16/04/2021,Fri,Houston Astros,Seattle Mariners,5,6,N,8967,184
+16/04/2021,Fri,Baltimore Orioles,Texas Rangers,5,2,N,22173,152
+17/04/2021,Sat,Atlanta Braves,Chicago Cubs,4,13,D,10343,203
+17/04/2021,Sat,Cleveland Indians,Cincinnati Reds,2,3,D,12598,205
+17/04/2021,Sat,New York Mets,Colorado Rockies,4,3,D,0,147
+17/04/2021,Sat,New York Mets,Colorado Rockies,2,7,N,13906,131
+17/04/2021,Sat,San Francisco Giants,Miami Marlins,6,7,N,6014,236
+17/04/2021,Sat,Pittsburgh Pirates,Milwaukee Brewers,1,7,N,12038,162
+17/04/2021,Sat,St. Louis Cardinals,Philadelphia Phillies,9,4,D,10890,234
+17/04/2021,Sat,Los Angeles Dodgers,San Diego Padres,2,0,N,15250,192
+17/04/2021,Sat,Arizona D'Backs,Washington Nationals,2,6,D,8305,203
+17/04/2021,Sat,Chicago White Sox,Boston Red Sox,4,7,D,4668,216
+17/04/2021,Sat,Toronto Blue Jays,Kansas City Royals,5,1,D,9048,130
+17/04/2021,Sat,Toronto Blue Jays,Kansas City Royals,2,3,N,8950,141
+17/04/2021,Sat,Tampa Bay Rays,New York Yankees,6,3,D,10583,208
+17/04/2021,Sat,Detroit Tigers,Oakland Athletics,0,7,D,6931,169
+17/04/2021,Sat,Houston Astros,Seattle Mariners,1,0,N,8960,156
+17/04/2021,Sat,Baltimore Orioles,Texas Rangers,6,1,N,29338,185
+18/04/2021,Sun,Atlanta Braves,Chicago Cubs,13,4,N,10343,206
+18/04/2021,Sun,Cleveland Indians,Cincinnati Reds,6,3,D,12551,162
+18/04/2021,Sun,New York Mets,Colorado Rockies,2,1,D,15082,158
+18/04/2021,Sun,San Francisco Giants,Miami Marlins,1,0,D,6129,173
+18/04/2021,Sun,Pittsburgh Pirates,Milwaukee Brewers,6,5,D,11772,227
+18/04/2021,Sun,St. Louis Cardinals,Philadelphia Phillies,0,2,D,10876,154
+18/04/2021,Sun,Los Angeles Dodgers,San Diego Padres,2,5,D,15250,192
+18/04/2021,Sun,Arizona D'Backs,Washington Nationals,5,2,D,8478,200
+18/04/2021,Sun,Chicago White Sox,Boston Red Sox,3,2,D,4679,124
+18/04/2021,Sun,Chicago White Sox,Boston Red Sox,5,1,N,4601,144
+18/04/2021,Sun,Toronto Blue Jays,Kansas City Royals,0,2,D,9042,174
+18/04/2021,Sun,Tampa Bay Rays,New York Yankees,4,2,D,10606,176
+18/04/2021,Sun,Detroit Tigers,Oakland Athletics,2,3,D,6917,162
+18/04/2021,Sun,Houston Astros,Seattle Mariners,2,7,D,8959,199
+18/04/2021,Sun,Baltimore Orioles,Texas Rangers,0,1,D,24267,180
+19/04/2021,Mon,San Francisco Giants,Philadelphia Phillies,2,0,N,9510,190
+19/04/2021,Mon,Milwaukee Brewers,San Diego Padres,3,1,N,15250,169
+19/04/2021,Mon,St. Louis Cardinals,Washington Nationals,12,5,N,7542,191
+19/04/2021,Mon,Texas Rangers,Los Angeles Angels,6,4,N,11396,195
+19/04/2021,Mon,Chicago White Sox,Boston Red Sox,4,11,D,4738,195
+19/04/2021,Mon,Tampa Bay Rays,Kansas City Royals,4,1,N,5589,180
+19/04/2021,Mon,Los Angeles Dodgers,Seattle Mariners,3,4,N,8999,191
+20/04/2021,Tue,New York Mets,Chicago Cubs,1,3,N,10137,212
+20/04/2021,Tue,Arizona D'Backs,Cincinnati Reds,5,4,N,8085,200
+20/04/2021,Tue,Houston Astros,Colorado Rockies,2,6,N,10144,188
+20/04/2021,Tue,Baltimore Orioles,Miami Marlins,7,5,N,4540,206
+20/04/2021,Tue,San Francisco Giants,Philadelphia Phillies,10,7,N,10584,196
+20/04/2021,Tue,Milwaukee Brewers,San Diego Padres,6,0,N,15250,170
+20/04/2021,Tue,St. Louis Cardinals,Washington Nationals,2,3,N,8418,171
+20/04/2021,Tue,Texas Rangers,Los Angeles Angels,2,6,N,12544,172
+20/04/2021,Tue,Toronto Blue Jays,Boston Red Sox,2,4,N,4728,162
+20/04/2021,Tue,Chicago White Sox,Cleveland Indians,8,5,N,4176,219
+20/04/2021,Tue,Tampa Bay Rays,Kansas City Royals,14,7,N,4481,215
+20/04/2021,Tue,Atlanta Braves,New York Yankees,1,3,N,10017,186
+20/04/2021,Tue,Minnesota Twins,Oakland Athletics,0,7,D,0,135
+20/04/2021,Tue,Minnesota Twins,Oakland Athletics,0,1,N,3322,128
+20/04/2021,Tue,Los Angeles Dodgers,Seattle Mariners,1,0,D,8998,148
+21/04/2021,Wed,New York Mets,Chicago Cubs,4,16,N,10196,207
+21/04/2021,Wed,Arizona D'Backs,Cincinnati Reds,8,5,N,8025,220
+21/04/2021,Wed,Houston Astros,Colorado Rockies,3,6,D,7120,154
+21/04/2021,Wed,Baltimore Orioles,Miami Marlins,0,3,D,4028,162
+21/04/2021,Wed,San Francisco Giants,Philadelphia Phillies,5,6,D,9537,195
+21/04/2021,Wed,Milwaukee Brewers,San Diego Padres,4,2,D,15250,220
+21/04/2021,Wed,St. Louis Cardinals,Washington Nationals,0,1,D,7769,181
+21/04/2021,Wed,Texas Rangers,Los Angeles Angels,7,4,D,9207,200
+21/04/2021,Wed,Toronto Blue Jays,Boston Red Sox,6,3,N,4661,225
+21/04/2021,Wed,Pittsburgh Pirates,Detroit Tigers,3,2,D,7356,136
+21/04/2021,Wed,Pittsburgh Pirates,Detroit Tigers,2,5,N,7461,115
+21/04/2021,Wed,Tampa Bay Rays,Kansas City Royals,8,9,N,5053,193
+21/04/2021,Wed,Atlanta Braves,New York Yankees,4,1,N,9634,196
+21/04/2021,Wed,Minnesota Twins,Oakland Athletics,12,13,D,3405,256
+22/04/2021,Thu,New York Mets,Chicago Cubs,3,4,N,10343,221
+22/04/2021,Thu,Arizona D'Backs,Cincinnati Reds,14,11,D,7549,266
+22/04/2021,Thu,San Diego Padres,Los Angeles Dodgers,3,2,N,15167,182
+22/04/2021,Thu,Miami Marlins,San Francisco Giants,0,3,N,4580,146
+22/04/2021,Thu,Seattle Mariners,Boston Red Sox,7,3,N,4617,208
+22/04/2021,Thu,New York Yankees,Cleveland Indians,6,3,N,6380,211
+22/04/2021,Thu,Pittsburgh Pirates,Detroit Tigers,4,2,D,7314,174
+22/04/2021,Thu,Los Angeles Angels,Houston Astros,2,8,N,13985,223
+23/04/2021,Fri,Arizona D'Backs,Atlanta Braves,4,5,N,19258,167
+23/04/2021,Fri,Milwaukee Brewers,Chicago Cubs,2,15,D,10343,186
+23/04/2021,Fri,Philadelphia Phillies,Colorado Rockies,4,5,N,14025,202
+23/04/2021,Fri,San Diego Padres,Los Angeles Dodgers,6,1,N,15222,172
+23/04/2021,Fri,Washington Nationals,New York Mets,0,6,N,8130,157
+23/04/2021,Fri,Miami Marlins,San Francisco Giants,3,5,N,6657,161
+23/04/2021,Fri,Cincinnati Reds,St. Louis Cardinals,4,5,N,13196,195
+23/04/2021,Fri,Oakland Athletics,Baltimore Orioles,3,1,N,7574,173
+23/04/2021,Fri,Seattle Mariners,Boston Red Sox,5,6,N,4646,208
+23/04/2021,Fri,Texas Rangers,Chicago White Sox,7,9,N,8969,224
+23/04/2021,Fri,New York Yankees,Cleveland Indians,5,3,N,8662,197
+23/04/2021,Fri,Kansas City Royals,Detroit Tigers,6,2,N,8000,182
+23/04/2021,Fri,Los Angeles Angels,Houston Astros,4,5,N,21728,213
+23/04/2021,Fri,Pittsburgh Pirates,Minnesota Twins,0,2,N,9541,137
+23/04/2021,Fri,Toronto Blue Jays,Tampa Bay Rays,5,3,N,5564,166
+24/04/2021,Sat,Milwaukee Brewers,Chicago Cubs,4,3,D,10343,212
+24/04/2021,Sat,Philadelphia Phillies,Colorado Rockies,7,5,N,20214,191
+24/04/2021,Sat,San Diego Padres,Los Angeles Dodgers,4,5,N,15596,233
+24/04/2021,Sat,Washington Nationals,New York Mets,7,1,D,8051,200
+24/04/2021,Sat,Miami Marlins,San Francisco Giants,5,2,N,8282,166
+24/04/2021,Sat,Cincinnati Reds,St. Louis Cardinals,0,2,D,13176,153
+24/04/2021,Sat,Oakland Athletics,Baltimore Orioles,7,2,N,7616,199
+24/04/2021,Sat,Seattle Mariners,Boston Red Sox,8,2,D,4621,185
+24/04/2021,Sat,Texas Rangers,Chicago White Sox,1,2,N,8556,178
+24/04/2021,Sat,New York Yankees,Cleveland Indians,2,1,N,8817,185
+24/04/2021,Sat,Kansas City Royals,Detroit Tigers,2,1,D,8000,130
+24/04/2021,Sat,Los Angeles Angels,Houston Astros,2,16,D,21820,200
+24/04/2021,Sat,Pittsburgh Pirates,Minnesota Twins,6,2,D,9718,163
+24/04/2021,Sat,Toronto Blue Jays,Tampa Bay Rays,3,5,N,6688,190
+25/04/2021,Sun,Arizona D'Backs,Atlanta Braves,5,0,D,0,130
+25/04/2021,Sun,Arizona D'Backs,Atlanta Braves,7,0,N,20693,131
+25/04/2021,Sun,Milwaukee Brewers,Chicago Cubs,6,0,D,10343,203
+25/04/2021,Sun,Philadelphia Phillies,Colorado Rockies,2,12,D,20244,196
+25/04/2021,Sun,San Diego Padres,Los Angeles Dodgers,8,7,D,15316,299
+25/04/2021,Sun,Washington Nationals,New York Mets,0,4,D,7784,162
+25/04/2021,Sun,Miami Marlins,San Francisco Giants,3,4,D,7572,190
+25/04/2021,Sun,Cincinnati Reds,St. Louis Cardinals,2,5,D,13348,169
+25/04/2021,Sun,Oakland Athletics,Baltimore Orioles,1,8,D,8107,176
+25/04/2021,Sun,Seattle Mariners,Boston Red Sox,3,5,D,4510,164
+25/04/2021,Sun,Texas Rangers,Chicago White Sox,4,8,D,9285,212
+25/04/2021,Sun,New York Yankees,Cleveland Indians,3,7,D,8766,187
+25/04/2021,Sun,Kansas City Royals,Detroit Tigers,4,0,D,8000,203
+25/04/2021,Sun,Los Angeles Angels,Houston Astros,4,2,D,21781,184
+25/04/2021,Sun,Pittsburgh Pirates,Minnesota Twins,6,2,D,9396,211
+25/04/2021,Sun,Toronto Blue Jays,Tampa Bay Rays,1,0,D,6372,193
+26/04/2021,Mon,Chicago Cubs,Atlanta Braves,7,8,N,17956,209
+26/04/2021,Mon,Cincinnati Reds,Los Angeles Dodgers,5,3,N,15199,229
+26/04/2021,Mon,Miami Marlins,Milwaukee Brewers,8,0,N,10749,200
+26/04/2021,Mon,Colorado Rockies,San Francisco Giants,0,12,N,4129,147
+26/04/2021,Mon,Philadelphia Phillies,St. Louis Cardinals,2,1,N,12866,142
+26/04/2021,Mon,New York Yankees,Baltimore Orioles,2,4,N,6367,161
+26/04/2021,Mon,Minnesota Twins,Cleveland Indians,3,5,N,4555,190
+26/04/2021,Mon,Kansas City Royals,Detroit Tigers,3,2,D,7288,176
+26/04/2021,Mon,Seattle Mariners,Houston Astros,2,5,N,11862,187
+26/04/2021,Mon,Oakland Athletics,Tampa Bay Rays,2,1,N,2981,171
+26/04/2021,Mon,Los Angeles Angels,Texas Rangers,9,4,N,17766,186
+27/04/2021,Tue,San Diego Padres,Arizona D'Backs,1,5,N,10486,173
+27/04/2021,Tue,Chicago Cubs,Atlanta Braves,0,5,N,17603,166
+27/04/2021,Tue,Cincinnati Reds,Los Angeles Dodgers,6,5,N,15306,194
+27/04/2021,Tue,Miami Marlins,Milwaukee Brewers,4,5,N,10620,195
+27/04/2021,Tue,Boston Red Sox,New York Mets,2,1,N,7917,158
+27/04/2021,Tue,Kansas City Royals,Pittsburgh Pirates,1,2,N,5510,140
+27/04/2021,Tue,Colorado Rockies,San Francisco Giants,7,5,N,5595,210
+27/04/2021,Tue,Philadelphia Phillies,St. Louis Cardinals,2,5,N,12895,162
+27/04/2021,Tue,New York Yankees,Baltimore Orioles,5,1,N,6662,173
+27/04/2021,Tue,Detroit Tigers,Chicago White Sox,5,2,N,9445,190
+27/04/2021,Tue,Minnesota Twins,Cleveland Indians,4,7,N,6303,187
+27/04/2021,Tue,Seattle Mariners,Houston Astros,0,2,N,14413,160
+27/04/2021,Tue,Oakland Athletics,Tampa Bay Rays,3,4,N,2924,176
+27/04/2021,Tue,Los Angeles Angels,Texas Rangers,1,6,N,16103,170
+27/04/2021,Tue,Washington Nationals,Toronto Blue Jays,5,9,N,1471,176
+28/04/2021,Wed,San Diego Padres,Arizona D'Backs,12,3,N,9495,185
+28/04/2021,Wed,Chicago Cubs,Atlanta Braves,0,10,N,18709,176
+28/04/2021,Wed,Cincinnati Reds,Los Angeles Dodgers,0,8,D,15052,195
+28/04/2021,Wed,Miami Marlins,Milwaukee Brewers,6,2,D,11564,184
+28/04/2021,Wed,Boston Red Sox,New York Mets,1,0,N,8051,176
+28/04/2021,Wed,Kansas City Royals,Pittsburgh Pirates,9,6,N,4226,235
+28/04/2021,Wed,Colorado Rockies,San Francisco Giants,3,7,N,6163,200
+28/04/2021,Wed,Philadelphia Phillies,St. Louis Cardinals,5,3,N,12701,199
+28/04/2021,Wed,New York Yankees,Baltimore Orioles,7,0,N,7338,153
+28/04/2021,Wed,Minnesota Twins,Cleveland Indians,10,2,D,5903,180
+28/04/2021,Wed,Seattle Mariners,Houston Astros,5,7,N,12707,209
+28/04/2021,Wed,Oakland Athletics,Tampa Bay Rays,0,2,N,3374,165
+28/04/2021,Wed,Los Angeles Angels,Texas Rangers,4,3,N,17875,168
+28/04/2021,Wed,Washington Nationals,Toronto Blue Jays,8,2,N,1274,173
+29/04/2021,Thu,Colorado Rockies,Arizona D'Backs,3,5,N,6843,181
+29/04/2021,Thu,Chicago Cubs,Atlanta Braves,9,3,N,19661,195
+29/04/2021,Thu,Los Angeles Dodgers,Milwaukee Brewers,1,2,N,10621,165
+29/04/2021,Thu,Philadelphia Phillies,St. Louis Cardinals,3,4,D,13159,190
+29/04/2021,Thu,New York Yankees,Baltimore Orioles,3,4,D,7738,210
+29/04/2021,Thu,Detroit Tigers,Chicago White Sox,1,3,D,0,110
+29/04/2021,Thu,Detroit Tigers,Chicago White Sox,0,11,N,7628,162
+29/04/2021,Thu,Seattle Mariners,Houston Astros,1,0,D,14149,163
+29/04/2021,Thu,Oakland Athletics,Tampa Bay Rays,3,2,D,3737,184
+29/04/2021,Thu,Boston Red Sox,Texas Rangers,1,4,N,23640,169
+30/04/2021,Fri,Colorado Rockies,Arizona D'Backs,2,7,N,13184,178
+30/04/2021,Fri,Chicago Cubs,Cincinnati Reds,6,8,N,16090,201
+30/04/2021,Fri,Los Angeles Dodgers,Milwaukee Brewers,1,3,N,12044,164
+30/04/2021,Fri,New York Mets,Philadelphia Phillies,1,2,N,10914,200
+30/04/2021,Fri,St. Louis Cardinals,Pittsburgh Pirates,7,3,N,5953,199
+30/04/2021,Fri,San Francisco Giants,San Diego Padres,2,3,N,15250,195
+30/04/2021,Fri,Miami Marlins,Washington Nationals,1,2,N,8295,182
+30/04/2021,Fri,Cleveland Indians,Chicago White Sox,5,3,N,9405,175
+30/04/2021,Fri,Kansas City Royals,Minnesota Twins,1,9,N,9982,189
+30/04/2021,Fri,Detroit Tigers,New York Yankees,0,10,N,9523,183
+30/04/2021,Fri,Baltimore Orioles,Oakland Athletics,3,2,N,5777,160
+30/04/2021,Fri,Los Angeles Angels,Seattle Mariners,4,7,N,8632,200
+30/04/2021,Fri,Houston Astros,Tampa Bay Rays,9,2,N,6169,190
+30/04/2021,Fri,Boston Red Sox,Texas Rangers,6,1,N,28267,165
+30/04/2021,Fri,Atlanta Braves,Toronto Blue Jays,5,13,N,1629,197
+01/05/2021,Sat,Colorado Rockies,Arizona D'Backs,14,6,N,15734,221
+01/05/2021,Sat,Chicago Cubs,Cincinnati Reds,3,2,D,17077,197
+01/05/2021,Sat,Los Angeles Dodgers,Milwaukee Brewers,5,6,N,12139,288
+01/05/2021,Sat,New York Mets,Philadelphia Phillies,5,4,N,10948,176
+01/05/2021,Sat,St. Louis Cardinals,Pittsburgh Pirates,12,5,N,7331,223
+01/05/2021,Sat,San Francisco Giants,San Diego Padres,2,6,N,15250,176
+01/05/2021,Sat,Miami Marlins,Washington Nationals,2,7,D,8510,179
+01/05/2021,Sat,Cleveland Indians,Chicago White Sox,3,7,D,9451,182
+01/05/2021,Sat,Kansas City Royals,Minnesota Twins,11,3,D,9993,179
+01/05/2021,Sat,Detroit Tigers,New York Yankees,4,6,D,10015,205
+01/05/2021,Sat,Baltimore Orioles,Oakland Athletics,8,4,D,6469,190
+01/05/2021,Sat,Los Angeles Angels,Seattle Mariners,10,5,N,8993,196
+01/05/2021,Sat,Houston Astros,Tampa Bay Rays,3,1,D,7335,160
+01/05/2021,Sat,Boston Red Sox,Texas Rangers,6,8,N,35129,199
+01/05/2021,Sat,Atlanta Braves,Toronto Blue Jays,5,6,N,1634,214
+02/05/2021,Sun,Colorado Rockies,Arizona D'Backs,4,8,D,11395,209
+02/05/2021,Sun,Chicago Cubs,Cincinnati Reds,12,13,D,16755,237
+02/05/2021,Sun,Los Angeles Dodgers,Milwaukee Brewers,16,4,D,12130,191
+02/05/2021,Sun,New York Mets,Philadelphia Phillies,8,7,N,10964,234
+02/05/2021,Sun,St. Louis Cardinals,Pittsburgh Pirates,3,0,D,7343,161
+02/05/2021,Sun,San Francisco Giants,San Diego Padres,7,1,D,15250,190
+02/05/2021,Sun,Miami Marlins,Washington Nationals,1,3,D,8482,157
+02/05/2021,Sun,Cleveland Indians,Chicago White Sox,5,0,D,9471,199
+02/05/2021,Sun,Kansas City Royals,Minnesota Twins,4,13,D,9997,182
+02/05/2021,Sun,Detroit Tigers,New York Yankees,0,2,D,10021,134
+02/05/2021,Sun,Baltimore Orioles,Oakland Athletics,5,7,D,5862,183
+02/05/2021,Sun,Los Angeles Angels,Seattle Mariners,0,2,D,9000,185
+02/05/2021,Sun,Houston Astros,Tampa Bay Rays,4,5,D,6933,201
+02/05/2021,Sun,Boston Red Sox,Texas Rangers,3,5,D,29190,177
+02/05/2021,Sun,Atlanta Braves,Toronto Blue Jays,2,7,D,1554,189
+03/05/2021,Mon,Milwaukee Brewers,Philadelphia Phillies,3,4,N,10651,198
+03/05/2021,Mon,Pittsburgh Pirates,San Diego Padres,0,2,N,15250,161
+03/05/2021,Mon,New York Mets,St. Louis Cardinals,5,6,N,12686,200
+03/05/2021,Mon,Tampa Bay Rays,Los Angeles Angels,7,3,N,10641,211
+03/05/2021,Mon,Cleveland Indians,Kansas City Royals,8,6,N,6919,220
+03/05/2021,Mon,Texas Rangers,Minnesota Twins,5,6,N,8071,185
+03/05/2021,Mon,Toronto Blue Jays,Oakland Athletics,4,5,N,2944,165
+03/05/2021,Mon,Baltimore Orioles,Seattle Mariners,5,3,N,5776,175
+04/05/2021,Tue,Los Angeles Dodgers,Chicago Cubs,1,7,D,10295,137
+04/05/2021,Tue,Los Angeles Dodgers,Chicago Cubs,3,4,N,10343,226
+04/05/2021,Tue,Chicago White Sox,Cincinnati Reds,9,0,N,10209,197
+04/05/2021,Tue,San Francisco Giants,Colorado Rockies,12,4,D,0,158
+04/05/2021,Tue,San Francisco Giants,Colorado Rockies,6,8,N,10213,184
+04/05/2021,Tue,Arizona D'Backs,Miami Marlins,3,9,N,3898,197
+04/05/2021,Tue,Milwaukee Brewers,Philadelphia Phillies,5,6,N,10388,201
+04/05/2021,Tue,Pittsburgh Pirates,San Diego Padres,2,1,N,15250,179
+04/05/2021,Tue,Atlanta Braves,Washington Nationals,6,1,N,8156,175
+04/05/2021,Tue,Tampa Bay Rays,Los Angeles Angels,8,3,N,8152,209
+04/05/2021,Tue,Detroit Tigers,Boston Red Sox,7,11,N,4677,218
+04/05/2021,Tue,Cleveland Indians,Kansas City Royals,7,3,N,5997,219
+04/05/2021,Tue,Texas Rangers,Minnesota Twins,6,3,N,8022,204
+04/05/2021,Tue,Houston Astros,New York Yankees,3,7,N,10850,207
+04/05/2021,Tue,Toronto Blue Jays,Oakland Athletics,1,4,N,2970,138
+04/05/2021,Tue,Baltimore Orioles,Seattle Mariners,2,5,N,6504,195
+05/05/2021,Wed,Los Angeles Dodgers,Chicago Cubs,5,6,N,10343,263
+05/05/2021,Wed,Chicago White Sox,Cincinnati Reds,0,1,D,10247,190
+05/05/2021,Wed,San Francisco Giants,Colorado Rockies,5,6,D,9521,188
+05/05/2021,Wed,Arizona D'Backs,Miami Marlins,0,8,N,3573,177
+05/05/2021,Wed,Milwaukee Brewers,Philadelphia Phillies,4,5,N,10110,187
+05/05/2021,Wed,Pittsburgh Pirates,San Diego Padres,2,4,N,15250,201
+05/05/2021,Wed,New York Mets,St. Louis Cardinals,1,4,D,0,148
+05/05/2021,Wed,New York Mets,St. Louis Cardinals,7,2,N,13187,160
+05/05/2021,Wed,Atlanta Braves,Washington Nationals,5,3,N,8400,169
+05/05/2021,Wed,Tampa Bay Rays,Los Angeles Angels,3,1,N,9169,196
+05/05/2021,Wed,Detroit Tigers,Boston Red Sox,6,5,N,4661,227
+05/05/2021,Wed,Cleveland Indians,Kansas City Royals,5,4,N,9640,189
+05/05/2021,Wed,Texas Rangers,Minnesota Twins,3,1,N,7853,184
+05/05/2021,Wed,Houston Astros,New York Yankees,3,6,N,9895,215
+05/05/2021,Wed,Toronto Blue Jays,Oakland Athletics,9,4,N,2893,184
+05/05/2021,Wed,Baltimore Orioles,Seattle Mariners,6,0,D,6742,145
+06/05/2021,Thu,Arizona D'Backs,Miami Marlins,1,3,N,4049,164
+06/05/2021,Thu,Milwaukee Brewers,Philadelphia Phillies,0,2,D,10768,161
+06/05/2021,Thu,New York Mets,St. Louis Cardinals,4,1,D,12939,199
+06/05/2021,Thu,Atlanta Braves,Washington Nationals,3,2,D,8561,173
+06/05/2021,Thu,Tampa Bay Rays,Los Angeles Angels,8,3,N,8840,183
+06/05/2021,Thu,Detroit Tigers,Boston Red Sox,9,12,D,4734,253
+06/05/2021,Thu,Cleveland Indians,Kansas City Royals,4,0,D,9259,190
+06/05/2021,Thu,Texas Rangers,Minnesota Twins,4,3,D,8760,205
+06/05/2021,Thu,Houston Astros,New York Yankees,7,4,D,10042,194
+06/05/2021,Thu,Toronto Blue Jays,Oakland Athletics,10,4,D,3611,190
+07/05/2021,Fri,Philadelphia Phillies,Atlanta Braves,12,2,N,38952,203
+07/05/2021,Fri,Pittsburgh Pirates,Chicago Cubs,2,3,D,10343,187
+07/05/2021,Fri,Milwaukee Brewers,Miami Marlins,1,6,N,5507,179
+07/05/2021,Fri,Arizona D'Backs,New York Mets,4,5,N,7662,232
+07/05/2021,Fri,San Diego Padres,San Francisco Giants,4,5,N,9219,214
+07/05/2021,Fri,Colorado Rockies,St. Louis Cardinals,0,5,N,13435,162
+07/05/2021,Fri,Los Angeles Dodgers,Los Angeles Angels,2,9,N,15316,185
+07/05/2021,Fri,Boston Red Sox,Baltimore Orioles,6,2,N,7724,205
+07/05/2021,Fri,Cincinnati Reds,Cleveland Indians,3,0,N,7803,154
+07/05/2021,Fri,Minnesota Twins,Detroit Tigers,7,3,N,7377,201
+07/05/2021,Fri,Toronto Blue Jays,Houston Astros,4,10,N,25410,194
+07/05/2021,Fri,Chicago White Sox,Kansas City Royals,3,0,N,16011,186
+07/05/2021,Fri,Washington Nationals,New York Yankees,11,4,N,10010,181
+07/05/2021,Fri,Tampa Bay Rays,Oakland Athletics,1,2,N,5058,148
+07/05/2021,Fri,Seattle Mariners,Texas Rangers,5,4,N,26047,177
+08/05/2021,Sat,Philadelphia Phillies,Atlanta Braves,7,8,N,39852,287
+08/05/2021,Sat,Pittsburgh Pirates,Chicago Cubs,2,3,D,10343,193
+08/05/2021,Sat,Milwaukee Brewers,Miami Marlins,6,2,N,5764,182
+08/05/2021,Sat,Arizona D'Backs,New York Mets,2,4,N,7908,210
+08/05/2021,Sat,San Diego Padres,San Francisco Giants,1,7,D,9764,182
+08/05/2021,Sat,Colorado Rockies,St. Louis Cardinals,8,9,D,13390,219
+08/05/2021,Sat,Los Angeles Dodgers,Los Angeles Angels,14,11,N,15274,243
+08/05/2021,Sat,Boston Red Sox,Baltimore Orioles,11,6,N,10598,205
+08/05/2021,Sat,Cincinnati Reds,Cleveland Indians,2,9,N,9968,188
+08/05/2021,Sat,Minnesota Twins,Detroit Tigers,3,7,D,8000,218
+08/05/2021,Sat,Toronto Blue Jays,Houston Astros,8,4,N,25794,189
+08/05/2021,Sat,Chicago White Sox,Kansas City Royals,9,1,N,15895,184
+08/05/2021,Sat,Washington Nationals,New York Yankees,3,4,D,10850,230
+08/05/2021,Sat,Tampa Bay Rays,Oakland Athletics,3,6,D,7707,192
+08/05/2021,Sat,Seattle Mariners,Texas Rangers,8,9,N,26616,205
+09/05/2021,Sun,Philadelphia Phillies,Atlanta Braves,1,6,N,28829,164
+09/05/2021,Sun,Pittsburgh Pirates,Chicago Cubs,6,5,D,10343,183
+09/05/2021,Sun,Milwaukee Brewers,Miami Marlins,2,1,D,5105,195
+09/05/2021,Sun,Arizona D'Backs,New York Mets,2,4,D,7880,207
+09/05/2021,Sun,San Diego Padres,San Francisco Giants,11,1,D,10008,188
+09/05/2021,Sun,Colorado Rockies,St. Louis Cardinals,0,2,D,13380,168
+09/05/2021,Sun,Los Angeles Dodgers,Los Angeles Angels,1,2,D,15294,206
+09/05/2021,Sun,Boston Red Sox,Baltimore Orioles,4,3,D,10274,177
+09/05/2021,Sun,Toronto Blue Jays,Houston Astros,4,7,D,24355,210
+09/05/2021,Sun,Chicago White Sox,Kansas City Royals,9,3,D,12102,209
+09/05/2021,Sun,Washington Nationals,New York Yankees,2,3,D,10092,184
+09/05/2021,Sun,Tampa Bay Rays,Oakland Athletics,4,3,D,6911,160
+09/05/2021,Sun,Seattle Mariners,Texas Rangers,2,10,D,30632,183
+10/05/2021,Mon,Miami Marlins,Arizona D'Backs,2,5,N,6307,167
+10/05/2021,Mon,Cincinnati Reds,Pittsburgh Pirates,14,1,N,4065,199
+10/05/2021,Mon,Texas Rangers,San Francisco Giants,1,3,N,7450,167
+10/05/2021,Mon,Boston Red Sox,Baltimore Orioles,1,4,N,6826,165
+10/05/2021,Mon,Los Angeles Angels,Houston Astros,5,4,N,13695,237
+11/05/2021,Tue,Miami Marlins,Arizona D'Backs,3,11,N,5560,182
+11/05/2021,Tue,Toronto Blue Jays,Atlanta Braves,5,3,N,21688,195
+11/05/2021,Tue,San Diego Padres,Colorado Rockies,8,1,N,8825,184
+11/05/2021,Tue,Seattle Mariners,Los Angeles Dodgers,4,6,N,15570,174
+11/05/2021,Tue,St. Louis Cardinals,Milwaukee Brewers,6,1,N,10595,235
+11/05/2021,Tue,Baltimore Orioles,New York Mets,2,3,N,7930,193
+11/05/2021,Tue,Cincinnati Reds,Pittsburgh Pirates,2,7,N,4049,188
+11/05/2021,Tue,Texas Rangers,San Francisco Giants,2,4,D,7268,180
+11/05/2021,Tue,Philadelphia Phillies,Washington Nationals,6,2,N,8559,238
+11/05/2021,Tue,Oakland Athletics,Boston Red Sox,3,2,N,9264,181
+11/05/2021,Tue,Minnesota Twins,Chicago White Sox,3,9,N,7962,203
+11/05/2021,Tue,Chicago Cubs,Cleveland Indians,2,3,N,8024,176
+11/05/2021,Tue,Kansas City Royals,Detroit Tigers,7,8,N,7312,220
+11/05/2021,Tue,Los Angeles Angels,Houston Astros,1,5,N,17350,153
+11/05/2021,Tue,New York Yankees,Tampa Bay Rays,3,1,N,5441,170
+12/05/2021,Wed,Miami Marlins,Arizona D'Backs,3,2,N,5714,161
+12/05/2021,Wed,Toronto Blue Jays,Atlanta Braves,4,1,N,21171,162
+12/05/2021,Wed,San Diego Padres,Colorado Rockies,5,3,D,0,189
+12/05/2021,Wed,San Diego Padres,Colorado Rockies,2,3,N,11968,175
+12/05/2021,Wed,Seattle Mariners,Los Angeles Dodgers,1,7,N,15586,177
+12/05/2021,Wed,St. Louis Cardinals,Milwaukee Brewers,1,4,N,10226,187
+12/05/2021,Wed,Baltimore Orioles,New York Mets,1,7,D,8035,159
+12/05/2021,Wed,Cincinnati Reds,Pittsburgh Pirates,5,1,D,4515,235
+12/05/2021,Wed,Philadelphia Phillies,Washington Nationals,5,2,N,8610,226
+12/05/2021,Wed,Oakland Athletics,Boston Red Sox,4,1,N,9272,179
+12/05/2021,Wed,Minnesota Twins,Chicago White Sox,8,13,N,8393,225
+12/05/2021,Wed,Chicago Cubs,Cleveland Indians,1,2,D,8589,230
+12/05/2021,Wed,Kansas City Royals,Detroit Tigers,2,4,N,7133,162
+12/05/2021,Wed,Los Angeles Angels,Houston Astros,1,9,N,13668,172
+12/05/2021,Wed,New York Yankees,Tampa Bay Rays,1,0,N,5668,156
+13/05/2021,Thu,Miami Marlins,Arizona D'Backs,5,1,N,5967,175
+13/05/2021,Thu,Toronto Blue Jays,Atlanta Braves,8,4,D,21653,194
+13/05/2021,Thu,Cincinnati Reds,Colorado Rockies,8,13,N,13647,216
+13/05/2021,Thu,St. Louis Cardinals,Milwaukee Brewers,2,0,D,10554,211
+13/05/2021,Thu,San Francisco Giants,Pittsburgh Pirates,3,1,N,4099,172
+13/05/2021,Thu,Philadelphia Phillies,Washington Nationals,1,5,D,8710,158
+13/05/2021,Thu,Oakland Athletics,Boston Red Sox,1,8,N,9301,174
+13/05/2021,Thu,Minnesota Twins,Chicago White Sox,2,4,D,8188,211
+13/05/2021,Thu,Kansas City Royals,Detroit Tigers,3,4,D,7369,191
+13/05/2021,Thu,Texas Rangers,Houston Astros,3,4,N,16340,224
+13/05/2021,Thu,Cleveland Indians,Seattle Mariners,4,2,N,9880,156
+13/05/2021,Thu,New York Yankees,Tampa Bay Rays,1,9,N,6229,185
+14/05/2021,Fri,Washington Nationals,Arizona D'Backs,17,2,N,11907,194
+14/05/2021,Fri,Cincinnati Reds,Colorado Rockies,6,9,N,20232,200
+14/05/2021,Fri,Miami Marlins,Los Angeles Dodgers,6,9,N,15915,198
+14/05/2021,Fri,Atlanta Braves,Milwaukee Brewers,6,3,N,12130,203
+14/05/2021,Fri,San Francisco Giants,Pittsburgh Pirates,2,3,N,6743,200
+14/05/2021,Fri,St. Louis Cardinals,San Diego Padres,4,5,N,15250,248
+14/05/2021,Fri,New York Yankees,Baltimore Orioles,5,4,N,10809,175
+14/05/2021,Fri,Los Angeles Angels,Boston Red Sox,3,4,N,9284,165
+14/05/2021,Fri,Kansas City Royals,Chicago White Sox,6,2,D,8574,148
+14/05/2021,Fri,Kansas City Royals,Chicago White Sox,1,3,N,9823,150
+14/05/2021,Fri,Chicago Cubs,Detroit Tigers,4,2,N,8000,151
+14/05/2021,Fri,Texas Rangers,Houston Astros,4,10,N,24495,181
+14/05/2021,Fri,Oakland Athletics,Minnesota Twins,6,1,N,9778,180
+14/05/2021,Fri,Cleveland Indians,Seattle Mariners,3,7,N,10014,186
+14/05/2021,Fri,New York Mets,Tampa Bay Rays,2,3,N,7123,174
+14/05/2021,Fri,Philadelphia Phillies,Toronto Blue Jays,5,1,N,1171,218
+15/05/2021,Sat,Washington Nationals,Arizona D'Backs,4,11,N,13462,207
+15/05/2021,Sat,Cincinnati Reds,Colorado Rockies,6,5,N,20136,250
+15/05/2021,Sat,Miami Marlins,Los Angeles Dodgers,0,7,N,16116,191
+15/05/2021,Sat,Atlanta Braves,Milwaukee Brewers,5,1,N,16344,174
+15/05/2021,Sat,San Francisco Giants,Pittsburgh Pirates,6,8,N,7833,216
+15/05/2021,Sat,St. Louis Cardinals,San Diego Padres,3,13,N,15250,211
+15/05/2021,Sat,New York Yankees,Baltimore Orioles,8,2,N,10767,183
+15/05/2021,Sat,Los Angeles Angels,Boston Red Sox,0,9,D,9374,172
+15/05/2021,Sat,Kansas City Royals,Chicago White Sox,5,1,N,9886,201
+15/05/2021,Sat,Chicago Cubs,Detroit Tigers,8,9,D,8000,246
+15/05/2021,Sat,Texas Rangers,Houston Astros,5,6,N,25858,206
+15/05/2021,Sat,Oakland Athletics,Minnesota Twins,4,5,D,12212,171
+15/05/2021,Sat,Cleveland Indians,Seattle Mariners,3,7,N,10311,189
+15/05/2021,Sat,New York Mets,Tampa Bay Rays,5,12,D,7536,181
+15/05/2021,Sat,Philadelphia Phillies,Toronto Blue Jays,0,4,N,1397,193
+16/05/2021,Sun,Washington Nationals,Arizona D'Backs,3,0,D,11619,169
+16/05/2021,Sun,Cincinnati Reds,Colorado Rockies,7,6,D,15541,236
+16/05/2021,Sun,Miami Marlins,Los Angeles Dodgers,3,2,D,15976,203
+16/05/2021,Sun,Atlanta Braves,Milwaukee Brewers,9,10,D,16044,225
+16/05/2021,Sun,San Francisco Giants,Pittsburgh Pirates,4,1,D,7356,193
+16/05/2021,Sun,St. Louis Cardinals,San Diego Padres,3,5,D,15250,212
+16/05/2021,Sun,New York Yankees,Baltimore Orioles,6,10,D,11070,193
+16/05/2021,Sun,Los Angeles Angels,Boston Red Sox,6,5,D,9316,199
+16/05/2021,Sun,Kansas City Royals,Chicago White Sox,3,4,D,9928,201
+16/05/2021,Sun,Chicago Cubs,Detroit Tigers,5,1,D,8000,172
+16/05/2021,Sun,Texas Rangers,Houston Astros,2,6,D,26069,183
+16/05/2021,Sun,Oakland Athletics,Minnesota Twins,7,6,D,10270,213
+16/05/2021,Sun,Cleveland Indians,Seattle Mariners,2,3,D,10287,216
+16/05/2021,Sun,New York Mets,Tampa Bay Rays,1,7,D,7355,152
+16/05/2021,Sun,Philadelphia Phillies,Toronto Blue Jays,8,10,D,1107,225
+17/05/2021,Mon,New York Mets,Atlanta Braves,3,1,N,22691,194
+17/05/2021,Mon,Washington Nationals,Chicago Cubs,3,7,N,11144,173
+17/05/2021,Mon,San Francisco Giants,Cincinnati Reds,6,3,N,11004,182
+17/05/2021,Mon,Arizona D'Backs,Los Angeles Dodgers,1,3,N,14088,185
+17/05/2021,Mon,Colorado Rockies,San Diego Padres,0,7,N,15250,175
+17/05/2021,Mon,Cleveland Indians,Los Angeles Angels,4,7,N,9527,203
+17/05/2021,Mon,Chicago White Sox,Minnesota Twins,16,4,N,8431,191
+17/05/2021,Mon,Detroit Tigers,Seattle Mariners,4,1,N,7201,154
+17/05/2021,Mon,New York Yankees,Texas Rangers,2,5,N,28040,158
+18/05/2021,Tue,New York Mets,Atlanta Braves,4,3,N,21667,156
+18/05/2021,Tue,Washington Nationals,Chicago Cubs,3,6,N,11142,202
+18/05/2021,Tue,San Francisco Giants,Cincinnati Reds,4,2,N,8745,172
+18/05/2021,Tue,Arizona D'Backs,Los Angeles Dodgers,1,9,N,15313,170
+18/05/2021,Tue,Miami Marlins,Philadelphia Phillies,3,8,N,11114,214
+18/05/2021,Tue,Colorado Rockies,San Diego Padres,1,2,N,15250,220
+18/05/2021,Tue,Pittsburgh Pirates,St. Louis Cardinals,2,5,N,14005,173
+18/05/2021,Tue,Cleveland Indians,Los Angeles Angels,6,5,N,9491,168
+18/05/2021,Tue,Tampa Bay Rays,Baltimore Orioles,13,6,N,5429,222
+18/05/2021,Tue,Milwaukee Brewers,Kansas City Royals,0,2,N,9298,168
+18/05/2021,Tue,Chicago White Sox,Minnesota Twins,4,5,N,9504,228
+18/05/2021,Tue,Houston Astros,Oakland Athletics,5,6,N,4838,189
+18/05/2021,Tue,Detroit Tigers,Seattle Mariners,5,0,N,6883,164
+18/05/2021,Tue,New York Yankees,Texas Rangers,7,4,N,26522,211
+18/05/2021,Tue,Boston Red Sox,Toronto Blue Jays,0,8,N,1566,196
+19/05/2021,Wed,New York Mets,Atlanta Braves,4,5,N,22619,170
+19/05/2021,Wed,Washington Nationals,Chicago Cubs,4,3,N,11145,228
+19/05/2021,Wed,San Francisco Giants,Cincinnati Reds,4,0,N,10326,187
+19/05/2021,Wed,Arizona D'Backs,Los Angeles Dodgers,2,4,N,15586,176
+19/05/2021,Wed,Miami Marlins,Philadelphia Phillies,3,1,N,11549,182
+19/05/2021,Wed,Colorado Rockies,San Diego Padres,0,3,D,15250,172
+19/05/2021,Wed,Pittsburgh Pirates,St. Louis Cardinals,5,8,N,14677,226
+19/05/2021,Wed,Cleveland Indians,Los Angeles Angels,3,2,N,10378,185
+19/05/2021,Wed,Tampa Bay Rays,Baltimore Orioles,9,7,N,6581,192
+19/05/2021,Wed,Milwaukee Brewers,Kansas City Royals,4,6,N,8950,190
+19/05/2021,Wed,Chicago White Sox,Minnesota Twins,2,1,D,8608,155
+19/05/2021,Wed,Houston Astros,Oakland Athletics,8,1,N,3925,198
+19/05/2021,Wed,Detroit Tigers,Seattle Mariners,6,2,N,8462,191
+19/05/2021,Wed,New York Yankees,Texas Rangers,2,0,N,31689,142
+19/05/2021,Wed,Boston Red Sox,Toronto Blue Jays,7,3,N,1581,187
+20/05/2021,Thu,Pittsburgh Pirates,Atlanta Braves,6,4,N,21430,223
+20/05/2021,Thu,Washington Nationals,Chicago Cubs,2,5,D,11143,187
+20/05/2021,Thu,San Francisco Giants,Cincinnati Reds,19,4,D,11656,227
+20/05/2021,Thu,Arizona D'Backs,Los Angeles Dodgers,2,3,N,16105,174
+20/05/2021,Thu,Miami Marlins,Philadelphia Phillies,6,0,N,11503,188
+20/05/2021,Thu,Minnesota Twins,Los Angeles Angels,1,7,D,9920,115
+20/05/2021,Thu,Minnesota Twins,Los Angeles Angels,6,3,D,9820,169
+20/05/2021,Thu,Tampa Bay Rays,Baltimore Orioles,10,1,D,6916,194
+20/05/2021,Thu,Houston Astros,Oakland Athletics,8,4,D,4562,206
+20/05/2021,Thu,New York Yankees,Texas Rangers,2,0,D,27581,169
+20/05/2021,Thu,Boston Red Sox,Toronto Blue Jays,8,7,N,1562,205
+21/05/2021,Fri,Pittsburgh Pirates,Atlanta Braves,1,20,N,37545,189
+21/05/2021,Fri,Milwaukee Brewers,Cincinnati Reds,4,9,N,17234,209
+21/05/2021,Fri,Arizona D'Backs,Colorado Rockies,1,7,N,18158,165
+21/05/2021,Fri,New York Mets,Miami Marlins,6,5,N,7282,278
+21/05/2021,Fri,Boston Red Sox,Philadelphia Phillies,11,3,N,15279,215
+21/05/2021,Fri,Seattle Mariners,San Diego Padres,1,16,N,15250,214
+21/05/2021,Fri,Los Angeles Dodgers,San Francisco Giants,2,1,N,12753,175
+21/05/2021,Fri,Chicago Cubs,St. Louis Cardinals,12,3,N,24282,197
+21/05/2021,Fri,Baltimore Orioles,Washington Nationals,2,4,N,14369,176
+21/05/2021,Fri,Oakland Athletics,Los Angeles Angels,8,4,N,14624,195
+21/05/2021,Fri,Minnesota Twins,Cleveland Indians,10,0,N,11675,190
+21/05/2021,Fri,Detroit Tigers,Kansas City Royals,7,5,N,17080,199
+21/05/2021,Fri,Chicago White Sox,New York Yankees,1,2,N,14011,173
+21/05/2021,Fri,Houston Astros,Texas Rangers,5,7,N,30445,248
+21/05/2021,Fri,Tampa Bay Rays,Toronto Blue Jays,9,7,N,1437,266
+22/05/2021,Sat,Pittsburgh Pirates,Atlanta Braves,1,6,D,40068,171
+22/05/2021,Sat,Milwaukee Brewers,Cincinnati Reds,4,3,D,17611,187
+22/05/2021,Sat,Arizona D'Backs,Colorado Rockies,6,7,D,20183,199
+22/05/2021,Sat,New York Mets,Miami Marlins,1,3,D,7513,182
+22/05/2021,Sat,Boston Red Sox,Philadelphia Phillies,4,3,N,15424,220
+22/05/2021,Sat,Seattle Mariners,San Diego Padres,4,6,N,15250,186
+22/05/2021,Sat,Los Angeles Dodgers,San Francisco Giants,6,3,D,13660,174
+22/05/2021,Sat,Chicago Cubs,St. Louis Cardinals,1,2,N,26027,167
+22/05/2021,Sat,Baltimore Orioles,Washington Nationals,9,12,D,15440,221
+22/05/2021,Sat,Oakland Athletics,Los Angeles Angels,6,2,N,15151,182
+22/05/2021,Sat,Minnesota Twins,Cleveland Indians,3,5,D,11505,214
+22/05/2021,Sat,Detroit Tigers,Kansas City Royals,5,7,D,14226,208
+22/05/2021,Sat,Chicago White Sox,New York Yankees,0,7,D,14665,186
+22/05/2021,Sat,Houston Astros,Texas Rangers,4,8,D,38055,204
+22/05/2021,Sat,Tampa Bay Rays,Toronto Blue Jays,3,1,N,1514,171
+23/05/2021,Sun,Pittsburgh Pirates,Atlanta Braves,1,7,D,39874,150
+23/05/2021,Sun,Milwaukee Brewers,Cincinnati Reds,9,4,D,16171,210
+23/05/2021,Sun,Arizona D'Backs,Colorado Rockies,3,4,D,19221,200
+23/05/2021,Sun,New York Mets,Miami Marlins,1,5,D,7945,157
+23/05/2021,Sun,Boston Red Sox,Philadelphia Phillies,2,6,D,15360,199
+23/05/2021,Sun,Seattle Mariners,San Diego Padres,2,9,D,15250,175
+23/05/2021,Sun,Los Angeles Dodgers,San Francisco Giants,11,5,D,13346,186
+23/05/2021,Sun,Chicago Cubs,St. Louis Cardinals,2,1,N,24082,218
+23/05/2021,Sun,Baltimore Orioles,Washington Nationals,5,6,D,14618,194
+23/05/2021,Sun,Oakland Athletics,Los Angeles Angels,5,6,D,15154,201
+23/05/2021,Sun,Minnesota Twins,Cleveland Indians,8,5,D,9805,224
+23/05/2021,Sun,Detroit Tigers,Kansas City Royals,2,3,D,15540,170
+23/05/2021,Sun,Chicago White Sox,New York Yankees,4,5,D,14007,217
+23/05/2021,Sun,Houston Astros,Texas Rangers,2,3,D,36444,219
+23/05/2021,Sun,Tampa Bay Rays,Toronto Blue Jays,6,4,D,1496,183
+24/05/2021,Mon,Philadelphia Phillies,Miami Marlins,6,9,N,4527,203
+24/05/2021,Mon,San Diego Padres,Milwaukee Brewers,3,5,N,14524,192
+24/05/2021,Mon,Colorado Rockies,New York Mets,3,2,N,8438,163
+24/05/2021,Mon,St. Louis Cardinals,Chicago White Sox,1,5,N,14629,194
+24/05/2021,Mon,Cleveland Indians,Detroit Tigers,6,5,N,7832,211
+24/05/2021,Mon,Baltimore Orioles,Minnesota Twins,3,8,N,8530,189
+24/05/2021,Mon,Seattle Mariners,Oakland Athletics,4,2,N,3019,184
+24/05/2021,Mon,Tampa Bay Rays,Toronto Blue Jays,14,8,D,1641,232
+25/05/2021,Tue,San Francisco Giants,Arizona D'Backs,8,0,N,10311,196
+25/05/2021,Tue,Philadelphia Phillies,Miami Marlins,2,0,N,4864,169
+25/05/2021,Tue,San Diego Padres,Milwaukee Brewers,7,1,N,13566,186
+25/05/2021,Tue,Colorado Rockies,New York Mets,1,3,N,9190,184
+25/05/2021,Tue,Chicago Cubs,Pittsburgh Pirates,4,3,N,6750,179
+25/05/2021,Tue,Cincinnati Reds,Washington Nationals,2,1,N,8935,172
+25/05/2021,Tue,Texas Rangers,Los Angeles Angels,5,11,N,10987,179
+25/05/2021,Tue,Atlanta Braves,Boston Red Sox,3,1,N,9357,186
+25/05/2021,Tue,St. Louis Cardinals,Chicago White Sox,3,8,N,16380,203
+25/05/2021,Tue,Cleveland Indians,Detroit Tigers,4,1,N,8000,167
+25/05/2021,Tue,Los Angeles Dodgers,Houston Astros,9,2,N,34443,207
+25/05/2021,Tue,Baltimore Orioles,Minnesota Twins,4,7,N,9969,203
+25/05/2021,Tue,Toronto Blue Jays,New York Yankees,6,2,N,12025,182
+25/05/2021,Tue,Seattle Mariners,Oakland Athletics,4,3,N,2865,189
+25/05/2021,Tue,Kansas City Royals,Tampa Bay Rays,2,1,N,4946,149
+26/05/2021,Wed,San Francisco Giants,Arizona D'Backs,5,4,N,8597,183
+26/05/2021,Wed,Philadelphia Phillies,Miami Marlins,2,4,N,4760,209
+26/05/2021,Wed,San Diego Padres,Milwaukee Brewers,2,1,N,13478,184
+26/05/2021,Wed,Chicago Cubs,Pittsburgh Pirates,4,1,N,5660,174
+26/05/2021,Wed,Cincinnati Reds,Washington Nationals,3,5,D,7343,206
+26/05/2021,Wed,Texas Rangers,Los Angeles Angels,8,9,D,8547,194
+26/05/2021,Wed,Atlanta Braves,Boston Red Sox,5,9,N,9197,176
+26/05/2021,Wed,St. Louis Cardinals,Chicago White Sox,4,0,D,14791,199
+26/05/2021,Wed,Cleveland Indians,Detroit Tigers,0,1,N,7525,159
+26/05/2021,Wed,Los Angeles Dodgers,Houston Astros,2,5,N,30939,185
+26/05/2021,Wed,Baltimore Orioles,Minnesota Twins,2,3,D,10574,159
+26/05/2021,Wed,Seattle Mariners,Oakland Athletics,3,6,D,3571,181
+26/05/2021,Wed,Kansas City Royals,Tampa Bay Rays,1,2,N,4973,175
+27/05/2021,Thu,St. Louis Cardinals,Arizona D'Backs,5,4,N,8951,208
+27/05/2021,Thu,San Francisco Giants,Los Angeles Dodgers,3,4,N,16343,146
+27/05/2021,Thu,Philadelphia Phillies,Miami Marlins,3,2,D,4932,191
+27/05/2021,Thu,San Diego Padres,Milwaukee Brewers,5,6,D,13572,231
+27/05/2021,Thu,Colorado Rockies,New York Mets,0,1,D,0,114
+27/05/2021,Thu,Colorado Rockies,New York Mets,2,4,N,9569,168
+27/05/2021,Thu,Chicago Cubs,Pittsburgh Pirates,5,3,D,7202,181
+27/05/2021,Thu,Cincinnati Reds,Washington Nationals,3,0,N,9020,127
+27/05/2021,Thu,Baltimore Orioles,Chicago White Sox,1,5,N,9671,198
+27/05/2021,Thu,Cleveland Indians,Detroit Tigers,5,2,D,8000,186
+27/05/2021,Thu,Toronto Blue Jays,New York Yankees,2,0,D,0,131
+27/05/2021,Thu,Toronto Blue Jays,New York Yankees,3,5,N,14056,136
+27/05/2021,Thu,Los Angeles Angels,Oakland Athletics,0,5,N,5487,179
+27/05/2021,Thu,Texas Rangers,Seattle Mariners,0,5,N,9008,155
+27/05/2021,Thu,Kansas City Royals,Tampa Bay Rays,2,7,D,5519,158
+28/05/2021,Fri,St. Louis Cardinals,Arizona D'Backs,8,6,N,11581,208
+28/05/2021,Fri,Cincinnati Reds,Chicago Cubs,0,1,D,18478,177
+28/05/2021,Fri,San Francisco Giants,Los Angeles Dodgers,8,5,N,17873,223
+28/05/2021,Fri,Miami Marlins,Boston Red Sox,2,5,N,9005,127
+28/05/2021,Fri,Toronto Blue Jays,Cleveland Indians,11,2,N,9198,175
+28/05/2021,Fri,New York Yankees,Detroit Tigers,2,3,N,8000,214
+28/05/2021,Fri,San Diego Padres,Houston Astros,10,3,N,32045,283
+28/05/2021,Fri,Kansas City Royals,Minnesota Twins,8,3,N,14260,192
+28/05/2021,Fri,Los Angeles Angels,Oakland Athletics,1,3,N,8757,171
+28/05/2021,Fri,Texas Rangers,Seattle Mariners,2,3,N,10605,166
+29/05/2021,Sat,St. Louis Cardinals,Arizona D'Backs,7,4,N,17834,204
+29/05/2021,Sat,Cincinnati Reds,Chicago Cubs,2,10,D,24275,193
+29/05/2021,Sat,San Francisco Giants,Los Angeles Dodgers,11,6,D,19097,218
+29/05/2021,Sat,Atlanta Braves,New York Mets,2,13,N,10251,207
+29/05/2021,Sat,Colorado Rockies,Pittsburgh Pirates,0,7,D,5279,153
+29/05/2021,Sat,Colorado Rockies,Pittsburgh Pirates,0,4,D,7183,123
+29/05/2021,Sat,Milwaukee Brewers,Washington Nationals,4,1,D,9910,126
+29/05/2021,Sat,Milwaukee Brewers,Washington Nationals,6,2,N,12529,180
+29/05/2021,Sat,Miami Marlins,Boston Red Sox,1,3,D,25089,197
+29/05/2021,Sat,Baltimore Orioles,Chicago White Sox,4,7,D,0,164
+29/05/2021,Sat,Baltimore Orioles,Chicago White Sox,1,3,N,20029,132
+29/05/2021,Sat,New York Yankees,Detroit Tigers,1,6,D,8000,174
+29/05/2021,Sat,San Diego Padres,Houston Astros,11,8,D,31323,308
+29/05/2021,Sat,Kansas City Royals,Minnesota Twins,5,6,D,18444,184
+29/05/2021,Sat,Los Angeles Angels,Oakland Athletics,4,0,D,9433,177
+29/05/2021,Sat,Texas Rangers,Seattle Mariners,2,3,N,11071,163
+29/05/2021,Sat,Philadelphia Phillies,Tampa Bay Rays,3,5,D,7316,186
+30/05/2021,Sun,St. Louis Cardinals,Arizona D'Backs,2,9,D,16681,179
+30/05/2021,Sun,Cincinnati Reds,Chicago Cubs,5,1,D,24824,207
+30/05/2021,Sun,San Francisco Giants,Los Angeles Dodgers,5,4,D,18155,187
+30/05/2021,Sun,Colorado Rockies,Pittsburgh Pirates,4,3,D,7917,216
+30/05/2021,Sun,Milwaukee Brewers,Washington Nationals,3,0,D,15326,181
+30/05/2021,Sun,Baltimore Orioles,Chicago White Sox,1,3,D,21067,161
+30/05/2021,Sun,Toronto Blue Jays,Cleveland Indians,4,1,D,0,125
+30/05/2021,Sun,Toronto Blue Jays,Cleveland Indians,5,6,N,11690,128
+30/05/2021,Sun,New York Yankees,Detroit Tigers,2,6,D,8000,186
+30/05/2021,Sun,San Diego Padres,Houston Astros,4,7,D,29019,167
+30/05/2021,Sun,Kansas City Royals,Minnesota Twins,6,3,D,17923,199
+30/05/2021,Sun,Los Angeles Angels,Oakland Athletics,4,2,D,10029,200
+30/05/2021,Sun,Texas Rangers,Seattle Mariners,2,4,D,11198,180
+30/05/2021,Sun,Philadelphia Phillies,Tampa Bay Rays,2,6,D,7479,192
+31/05/2021,Mon,New York Mets,Arizona D'Backs,6,2,N,11309,178
+31/05/2021,Mon,Washington Nationals,Atlanta Braves,3,5,N,37668,185
+31/05/2021,Mon,San Diego Padres,Chicago Cubs,2,7,D,24824,173
+31/05/2021,Mon,Philadelphia Phillies,Cincinnati Reds,1,11,D,17878,173
+31/05/2021,Mon,St. Louis Cardinals,Los Angeles Dodgers,4,9,N,18071,197
+31/05/2021,Mon,Detroit Tigers,Milwaukee Brewers,2,3,D,23917,189
+31/05/2021,Mon,Los Angeles Angels,San Francisco Giants,1,6,D,13144,178
+31/05/2021,Mon,Minnesota Twins,Baltimore Orioles,3,2,D,11010,173
+31/05/2021,Mon,Chicago White Sox,Cleveland Indians,8,6,D,0,165
+31/05/2021,Mon,Chicago White Sox,Cleveland Indians,1,3,N,10726,141
+31/05/2021,Mon,Boston Red Sox,Houston Astros,2,11,D,28543,195
+31/05/2021,Mon,Pittsburgh Pirates,Kansas City Royals,3,7,N,12604,189
+31/05/2021,Mon,Tampa Bay Rays,New York Yankees,3,1,D,17008,163
+31/05/2021,Mon,Oakland Athletics,Seattle Mariners,5,6,D,11112,211
+01/06/2021,Tue,New York Mets,Arizona D'Backs,5,6,N,9590,207
+01/06/2021,Tue,Washington Nationals,Atlanta Braves,11,6,N,24083,234
+01/06/2021,Tue,San Diego Padres,Chicago Cubs,3,4,N,24824,172
+01/06/2021,Tue,Philadelphia Phillies,Cincinnati Reds,17,3,N,10788,216
+01/06/2021,Tue,Texas Rangers,Colorado Rockies,2,3,N,18028,201
+01/06/2021,Tue,St. Louis Cardinals,Los Angeles Dodgers,3,2,N,15683,213
+01/06/2021,Tue,Detroit Tigers,Milwaukee Brewers,10,7,N,12058,217
+01/06/2021,Tue,Los Angeles Angels,San Francisco Giants,8,1,N,10546,172
+01/06/2021,Tue,Minnesota Twins,Baltimore Orioles,4,7,N,5337,201
+01/06/2021,Tue,Chicago White Sox,Cleveland Indians,5,6,N,7132,180
+01/06/2021,Tue,Boston Red Sox,Houston Astros,1,5,N,23449,203
+01/06/2021,Tue,Pittsburgh Pirates,Kansas City Royals,5,10,N,10333,208
+01/06/2021,Tue,Tampa Bay Rays,New York Yankees,3,5,N,12537,225
+01/06/2021,Tue,Oakland Athletics,Seattle Mariners,12,6,N,9160,213
+01/06/2021,Tue,Miami Marlins,Toronto Blue Jays,1,5,N,5321,165
+02/06/2021,Wed,New York Mets,Arizona D'Backs,7,6,D,9810,192
+02/06/2021,Wed,Washington Nationals,Atlanta Braves,5,3,N,32752,204
+02/06/2021,Wed,San Diego Padres,Chicago Cubs,1,6,D,22056,196
+02/06/2021,Wed,Texas Rangers,Colorado Rockies,3,6,N,19289,169
+02/06/2021,Wed,St. Louis Cardinals,Los Angeles Dodgers,3,14,N,15889,196
+02/06/2021,Wed,Minnesota Twins,Baltimore Orioles,3,6,N,5945,174
+02/06/2021,Wed,Boston Red Sox,Houston Astros,1,2,N,22664,177
+02/06/2021,Wed,Tampa Bay Rays,New York Yankees,3,4,N,13824,218
+02/06/2021,Wed,Oakland Athletics,Seattle Mariners,6,0,N,9588,157
+02/06/2021,Wed,Miami Marlins,Toronto Blue Jays,5,6,N,5385,221
+03/06/2021,Thu,Washington Nationals,Atlanta Braves,1,5,D,25595,167
+03/06/2021,Thu,Texas Rangers,Colorado Rockies,6,11,D,19150,181
+03/06/2021,Thu,Arizona D'Backs,Milwaukee Brewers,4,7,N,12392,189
+03/06/2021,Thu,Miami Marlins,Pittsburgh Pirates,3,5,N,4192,181
+03/06/2021,Thu,New York Mets,San Diego Padres,3,4,N,15250,215
+03/06/2021,Thu,Chicago Cubs,San Francisco Giants,2,7,N,10737,185
+03/06/2021,Thu,Cincinnati Reds,St. Louis Cardinals,4,2,N,15327,187
+03/06/2021,Thu,Seattle Mariners,Los Angeles Angels,6,2,N,9714,206
+03/06/2021,Thu,Detroit Tigers,Chicago White Sox,1,4,N,12845,149
+03/06/2021,Thu,Boston Red Sox,Houston Astros,5,1,D,24853,187
+03/06/2021,Thu,Minnesota Twins,Kansas City Royals,5,6,N,11072,182
+03/06/2021,Thu,Tampa Bay Rays,New York Yankees,9,2,D,12614,178
+04/06/2021,Fri,Los Angeles Dodgers,Atlanta Braves,9,5,N,40514,225
+04/06/2021,Fri,Oakland Athletics,Colorado Rockies,9,5,N,26790,223
+04/06/2021,Fri,Arizona D'Backs,Milwaukee Brewers,1,5,N,15261,160
+04/06/2021,Fri,Washington Nationals,Philadelphia Phillies,2,1,N,15030,176
+04/06/2021,Fri,Miami Marlins,Pittsburgh Pirates,2,9,N,8044,202
+04/06/2021,Fri,New York Mets,San Diego Padres,0,2,N,16268,187
+04/06/2021,Fri,Chicago Cubs,San Francisco Giants,5,8,N,11524,194
+04/06/2021,Fri,Cincinnati Reds,St. Louis Cardinals,6,4,N,22756,206
+04/06/2021,Fri,Seattle Mariners,Los Angeles Angels,2,3,N,15141,162
+04/06/2021,Fri,Cleveland Indians,Baltimore Orioles,1,3,N,12009,170
+04/06/2021,Fri,Detroit Tigers,Chicago White Sox,8,9,N,21637,207
+04/06/2021,Fri,Minnesota Twins,Kansas City Royals,5,14,N,22612,196
+04/06/2021,Fri,Boston Red Sox,New York Yankees,5,2,N,18040,169
+04/06/2021,Fri,Tampa Bay Rays,Texas Rangers,4,5,N,30635,167
+04/06/2021,Fri,Houston Astros,Toronto Blue Jays,13,1,N,5510,178
+05/06/2021,Sat,Los Angeles Dodgers,Atlanta Braves,4,6,N,41136,196
+05/06/2021,Sat,Oakland Athletics,Colorado Rockies,6,3,N,27459,166
+05/06/2021,Sat,Arizona D'Backs,Milwaukee Brewers,5,7,D,20073,192
+05/06/2021,Sat,Washington Nationals,Philadelphia Phillies,2,5,D,16118,191
+05/06/2021,Sat,Miami Marlins,Pittsburgh Pirates,7,8,D,8714,260
+05/06/2021,Sat,New York Mets,San Diego Padres,4,0,N,16644,205
+05/06/2021,Sat,Chicago Cubs,San Francisco Giants,3,4,D,12792,184
+05/06/2021,Sat,Cincinnati Reds,St. Louis Cardinals,5,2,D,23365,186
+05/06/2021,Sat,Seattle Mariners,Los Angeles Angels,5,12,N,15071,180
+05/06/2021,Sat,Cleveland Indians,Baltimore Orioles,10,4,D,9969,208
+05/06/2021,Sat,Detroit Tigers,Chicago White Sox,4,3,D,21719,185
+05/06/2021,Sat,Minnesota Twins,Kansas City Royals,5,4,D,21574,157
+05/06/2021,Sat,Boston Red Sox,New York Yankees,7,3,N,20019,194
+05/06/2021,Sat,Tampa Bay Rays,Texas Rangers,3,0,D,27237,163
+05/06/2021,Sat,Houston Astros,Toronto Blue Jays,2,6,D,5327,170
+06/06/2021,Sun,Los Angeles Dodgers,Atlanta Braves,2,4,D,39439,201
+06/06/2021,Sun,Oakland Athletics,Colorado Rockies,1,3,D,23716,179
+06/06/2021,Sun,Arizona D'Backs,Milwaukee Brewers,0,2,D,20117,184
+06/06/2021,Sun,Washington Nationals,Philadelphia Phillies,6,12,D,15108,246
+06/06/2021,Sun,Miami Marlins,Pittsburgh Pirates,3,1,D,5477,160
+06/06/2021,Sun,New York Mets,San Diego Padres,6,2,D,16120,197
+06/06/2021,Sun,Chicago Cubs,San Francisco Giants,4,3,D,14089,181
+06/06/2021,Sun,Cincinnati Reds,St. Louis Cardinals,8,7,D,21152,230
+06/06/2021,Sun,Seattle Mariners,Los Angeles Angels,9,5,D,12833,237
+06/06/2021,Sun,Cleveland Indians,Baltimore Orioles,5,18,D,9423,190
+06/06/2021,Sun,Detroit Tigers,Chicago White Sox,0,3,D,20068,156
+06/06/2021,Sun,Minnesota Twins,Kansas City Royals,2,1,D,14046,179
+06/06/2021,Sun,Boston Red Sox,New York Yankees,6,5,N,19103,229
+06/06/2021,Sun,Tampa Bay Rays,Texas Rangers,7,1,D,26442,225
+06/06/2021,Sun,Houston Astros,Toronto Blue Jays,6,3,D,5404,212
+07/06/2021,Mon,Chicago Cubs,San Diego Padres,4,9,N,16045,222
+07/06/2021,Mon,Kansas City Royals,Los Angeles Angels,3,8,N,9481,182
+07/06/2021,Mon,Miami Marlins,Boston Red Sox,3,5,N,25374,218
+08/06/2021,Tue,Milwaukee Brewers,Cincinnati Reds,5,1,N,11897,219
+08/06/2021,Tue,Colorado Rockies,Miami Marlins,2,6,N,4863,165
+08/06/2021,Tue,Atlanta Braves,Philadelphia Phillies,9,5,N,13125,225
+08/06/2021,Tue,Los Angeles Dodgers,Pittsburgh Pirates,5,3,N,9047,175
+08/06/2021,Tue,Chicago Cubs,San Diego Padres,7,1,N,16207,171
+08/06/2021,Tue,Cleveland Indians,St. Louis Cardinals,10,1,N,16178,190
+08/06/2021,Tue,Kansas City Royals,Los Angeles Angels,1,8,N,9387,178
+08/06/2021,Tue,New York Mets,Baltimore Orioles,3,10,N,9431,194
+08/06/2021,Tue,Houston Astros,Boston Red Sox,7,1,N,23604,208
+08/06/2021,Tue,Toronto Blue Jays,Chicago White Sox,1,6,N,12761,214
+08/06/2021,Tue,Seattle Mariners,Detroit Tigers,3,5,N,9081,189
+08/06/2021,Tue,New York Yankees,Minnesota Twins,8,4,N,17949,212
+08/06/2021,Tue,Arizona D'Backs,Oakland Athletics,2,5,N,3695,164
+08/06/2021,Tue,Washington Nationals,Tampa Bay Rays,1,3,N,7173,201
+08/06/2021,Tue,San Francisco Giants,Texas Rangers,9,4,N,24938,208
+09/06/2021,Wed,Milwaukee Brewers,Cincinnati Reds,3,7,N,11862,197
+09/06/2021,Wed,Colorado Rockies,Miami Marlins,4,3,N,4563,233
+09/06/2021,Wed,Atlanta Braves,Philadelphia Phillies,1,2,N,13552,171
+09/06/2021,Wed,Los Angeles Dodgers,Pittsburgh Pirates,2,1,N,10957,212
+09/06/2021,Wed,Chicago Cubs,San Diego Padres,3,1,D,16482,178
+09/06/2021,Wed,Cleveland Indians,St. Louis Cardinals,2,8,N,16331,179
+09/06/2021,Wed,Kansas City Royals,Los Angeles Angels,1,6,N,10474,173
+09/06/2021,Wed,New York Mets,Baltimore Orioles,14,1,N,9584,163
+09/06/2021,Wed,Houston Astros,Boston Red Sox,8,3,N,21007,187
+09/06/2021,Wed,Toronto Blue Jays,Chicago White Sox,6,2,N,14438,206
+09/06/2021,Wed,Seattle Mariners,Detroit Tigers,9,6,N,9162,223
+09/06/2021,Wed,New York Yankees,Minnesota Twins,9,6,N,17078,188
+09/06/2021,Wed,Arizona D'Backs,Oakland Athletics,0,4,D,4090,179
+09/06/2021,Wed,Washington Nationals,Tampa Bay Rays,9,7,N,7616,259
+09/06/2021,Wed,San Francisco Giants,Texas Rangers,3,4,D,25803,208
+10/06/2021,Thu,Milwaukee Brewers,Cincinnati Reds,7,2,D,12423,196
+10/06/2021,Thu,Colorado Rockies,Miami Marlins,4,11,N,4965,183
+10/06/2021,Thu,Atlanta Braves,Philadelphia Phillies,3,4,D,14261,210
+10/06/2021,Thu,Los Angeles Dodgers,Pittsburgh Pirates,6,3,D,9396,170
+10/06/2021,Thu,Houston Astros,Boston Red Sox,8,12,N,23378,227
+10/06/2021,Thu,Toronto Blue Jays,Chicago White Sox,2,5,N,16903,163
+10/06/2021,Thu,Seattle Mariners,Detroit Tigers,3,8,D,9290,201
+10/06/2021,Thu,New York Yankees,Minnesota Twins,5,7,N,17728,211
+10/06/2021,Thu,Kansas City Royals,Oakland Athletics,6,1,N,3211,161
+11/06/2021,Fri,Los Angeles Angels,Arizona D'Backs,6,5,N,18458,249
+11/06/2021,Fri,St. Louis Cardinals,Chicago Cubs,5,8,D,35112,184
+11/06/2021,Fri,Colorado Rockies,Cincinnati Reds,5,11,N,20505,189
+11/06/2021,Fri,Texas Rangers,Los Angeles Dodgers,1,12,N,20220,185
+11/06/2021,Fri,Atlanta Braves,Miami Marlins,3,4,N,6595,203
+11/06/2021,Fri,Pittsburgh Pirates,Milwaukee Brewers,4,7,N,17678,202
+11/06/2021,Fri,San Diego Padres,New York Mets,2,3,N,26637,180
+11/06/2021,Fri,San Francisco Giants,Washington Nationals,1,0,N,18029,150
+11/06/2021,Fri,Toronto Blue Jays,Boston Red Sox,5,6,N,25257,211
+11/06/2021,Fri,Seattle Mariners,Cleveland Indians,0,7,N,22970,176
+11/06/2021,Fri,Chicago White Sox,Detroit Tigers,5,4,N,14163,192
+11/06/2021,Fri,Houston Astros,Minnesota Twins,6,4,N,17223,178
+11/06/2021,Fri,Kansas City Royals,Oakland Athletics,3,4,N,6964,180
+11/06/2021,Fri,Baltimore Orioles,Tampa Bay Rays,2,4,N,6211,174
+12/06/2021,Sat,Los Angeles Angels,Arizona D'Backs,8,7,D,13863,203
+12/06/2021,Sat,St. Louis Cardinals,Chicago Cubs,2,7,N,39095,199
+12/06/2021,Sat,Colorado Rockies,Cincinnati Reds,3,10,D,23765,182
+12/06/2021,Sat,Texas Rangers,Los Angeles Dodgers,12,1,N,17500,215
+12/06/2021,Sat,Atlanta Braves,Miami Marlins,2,4,D,8158,167
+12/06/2021,Sat,Pittsburgh Pirates,Milwaukee Brewers,4,7,D,20126,214
+12/06/2021,Sat,San Diego Padres,New York Mets,1,4,D,25463,163
+12/06/2021,Sat,New York Yankees,Philadelphia Phillies,7,8,D,38450,242
+12/06/2021,Sat,San Francisco Giants,Washington Nationals,0,2,D,16425,130
+12/06/2021,Sat,San Francisco Giants,Washington Nationals,2,1,N,24066,185
+12/06/2021,Sat,Toronto Blue Jays,Boston Red Sox,7,2,D,24024,189
+12/06/2021,Sat,Seattle Mariners,Cleveland Indians,4,5,D,20116,221
+12/06/2021,Sat,Chicago White Sox,Detroit Tigers,15,2,D,15913,227
+12/06/2021,Sat,Houston Astros,Minnesota Twins,2,5,N,18767,200
+12/06/2021,Sat,Kansas City Royals,Oakland Athletics,2,11,D,7678,198
+12/06/2021,Sat,Baltimore Orioles,Tampa Bay Rays,4,5,D,9225,180
+13/06/2021,Sun,Los Angeles Angels,Arizona D'Backs,10,3,D,12768,185
+13/06/2021,Sun,St. Louis Cardinals,Chicago Cubs,0,2,N,35225,154
+13/06/2021,Sun,Colorado Rockies,Cincinnati Reds,2,6,D,18268,191
+13/06/2021,Sun,Texas Rangers,Los Angeles Dodgers,3,5,D,15508,195
+13/06/2021,Sun,Atlanta Braves,Miami Marlins,6,4,D,8448,225
+13/06/2021,Sun,Pittsburgh Pirates,Milwaukee Brewers,2,5,D,20545,189
+13/06/2021,Sun,San Diego Padres,New York Mets,7,3,D,19581,204
+13/06/2021,Sun,New York Yankees,Philadelphia Phillies,0,7,D,38512,177
+13/06/2021,Sun,San Francisco Giants,Washington Nationals,0,5,D,21569,169
+13/06/2021,Sun,Toronto Blue Jays,Boston Red Sox,18,4,D,22595,174
+13/06/2021,Sun,Seattle Mariners,Cleveland Indians,6,2,D,17371,197
+13/06/2021,Sun,Chicago White Sox,Detroit Tigers,4,1,D,14093,167
+13/06/2021,Sun,Houston Astros,Minnesota Twins,14,3,D,19147,191
+13/06/2021,Sun,Kansas City Royals,Oakland Athletics,3,6,D,7060,188
+13/06/2021,Sun,Baltimore Orioles,Tampa Bay Rays,1,7,D,9101,168
+14/06/2021,Mon,San Diego Padres,Colorado Rockies,2,3,N,23027,157
+14/06/2021,Mon,Philadelphia Phillies,Los Angeles Dodgers,1,3,N,15761,189
+14/06/2021,Mon,Cincinnati Reds,Milwaukee Brewers,10,2,N,17127,198
+14/06/2021,Mon,Chicago Cubs,New York Mets,2,5,N,16383,190
+14/06/2021,Mon,Arizona D'Backs,San Francisco Giants,2,5,N,9906,179
+14/06/2021,Mon,Miami Marlins,St. Louis Cardinals,2,4,N,24281,182
+14/06/2021,Mon,Pittsburgh Pirates,Washington Nationals,2,3,N,14859,175
+14/06/2021,Mon,Toronto Blue Jays,Boston Red Sox,1,2,N,20070,162
+14/06/2021,Mon,Tampa Bay Rays,Chicago White Sox,5,2,N,18024,166
+14/06/2021,Mon,Baltimore Orioles,Cleveland Indians,3,4,N,11181,166
+14/06/2021,Mon,Detroit Tigers,Kansas City Royals,10,3,N,11910,212
+14/06/2021,Mon,Los Angeles Angels,Oakland Athletics,5,8,N,4102,203
+14/06/2021,Mon,Minnesota Twins,Seattle Mariners,3,4,N,9185,190
+15/06/2021,Tue,Boston Red Sox,Atlanta Braves,10,8,N,36638,212
+15/06/2021,Tue,San Diego Padres,Colorado Rockies,4,8,N,22871,206
+15/06/2021,Tue,Philadelphia Phillies,Los Angeles Dodgers,3,5,N,52078,203
+15/06/2021,Tue,Cincinnati Reds,Milwaukee Brewers,2,1,N,16584,195
+15/06/2021,Tue,Chicago Cubs,New York Mets,2,3,N,17804,185
+15/06/2021,Tue,Arizona D'Backs,San Francisco Giants,8,9,N,9867,183
+15/06/2021,Tue,Miami Marlins,St. Louis Cardinals,1,2,N,24736,174
+15/06/2021,Tue,Pittsburgh Pirates,Washington Nationals,1,8,N,16886,162
+15/06/2021,Tue,Tampa Bay Rays,Chicago White Sox,0,3,N,19259,162
+15/06/2021,Tue,Baltimore Orioles,Cleveland Indians,2,7,N,12025,201
+15/06/2021,Tue,Texas Rangers,Houston Astros,3,6,N,26379,214
+15/06/2021,Tue,Detroit Tigers,Kansas City Royals,4,3,N,15947,169
+15/06/2021,Tue,Los Angeles Angels,Oakland Athletics,4,6,N,4942,174
+15/06/2021,Tue,Minnesota Twins,Seattle Mariners,0,10,N,7669,173
+15/06/2021,Tue,New York Yankees,Toronto Blue Jays,6,5,N,7145,211
+16/06/2021,Wed,Boston Red Sox,Atlanta Braves,10,8,N,39847,250
+16/06/2021,Wed,San Diego Padres,Colorado Rockies,7,8,D,18798,207
+16/06/2021,Wed,Philadelphia Phillies,Los Angeles Dodgers,2,0,N,52157,195
+16/06/2021,Wed,Cincinnati Reds,Milwaukee Brewers,2,1,D,20088,176
+16/06/2021,Wed,Chicago Cubs,New York Mets,3,6,N,23545,181
+16/06/2021,Wed,Arizona D'Backs,San Francisco Giants,7,13,N,11004,216
+16/06/2021,Wed,Miami Marlins,St. Louis Cardinals,0,1,D,24682,160
+16/06/2021,Wed,Pittsburgh Pirates,Washington Nationals,1,3,D,16781,179
+16/06/2021,Wed,Tampa Bay Rays,Chicago White Sox,7,8,D,20098,204
+16/06/2021,Wed,Baltimore Orioles,Cleveland Indians,7,8,N,12825,185
+16/06/2021,Wed,Texas Rangers,Houston Astros,4,8,N,22735,181
+16/06/2021,Wed,Detroit Tigers,Kansas City Royals,6,5,D,11327,197
+16/06/2021,Wed,Los Angeles Angels,Oakland Athletics,4,8,D,6228,176
+16/06/2021,Wed,Minnesota Twins,Seattle Mariners,7,2,N,8098,174
+16/06/2021,Wed,New York Yankees,Toronto Blue Jays,3,2,N,7271,181
+17/06/2021,Thu,St. Louis Cardinals,Atlanta Braves,0,4,N,33412,174
+17/06/2021,Thu,Milwaukee Brewers,Colorado Rockies,3,7,N,22756,209
+17/06/2021,Thu,Chicago Cubs,New York Mets,2,0,N,16826,168
+17/06/2021,Thu,Cincinnati Reds,San Diego Padres,4,6,N,40362,187
+17/06/2021,Thu,Arizona D'Backs,San Francisco Giants,3,10,D,13144,174
+17/06/2021,Thu,Detroit Tigers,Los Angeles Angels,5,7,N,30709,179
+17/06/2021,Thu,Baltimore Orioles,Cleveland Indians,3,10,D,15121,183
+17/06/2021,Thu,Chicago White Sox,Houston Astros,2,10,N,21795,165
+17/06/2021,Thu,Tampa Bay Rays,Seattle Mariners,5,6,N,9092,188
+17/06/2021,Thu,New York Yankees,Toronto Blue Jays,8,4,N,7288,223
+18/06/2021,Fri,Los Angeles Dodgers,Arizona D'Backs,3,0,N,25356,189
+18/06/2021,Fri,St. Louis Cardinals,Atlanta Braves,1,9,N,40377,171
+18/06/2021,Fri,Miami Marlins,Chicago Cubs,10,2,N,32505,201
+18/06/2021,Fri,Milwaukee Brewers,Colorado Rockies,5,6,N,27117,210
+18/06/2021,Fri,Cleveland Indians,Pittsburgh Pirates,10,11,N,16965,187
+18/06/2021,Fri,Cincinnati Reds,San Diego Padres,2,8,N,33456,213
+18/06/2021,Fri,Philadelphia Phillies,San Francisco Giants,3,5,N,16170,182
+18/06/2021,Fri,New York Mets,Washington Nationals,0,1,N,26246,184
+18/06/2021,Fri,Detroit Tigers,Los Angeles Angels,3,11,N,22734,212
+18/06/2021,Fri,Toronto Blue Jays,Baltimore Orioles,1,7,N,13284,190
+18/06/2021,Fri,Chicago White Sox,Houston Astros,1,2,N,30898,166
+18/06/2021,Fri,Boston Red Sox,Kansas City Royals,3,5,N,29870,200
+18/06/2021,Fri,Oakland Athletics,New York Yankees,5,3,N,24037,183
+18/06/2021,Fri,Tampa Bay Rays,Seattle Mariners,1,5,N,12654,168
+18/06/2021,Fri,Minnesota Twins,Texas Rangers,7,5,N,30304,224
+19/06/2021,Sat,Los Angeles Dodgers,Arizona D'Backs,9,3,N,29904,186
+19/06/2021,Sat,Miami Marlins,Chicago Cubs,11,1,D,35846,187
+19/06/2021,Sat,Milwaukee Brewers,Colorado Rockies,6,5,N,34198,220
+19/06/2021,Sat,Cleveland Indians,Pittsburgh Pirates,3,6,D,16830,194
+19/06/2021,Sat,Cincinnati Reds,San Diego Padres,5,7,D,38765,204
+19/06/2021,Sat,Philadelphia Phillies,San Francisco Giants,13,6,D,16774,227
+19/06/2021,Sat,New York Mets,Washington Nationals,5,1,D,14434,167
+19/06/2021,Sat,New York Mets,Washington Nationals,2,6,N,22111,146
+19/06/2021,Sat,Detroit Tigers,Los Angeles Angels,3,8,N,23175,182
+19/06/2021,Sat,Toronto Blue Jays,Baltimore Orioles,10,7,D,10721,190
+19/06/2021,Sat,Chicago White Sox,Houston Astros,3,7,N,35210,190
+19/06/2021,Sat,Boston Red Sox,Kansas City Royals,7,1,D,24568,179
+19/06/2021,Sat,Oakland Athletics,New York Yankees,5,7,D,23985,194
+19/06/2021,Sat,Tampa Bay Rays,Seattle Mariners,5,6,N,14772,182
+19/06/2021,Sat,Minnesota Twins,Texas Rangers,3,2,D,34044,162
+20/06/2021,Sun,Los Angeles Dodgers,Arizona D'Backs,9,8,D,31661,219
+20/06/2021,Sun,St. Louis Cardinals,Atlanta Braves,9,1,D,33781,136
+20/06/2021,Sun,St. Louis Cardinals,Atlanta Braves,0,1,N,36977,118
+20/06/2021,Sun,Miami Marlins,Chicago Cubs,0,2,D,37158,172
+20/06/2021,Sun,Milwaukee Brewers,Colorado Rockies,7,6,D,34224,215
+20/06/2021,Sun,Cleveland Indians,Pittsburgh Pirates,2,1,D,16582,151
+20/06/2021,Sun,Cincinnati Reds,San Diego Padres,2,3,D,38004,180
+20/06/2021,Sun,Philadelphia Phillies,San Francisco Giants,2,11,D,18265,171
+20/06/2021,Sun,New York Mets,Washington Nationals,2,5,D,30371,169
+20/06/2021,Sun,Detroit Tigers,Los Angeles Angels,5,3,D,21626,243
+20/06/2021,Sun,Toronto Blue Jays,Baltimore Orioles,7,4,D,14917,185
+20/06/2021,Sun,Chicago White Sox,Houston Astros,2,8,D,39821,198
+20/06/2021,Sun,Boston Red Sox,Kansas City Royals,3,7,D,20726,215
+20/06/2021,Sun,Oakland Athletics,New York Yankees,1,2,D,27807,181
+20/06/2021,Sun,Tampa Bay Rays,Seattle Mariners,2,6,D,18172,188
+20/06/2021,Sun,Minnesota Twins,Texas Rangers,4,2,D,34007,187
+21/06/2021,Mon,Milwaukee Brewers,Arizona D'Backs,1,5,N,9804,175
+21/06/2021,Mon,Cleveland Indians,Chicago Cubs,4,0,N,32934,192
+21/06/2021,Mon,Atlanta Braves,New York Mets,2,4,N,0,132
+21/06/2021,Mon,Atlanta Braves,New York Mets,1,0,N,18698,153
+21/06/2021,Mon,Los Angeles Dodgers,San Diego Padres,2,6,N,42220,218
+21/06/2021,Mon,Houston Astros,Baltimore Orioles,10,2,N,7414,220
+21/06/2021,Mon,Cincinnati Reds,Minnesota Twins,5,7,N,17530,314
+21/06/2021,Mon,Oakland Athletics,Texas Rangers,3,8,N,20259,192
+22/06/2021,Tue,Milwaukee Brewers,Arizona D'Backs,5,0,N,9358,193
+22/06/2021,Tue,Cleveland Indians,Chicago Cubs,1,7,N,35493,171
+22/06/2021,Tue,Toronto Blue Jays,Miami Marlins,2,1,N,6291,154
+22/06/2021,Tue,Atlanta Braves,New York Mets,3,0,N,17063,182
+22/06/2021,Tue,Washington Nationals,Philadelphia Phillies,3,2,N,19652,232
+22/06/2021,Tue,Chicago White Sox,Pittsburgh Pirates,3,6,N,9847,170
+22/06/2021,Tue,Los Angeles Dodgers,San Diego Padres,2,3,N,42667,189
+22/06/2021,Tue,San Francisco Giants,Los Angeles Angels,5,0,N,28354,173
+22/06/2021,Tue,Houston Astros,Baltimore Orioles,3,1,N,8510,175
+22/06/2021,Tue,St. Louis Cardinals,Detroit Tigers,2,8,N,13492,193
+22/06/2021,Tue,Cincinnati Reds,Minnesota Twins,10,7,D,19187,209
+22/06/2021,Tue,Kansas City Royals,New York Yankees,6,5,N,21130,218
+22/06/2021,Tue,Colorado Rockies,Seattle Mariners,1,2,N,12879,159
+22/06/2021,Tue,Boston Red Sox,Tampa Bay Rays,9,5,N,12994,261
+22/06/2021,Tue,Oakland Athletics,Texas Rangers,13,6,N,19185,200
+23/06/2021,Wed,Milwaukee Brewers,Arizona D'Backs,3,2,D,8676,208
+23/06/2021,Wed,Toronto Blue Jays,Miami Marlins,3,1,N,6164,198
+23/06/2021,Wed,Atlanta Braves,New York Mets,3,7,N,15645,222
+23/06/2021,Wed,Washington Nationals,Philadelphia Phillies,13,12,D,17892,259
+23/06/2021,Wed,Chicago White Sox,Pittsburgh Pirates,4,3,D,10406,217
+23/06/2021,Wed,Los Angeles Dodgers,San Diego Padres,3,5,N,43691,210
+23/06/2021,Wed,San Francisco Giants,Los Angeles Angels,9,3,D,20620,291
+23/06/2021,Wed,Houston Astros,Baltimore Orioles,13,0,N,10013,166
+23/06/2021,Wed,St. Louis Cardinals,Detroit Tigers,2,6,D,13263,192
+23/06/2021,Wed,Kansas City Royals,New York Yankees,5,6,N,25032,220
+23/06/2021,Wed,Colorado Rockies,Seattle Mariners,5,2,D,11141,180
+23/06/2021,Wed,Boston Red Sox,Tampa Bay Rays,2,8,N,9088,211
+23/06/2021,Wed,Oakland Athletics,Texas Rangers,3,5,N,21829,163
+24/06/2021,Thu,Atlanta Braves,Cincinnati Reds,3,5,N,23941,192
+24/06/2021,Thu,Chicago Cubs,Los Angeles Dodgers,4,0,N,52175,192
+24/06/2021,Thu,Washington Nationals,Miami Marlins,7,3,N,5255,194
+24/06/2021,Thu,Pittsburgh Pirates,St. Louis Cardinals,8,2,N,33254,190
+24/06/2021,Thu,Houston Astros,Detroit Tigers,12,3,N,12656,232
+24/06/2021,Thu,Cleveland Indians,Minnesota Twins,4,1,N,18812,178
+24/06/2021,Thu,Kansas City Royals,New York Yankees,1,8,D,21350,183
+24/06/2021,Thu,Boston Red Sox,Tampa Bay Rays,0,1,N,10961,182
+24/06/2021,Thu,Oakland Athletics,Texas Rangers,5,1,D,20432,183
+24/06/2021,Thu,Baltimore Orioles,Toronto Blue Jays,0,9,N,6264,181
+25/06/2021,Fri,Atlanta Braves,Cincinnati Reds,3,2,N,30231,183
+25/06/2021,Fri,Chicago Cubs,Los Angeles Dodgers,2,6,N,49387,222
+25/06/2021,Fri,Washington Nationals,Miami Marlins,2,11,N,4749,201
+25/06/2021,Fri,Colorado Rockies,Milwaukee Brewers,4,5,D,31140,261
+25/06/2021,Fri,Philadelphia Phillies,New York Mets,1,2,D,0,183
+25/06/2021,Fri,Philadelphia Phillies,New York Mets,2,1,N,29012,152
+25/06/2021,Fri,Arizona D'Backs,San Diego Padres,5,11,N,32583,211
+25/06/2021,Fri,Oakland Athletics,San Francisco Giants,0,2,N,36928,143
+25/06/2021,Fri,Pittsburgh Pirates,St. Louis Cardinals,5,4,N,34812,226
+25/06/2021,Fri,New York Yankees,Boston Red Sox,3,5,N,36869,217
+25/06/2021,Fri,Seattle Mariners,Chicago White Sox,9,3,N,32189,211
+25/06/2021,Fri,Cleveland Indians,Minnesota Twins,7,8,N,16892,166
+25/06/2021,Fri,Los Angeles Angels,Tampa Bay Rays,3,4,N,7909,173
+25/06/2021,Fri,Kansas City Royals,Texas Rangers,4,9,N,30389,171
+25/06/2021,Fri,Baltimore Orioles,Toronto Blue Jays,6,5,N,7844,216
+26/06/2021,Sat,Atlanta Braves,Cincinnati Reds,1,4,D,34671,155
+26/06/2021,Sat,Chicago Cubs,Los Angeles Dodgers,2,3,D,45420,192
+26/06/2021,Sat,Washington Nationals,Miami Marlins,2,3,D,6305,164
+26/06/2021,Sat,Colorado Rockies,Milwaukee Brewers,4,10,D,32573,220
+26/06/2021,Sat,Philadelphia Phillies,New York Mets,3,4,D,29205,185
+26/06/2021,Sat,Arizona D'Backs,San Diego Padres,10,1,N,40557,215
+26/06/2021,Sat,Oakland Athletics,San Francisco Giants,5,6,N,33168,245
+26/06/2021,Sat,Pittsburgh Pirates,St. Louis Cardinals,1,3,D,33058,176
+26/06/2021,Sat,New York Yankees,Boston Red Sox,2,4,N,36857,202
+26/06/2021,Sat,Seattle Mariners,Chicago White Sox,3,2,D,30017,197
+26/06/2021,Sat,Houston Astros,Detroit Tigers,1,3,D,12422,126
+26/06/2021,Sat,Houston Astros,Detroit Tigers,3,2,N,13950,141
+26/06/2021,Sat,Los Angeles Angels,Tampa Bay Rays,3,13,D,16699,172
+26/06/2021,Sat,Kansas City Royals,Texas Rangers,0,8,D,31612,207
+26/06/2021,Sat,Baltimore Orioles,Toronto Blue Jays,4,12,D,5913,171
+27/06/2021,Sun,Atlanta Braves,Cincinnati Reds,4,0,D,21696,195
+27/06/2021,Sun,Chicago Cubs,Los Angeles Dodgers,1,7,D,46315,162
+27/06/2021,Sun,Washington Nationals,Miami Marlins,5,1,D,7349,186
+27/06/2021,Sun,Colorado Rockies,Milwaukee Brewers,0,5,D,25016,189
+27/06/2021,Sun,Philadelphia Phillies,New York Mets,4,2,D,25488,201
+27/06/2021,Sun,Arizona D'Backs,San Diego Padres,4,5,D,34905,207
+27/06/2021,Sun,Oakland Athletics,San Francisco Giants,6,2,D,35920,177
+27/06/2021,Sun,Pittsburgh Pirates,St. Louis Cardinals,7,2,D,25163,173
+27/06/2021,Sun,New York Yankees,Boston Red Sox,2,9,D,34504,189
+27/06/2021,Sun,Seattle Mariners,Chicago White Sox,5,7,D,30017,173
+27/06/2021,Sun,Houston Astros,Detroit Tigers,1,2,D,13532,209
+27/06/2021,Sun,Cleveland Indians,Minnesota Twins,2,8,D,20215,178
+27/06/2021,Sun,Los Angeles Angels,Tampa Bay Rays,6,4,D,12764,206
+27/06/2021,Sun,Kansas City Royals,Texas Rangers,1,4,D,29046,169
+27/06/2021,Sun,Baltimore Orioles,Toronto Blue Jays,2,5,D,6044,195
+28/06/2021,Mon,Philadelphia Phillies,Cincinnati Reds,4,12,N,21006,198
+28/06/2021,Mon,Pittsburgh Pirates,Colorado Rockies,0,2,D,32092,182
+28/06/2021,Mon,San Francisco Giants,Los Angeles Dodgers,2,3,N,47835,190
+28/06/2021,Mon,Chicago Cubs,Milwaukee Brewers,4,14,N,30251,223
+28/06/2021,Mon,Arizona D'Backs,St. Louis Cardinals,1,7,N,27175,213
+28/06/2021,Mon,New York Mets,Washington Nationals,4,8,N,19150,183
+28/06/2021,Mon,Kansas City Royals,Boston Red Sox,5,6,N,22766,182
+28/06/2021,Mon,Detroit Tigers,Cleveland Indians,5,13,N,13128,178
+28/06/2021,Mon,Baltimore Orioles,Houston Astros,9,7,N,24419,259
+28/06/2021,Mon,Los Angeles Angels,New York Yankees,5,3,N,25054,186
+29/06/2021,Tue,New York Mets,Atlanta Braves,4,3,N,29274,195
+29/06/2021,Tue,San Diego Padres,Cincinnati Reds,5,4,N,16332,230
+29/06/2021,Tue,Pittsburgh Pirates,Colorado Rockies,0,8,N,27915,138
+29/06/2021,Tue,San Francisco Giants,Los Angeles Dodgers,1,3,N,52342,180
+29/06/2021,Tue,Chicago Cubs,Milwaukee Brewers,1,2,N,24423,220
+29/06/2021,Tue,Miami Marlins,Philadelphia Phillies,3,4,N,18079,205
+29/06/2021,Tue,Arizona D'Backs,St. Louis Cardinals,2,3,N,28740,191
+29/06/2021,Tue,Tampa Bay Rays,Washington Nationals,3,4,N,17117,154
+29/06/2021,Tue,Kansas City Royals,Boston Red Sox,6,7,N,25180,211
+29/06/2021,Tue,Minnesota Twins,Chicago White Sox,6,7,N,17382,200
+29/06/2021,Tue,Baltimore Orioles,Houston Astros,13,3,N,30346,233
+29/06/2021,Tue,Los Angeles Angels,New York Yankees,5,11,N,23152,211
+29/06/2021,Tue,Texas Rangers,Oakland Athletics,5,4,N,4739,161
+29/06/2021,Tue,Seattle Mariners,Toronto Blue Jays,3,9,N,6736,188
+30/06/2021,Wed,New York Mets,Atlanta Braves,2,20,N,28405,201
+30/06/2021,Wed,San Diego Padres,Cincinnati Reds,7,5,N,12084,123
+30/06/2021,Wed,Pittsburgh Pirates,Colorado Rockies,2,6,D,20270,207
+30/06/2021,Wed,Chicago Cubs,Milwaukee Brewers,7,15,D,32193,227
+30/06/2021,Wed,Miami Marlins,Philadelphia Phillies,11,6,N,17190,246
+30/06/2021,Wed,Arizona D'Backs,St. Louis Cardinals,4,7,D,27235,200
+30/06/2021,Wed,Tampa Bay Rays,Washington Nationals,6,15,D,15552,217
+30/06/2021,Wed,Kansas City Royals,Boston Red Sox,2,6,N,24616,175
+30/06/2021,Wed,Minnesota Twins,Chicago White Sox,3,13,N,16803,184
+30/06/2021,Wed,Detroit Tigers,Cleveland Indians,9,4,D,0,175
+30/06/2021,Wed,Detroit Tigers,Cleveland Indians,7,1,N,11627,147
+30/06/2021,Wed,Baltimore Orioles,Houston Astros,5,2,N,28124,214
+30/06/2021,Wed,Los Angeles Angels,New York Yankees,11,8,N,30714,224
+30/06/2021,Wed,Texas Rangers,Oakland Athletics,1,3,N,4320,154
+30/06/2021,Wed,Seattle Mariners,Toronto Blue Jays,9,7,N,6632,252
+01/07/2021,Thu,San Francisco Giants,Arizona D'Backs,3,5,N,9172,157
+01/07/2021,Thu,New York Mets,Atlanta Braves,3,4,N,35777,185
+01/07/2021,Thu,San Diego Padres,Cincinnati Reds,4,5,N,16620,232
+01/07/2021,Thu,St. Louis Cardinals,Colorado Rockies,2,5,N,30410,167
+01/07/2021,Thu,Milwaukee Brewers,Pittsburgh Pirates,7,2,N,11074,217
+01/07/2021,Thu,Los Angeles Dodgers,Washington Nationals,6,2,N,21285,116
+01/07/2021,Thu,Kansas City Royals,Boston Red Sox,1,15,D,27913,188
+01/07/2021,Thu,Minnesota Twins,Chicago White Sox,5,8,D,24944,229
+01/07/2021,Thu,Houston Astros,Cleveland Indians,7,2,N,13772,184
+01/07/2021,Thu,Texas Rangers,Oakland Athletics,8,3,D,5182,172
+01/07/2021,Thu,Seattle Mariners,Toronto Blue Jays,7,2,D,5456,203
+02/07/2021,Fri,San Francisco Giants,Arizona D'Backs,11,4,N,12262,220
+02/07/2021,Fri,Miami Marlins,Atlanta Braves,0,1,N,38203,204
+02/07/2021,Fri,Chicago Cubs,Cincinnati Reds,1,2,N,40854,192
+02/07/2021,Fri,St. Louis Cardinals,Colorado Rockies,9,3,N,47224,230
+02/07/2021,Fri,San Diego Padres,Philadelphia Phillies,3,4,N,22653,189
+02/07/2021,Fri,Milwaukee Brewers,Pittsburgh Pirates,7,2,N,15421,172
+02/07/2021,Fri,Los Angeles Dodgers,Washington Nationals,10,5,N,27689,196
+02/07/2021,Fri,Baltimore Orioles,Los Angeles Angels,7,8,N,23561,206
+02/07/2021,Fri,Houston Astros,Cleveland Indians,6,3,N,24337,209
+02/07/2021,Fri,Chicago White Sox,Detroit Tigers,8,2,N,18185,211
+02/07/2021,Fri,Minnesota Twins,Kansas City Royals,4,7,N,31824,198
+02/07/2021,Fri,Boston Red Sox,Oakland Athletics,3,2,N,32304,184
+02/07/2021,Fri,Texas Rangers,Seattle Mariners,4,5,N,28638,259
+02/07/2021,Fri,Tampa Bay Rays,Toronto Blue Jays,1,11,N,10011,179
+03/07/2021,Sat,San Francisco Giants,Arizona D'Backs,6,5,N,23689,227
+03/07/2021,Sat,Miami Marlins,Atlanta Braves,3,2,D,38526,194
+03/07/2021,Sat,Chicago Cubs,Cincinnati Reds,2,3,D,36815,178
+03/07/2021,Sat,St. Louis Cardinals,Colorado Rockies,2,3,N,48182,203
+03/07/2021,Sat,San Diego Padres,Philadelphia Phillies,2,4,D,25053,170
+03/07/2021,Sat,Milwaukee Brewers,Pittsburgh Pirates,11,2,D,17451,225
+03/07/2021,Sat,Los Angeles Dodgers,Washington Nationals,5,3,N,42064,201
+03/07/2021,Sat,Baltimore Orioles,Los Angeles Angels,1,4,N,28160,172
+03/07/2021,Sat,Houston Astros,Cleveland Indians,3,2,N,24961,204
+03/07/2021,Sat,Chicago White Sox,Detroit Tigers,5,11,D,17230,187
+03/07/2021,Sat,Minnesota Twins,Kansas City Royals,3,6,D,16133,177
+03/07/2021,Sat,New York Mets,New York Yankees,8,3,D,40047,220
+03/07/2021,Sat,Boston Red Sox,Oakland Athletics,6,7,D,16297,264
+03/07/2021,Sat,Texas Rangers,Seattle Mariners,7,3,N,16046,192
+03/07/2021,Sat,Tampa Bay Rays,Toronto Blue Jays,3,6,D,9189,165
+04/07/2021,Sun,San Francisco Giants,Arizona D'Backs,5,2,N,27032,163
+04/07/2021,Sun,Miami Marlins,Atlanta Braves,7,8,D,34485,248
+04/07/2021,Sun,Chicago Cubs,Cincinnati Reds,2,3,D,29340,179
+04/07/2021,Sun,St. Louis Cardinals,Colorado Rockies,2,3,D,36891,196
+04/07/2021,Sun,San Diego Padres,Philadelphia Phillies,11,1,D,25592,225
+04/07/2021,Sun,Milwaukee Brewers,Pittsburgh Pirates,0,2,D,12527,161
+04/07/2021,Sun,Los Angeles Dodgers,Washington Nationals,5,1,D,37187,217
+04/07/2021,Sun,Baltimore Orioles,Los Angeles Angels,5,6,D,18955,184
+04/07/2021,Sun,Houston Astros,Cleveland Indians,4,3,D,17412,196
+04/07/2021,Sun,Chicago White Sox,Detroit Tigers,5,6,D,15342,205
+04/07/2021,Sun,Minnesota Twins,Kansas City Royals,6,2,D,15350,191
+04/07/2021,Sun,New York Mets,New York Yankees,10,5,D,42714,196
+04/07/2021,Sun,New York Mets,New York Yankees,2,4,N,42107,134
+04/07/2021,Sun,Boston Red Sox,Oakland Athletics,1,0,D,13070,172
+04/07/2021,Sun,Texas Rangers,Seattle Mariners,1,4,D,15146,142
+04/07/2021,Sun,Tampa Bay Rays,Toronto Blue Jays,5,1,D,7537,173
+05/07/2021,Mon,Philadelphia Phillies,Chicago Cubs,13,3,N,37165,213
+05/07/2021,Mon,Los Angeles Dodgers,Miami Marlins,4,5,N,15290,228
+05/07/2021,Mon,Milwaukee Brewers,New York Mets,2,4,N,15145,178
+05/07/2021,Mon,Atlanta Braves,Pittsburgh Pirates,1,11,N,11600,211
+05/07/2021,Mon,Washington Nationals,San Diego Padres,7,5,N,33168,224
+05/07/2021,Mon,St. Louis Cardinals,San Francisco Giants,5,3,D,32644,184
+05/07/2021,Mon,Boston Red Sox,Los Angeles Angels,5,4,N,38201,226
+05/07/2021,Mon,Cincinnati Reds,Kansas City Royals,6,2,N,14709,180
+05/07/2021,Mon,Chicago White Sox,Minnesota Twins,5,8,N,20321,218
+05/07/2021,Mon,Cleveland Indians,Tampa Bay Rays,8,9,N,8832,219
+05/07/2021,Mon,Detroit Tigers,Texas Rangers,7,3,N,34484,175
+06/07/2021,Tue,Colorado Rockies,Arizona D'Backs,3,4,N,6847,197
+06/07/2021,Tue,Philadelphia Phillies,Chicago Cubs,15,10,N,30095,225
+06/07/2021,Tue,Los Angeles Dodgers,Miami Marlins,1,2,N,7993,274
+06/07/2021,Tue,Atlanta Braves,Pittsburgh Pirates,1,2,N,10844,200
+06/07/2021,Tue,Washington Nationals,San Diego Padres,4,7,N,29977,205
+06/07/2021,Tue,St. Louis Cardinals,San Francisco Giants,6,5,N,18785,208
+06/07/2021,Tue,Boston Red Sox,Los Angeles Angels,3,5,N,28689,174
+06/07/2021,Tue,Toronto Blue Jays,Baltimore Orioles,5,7,N,7388,183
+06/07/2021,Tue,Oakland Athletics,Houston Astros,6,9,N,26353,195
+06/07/2021,Tue,Cincinnati Reds,Kansas City Royals,6,7,N,14491,212
+06/07/2021,Tue,Chicago White Sox,Minnesota Twins,4,1,N,18437,177
+06/07/2021,Tue,New York Yankees,Seattle Mariners,12,1,N,16547,217
+06/07/2021,Tue,Detroit Tigers,Texas Rangers,5,10,N,24367,170
+07/07/2021,Wed,Colorado Rockies,Arizona D'Backs,4,6,N,7852,182
+07/07/2021,Wed,Philadelphia Phillies,Chicago Cubs,3,8,N,28860,174
+07/07/2021,Wed,Los Angeles Dodgers,Miami Marlins,6,9,N,9523,226
+07/07/2021,Wed,Milwaukee Brewers,New York Mets,3,4,D,20953,165
+07/07/2021,Wed,Milwaukee Brewers,New York Mets,5,0,N,13218,146
+07/07/2021,Wed,Atlanta Braves,Pittsburgh Pirates,14,3,D,10094,248
+07/07/2021,Wed,Washington Nationals,San Diego Padres,15,5,N,26353,212
+07/07/2021,Wed,St. Louis Cardinals,San Francisco Giants,2,5,N,19067,187
+07/07/2021,Wed,Boston Red Sox,Los Angeles Angels,4,5,D,20001,175
+07/07/2021,Wed,Toronto Blue Jays,Baltimore Orioles,10,2,N,7457,203
+07/07/2021,Wed,Oakland Athletics,Houston Astros,3,4,N,21150,178
+07/07/2021,Wed,Cincinnati Reds,Kansas City Royals,5,2,D,11457,189
+07/07/2021,Wed,Chicago White Sox,Minnesota Twins,6,1,D,19664,189
+07/07/2021,Wed,New York Yankees,Seattle Mariners,5,4,N,17205,182
+07/07/2021,Wed,Cleveland Indians,Tampa Bay Rays,1,8,D,0,133
+07/07/2021,Wed,Cleveland Indians,Tampa Bay Rays,0,4,N,10905,124
+07/07/2021,Wed,Detroit Tigers,Texas Rangers,5,3,D,33043,191
+08/07/2021,Thu,Colorado Rockies,Arizona D'Backs,9,3,D,7740,203
+08/07/2021,Thu,Philadelphia Phillies,Chicago Cubs,8,0,N,30727,195
+08/07/2021,Thu,Los Angeles Dodgers,Miami Marlins,6,1,D,12031,185
+08/07/2021,Thu,Cincinnati Reds,Milwaukee Brewers,3,5,N,22948,196
+08/07/2021,Thu,Washington Nationals,San Diego Padres,8,9,N,29434,220
+08/07/2021,Thu,Kansas City Royals,Cleveland Indians,4,7,N,13272,190
+08/07/2021,Thu,Oakland Athletics,Houston Astros,2,1,D,29243,172
+08/07/2021,Thu,Detroit Tigers,Minnesota Twins,3,5,N,18192,143
+08/07/2021,Thu,New York Yankees,Seattle Mariners,0,4,D,17524,147
+09/07/2021,Fri,St. Louis Cardinals,Chicago Cubs,5,10,D,36192,237
+09/07/2021,Fri,Arizona D'Backs,Los Angeles Dodgers,5,2,N,49215,214
+09/07/2021,Fri,Atlanta Braves,Miami Marlins,5,0,N,7446,181
+09/07/2021,Fri,Cincinnati Reds,Milwaukee Brewers,2,0,N,24844,170
+09/07/2021,Fri,Pittsburgh Pirates,New York Mets,4,13,N,20350,207
+09/07/2021,Fri,Colorado Rockies,San Diego Padres,2,4,N,34953,180
+09/07/2021,Fri,Washington Nationals,San Francisco Giants,3,5,N,27345,177
+09/07/2021,Fri,Chicago White Sox,Baltimore Orioles,12,1,N,12077,210
+09/07/2021,Fri,Philadelphia Phillies,Boston Red Sox,5,11,N,32641,224
+09/07/2021,Fri,Kansas City Royals,Cleveland Indians,1,2,N,21395,146
+09/07/2021,Fri,New York Yankees,Houston Astros,4,0,N,40857,194
+09/07/2021,Fri,Detroit Tigers,Minnesota Twins,2,4,N,21725,177
+09/07/2021,Fri,Los Angeles Angels,Seattle Mariners,3,7,N,20381,211
+09/07/2021,Fri,Toronto Blue Jays,Tampa Bay Rays,1,7,N,8551,211
+09/07/2021,Fri,Oakland Athletics,Texas Rangers,2,3,N,29619,183
+10/07/2021,Sat,St. Louis Cardinals,Chicago Cubs,6,0,N,39368,212
+10/07/2021,Sat,Arizona D'Backs,Los Angeles Dodgers,1,22,N,44654,199
+10/07/2021,Sat,Atlanta Braves,Miami Marlins,5,4,D,12178,217
+10/07/2021,Sat,Cincinnati Reds,Milwaukee Brewers,4,3,N,32034,198
+10/07/2021,Sat,Pittsburgh Pirates,New York Mets,6,2,D,0,142
+10/07/2021,Sat,Pittsburgh Pirates,New York Mets,2,4,N,31924,174
+10/07/2021,Sat,Colorado Rockies,San Diego Padres,3,0,N,42351,186
+10/07/2021,Sat,Washington Nationals,San Francisco Giants,4,10,D,25901,207
+10/07/2021,Sat,Chicago White Sox,Baltimore Orioles,8,3,D,26391,204
+10/07/2021,Sat,Philadelphia Phillies,Boston Red Sox,11,2,D,33202,207
+10/07/2021,Sat,Kansas City Royals,Cleveland Indians,6,14,N,24077,200
+10/07/2021,Sat,New York Yankees,Houston Astros,1,0,N,41259,180
+10/07/2021,Sat,Detroit Tigers,Minnesota Twins,4,9,D,21030,206
+10/07/2021,Sat,Los Angeles Angels,Seattle Mariners,0,2,N,27353,170
+10/07/2021,Sat,Toronto Blue Jays,Tampa Bay Rays,2,5,D,9954,199
+10/07/2021,Sat,Oakland Athletics,Texas Rangers,8,4,D,30030,235
+11/07/2021,Sun,Arizona D'Backs,Los Angeles Dodgers,4,7,D,40464,220
+11/07/2021,Sun,Atlanta Braves,Miami Marlins,4,7,D,9456,185
+11/07/2021,Sun,Cincinnati Reds,Milwaukee Brewers,3,1,D,32135,228
+11/07/2021,Sun,Pittsburgh Pirates,New York Mets,6,5,D,26420,207
+11/07/2021,Sun,Colorado Rockies,San Diego Padres,3,1,D,38235,193
+11/07/2021,Sun,Washington Nationals,San Francisco Giants,1,3,D,26639,173
+11/07/2021,Sun,Chicago White Sox,Baltimore Orioles,7,5,D,11600,227
+11/07/2021,Sun,Philadelphia Phillies,Boston Red Sox,5,4,D,32586,215
+11/07/2021,Sun,New York Yankees,Houston Astros,7,8,D,37928,218
+11/07/2021,Sun,Detroit Tigers,Minnesota Twins,9,12,D,20744,249
+11/07/2021,Sun,Los Angeles Angels,Seattle Mariners,7,1,D,23348,212
+11/07/2021,Sun,Toronto Blue Jays,Tampa Bay Rays,3,1,D,11233,152
+11/07/2021,Sun,Oakland Athletics,Texas Rangers,4,1,D,30531,159
+16/07/2021,Fri,Chicago Cubs,Arizona D'Backs,5,1,N,22046,189
+16/07/2021,Fri,Tampa Bay Rays,Atlanta Braves,7,6,N,40485,226
+16/07/2021,Fri,Milwaukee Brewers,Cincinnati Reds,11,6,N,34844,209
+16/07/2021,Fri,Los Angeles Dodgers,Colorado Rockies,10,4,N,44251,197
+16/07/2021,Fri,Miami Marlins,Philadelphia Phillies,2,5,D,0,155
+16/07/2021,Fri,Miami Marlins,Philadelphia Phillies,7,0,N,28712,141
+16/07/2021,Fri,New York Mets,Pittsburgh Pirates,1,4,N,18119,210
+16/07/2021,Fri,San Francisco Giants,St. Louis Cardinals,7,2,N,33743,202
+16/07/2021,Fri,San Diego Padres,Washington Nationals,24,8,N,29203,255
+16/07/2021,Fri,Seattle Mariners,Los Angeles Angels,6,5,N,40880,187
+16/07/2021,Fri,Houston Astros,Chicago White Sox,7,1,N,34516,187
+16/07/2021,Fri,Baltimore Orioles,Kansas City Royals,2,9,N,23763,181
+16/07/2021,Fri,Boston Red Sox,New York Yankees,4,0,N,40130,183
+16/07/2021,Fri,Cleveland Indians,Oakland Athletics,4,5,N,12361,178
+16/07/2021,Fri,Texas Rangers,Toronto Blue Jays,2,10,N,10100,178
+17/07/2021,Sat,Chicago Cubs,Arizona D'Backs,4,2,D,20180,195
+17/07/2021,Sat,Tampa Bay Rays,Atlanta Braves,0,9,N,40868,153
+17/07/2021,Sat,Milwaukee Brewers,Cincinnati Reds,7,4,N,37204,277
+17/07/2021,Sat,Los Angeles Dodgers,Colorado Rockies,9,2,N,48245,176
+17/07/2021,Sat,Miami Marlins,Philadelphia Phillies,2,4,D,21390,210
+17/07/2021,Sat,New York Mets,Pittsburgh Pirates,7,9,N,27222,229
+17/07/2021,Sat,San Francisco Giants,St. Louis Cardinals,1,3,N,40489,156
+17/07/2021,Sat,San Diego Padres,Washington Nationals,10,4,D,33232,217
+17/07/2021,Sat,Seattle Mariners,Los Angeles Angels,4,9,N,28927,200
+17/07/2021,Sat,Houston Astros,Chicago White Sox,1,10,N,34304,171
+17/07/2021,Sat,Minnesota Twins,Detroit Tigers,0,1,D,13747,115
+17/07/2021,Sat,Minnesota Twins,Detroit Tigers,4,5,N,31624,176
+17/07/2021,Sat,Baltimore Orioles,Kansas City Royals,8,4,N,27292,183
+17/07/2021,Sat,Boston Red Sox,New York Yankees,1,3,N,37095,163
+17/07/2021,Sat,Cleveland Indians,Oakland Athletics,3,2,D,11374,191
+18/07/2021,Sun,Chicago Cubs,Arizona D'Backs,4,6,D,21457,189
+18/07/2021,Sun,Tampa Bay Rays,Atlanta Braves,7,5,D,34544,191
+18/07/2021,Sun,Milwaukee Brewers,Cincinnati Reds,8,0,D,29001,201
+18/07/2021,Sun,Los Angeles Dodgers,Colorado Rockies,5,6,D,35513,212
+18/07/2021,Sun,Miami Marlins,Philadelphia Phillies,4,7,D,20588,208
+18/07/2021,Sun,New York Mets,Pittsburgh Pirates,7,6,D,17837,229
+18/07/2021,Sun,San Francisco Giants,St. Louis Cardinals,1,2,D,29425,182
+18/07/2021,Sun,San Diego Padres,Washington Nationals,7,8,D,27221,220
+18/07/2021,Sun,Seattle Mariners,Los Angeles Angels,7,4,D,23434,200
+18/07/2021,Sun,Houston Astros,Chicago White Sox,0,4,D,34148,148
+18/07/2021,Sun,Minnesota Twins,Detroit Tigers,0,7,D,15854,150
+18/07/2021,Sun,Baltimore Orioles,Kansas City Royals,5,0,D,13706,186
+18/07/2021,Sun,Boston Red Sox,New York Yankees,1,9,N,40309,224
+18/07/2021,Sun,Cleveland Indians,Oakland Athletics,4,2,D,8572,175
+18/07/2021,Sun,Texas Rangers,Toronto Blue Jays,0,5,D,0,108
+18/07/2021,Sun,Texas Rangers,Toronto Blue Jays,0,10,D,12335,111
+19/07/2021,Mon,Pittsburgh Pirates,Arizona D'Backs,2,4,N,9173,205
+19/07/2021,Mon,New York Mets,Cincinnati Reds,15,11,N,17080,285
+19/07/2021,Mon,San Francisco Giants,Los Angeles Dodgers,7,2,N,50970,225
+19/07/2021,Mon,Chicago Cubs,St. Louis Cardinals,3,8,N,38199,180
+19/07/2021,Mon,Miami Marlins,Washington Nationals,1,18,N,15283,173
+19/07/2021,Mon,Minnesota Twins,Chicago White Sox,3,2,D,0,165
+19/07/2021,Mon,Minnesota Twins,Chicago White Sox,3,5,N,18272,114
+19/07/2021,Mon,Texas Rangers,Detroit Tigers,0,14,N,13704,205
+19/07/2021,Mon,Cleveland Indians,Houston Astros,3,4,N,21963,205
+19/07/2021,Mon,Los Angeles Angels,Oakland Athletics,1,4,N,14856,171
+19/07/2021,Mon,Baltimore Orioles,Tampa Bay Rays,6,1,N,9922,189
+19/07/2021,Mon,Boston Red Sox,Toronto Blue Jays,13,4,N,12811,212
+20/07/2021,Tue,Pittsburgh Pirates,Arizona D'Backs,6,11,N,7283,191
+20/07/2021,Tue,San Diego Padres,Atlanta Braves,1,2,N,36621,170
+20/07/2021,Tue,New York Mets,Cincinnati Reds,3,4,N,19096,193
+20/07/2021,Tue,Seattle Mariners,Colorado Rockies,6,4,N,30715,196
+20/07/2021,Tue,San Francisco Giants,Los Angeles Dodgers,6,8,N,42344,202
+20/07/2021,Tue,Kansas City Royals,Milwaukee Brewers,5,2,D,20140,191
+20/07/2021,Tue,Chicago Cubs,St. Louis Cardinals,7,6,N,35402,223
+20/07/2021,Tue,Miami Marlins,Washington Nationals,3,6,N,17362,176
+20/07/2021,Tue,Minnesota Twins,Chicago White Sox,5,9,N,17703,214
+20/07/2021,Tue,Texas Rangers,Detroit Tigers,1,4,N,13333,153
+20/07/2021,Tue,Cleveland Indians,Houston Astros,3,9,N,26586,193
+20/07/2021,Tue,Philadelphia Phillies,New York Yankees,4,6,N,36106,226
+20/07/2021,Tue,Los Angeles Angels,Oakland Athletics,0,6,D,9154,181
+20/07/2021,Tue,Baltimore Orioles,Tampa Bay Rays,3,9,N,10399,180
+21/07/2021,Wed,Pittsburgh Pirates,Arizona D'Backs,4,6,D,7863,204
+21/07/2021,Wed,San Diego Padres,Atlanta Braves,3,2,D,28621,156
+21/07/2021,Wed,San Diego Padres,Atlanta Braves,6,5,N,,126
+21/07/2021,Wed,New York Mets,Cincinnati Reds,7,0,D,19896,179
+21/07/2021,Wed,Seattle Mariners,Colorado Rockies,3,6,D,25053,155
+21/07/2021,Wed,San Francisco Giants,Los Angeles Dodgers,4,2,N,52076,178
+21/07/2021,Wed,Kansas City Royals,Milwaukee Brewers,6,3,D,30063,186
+21/07/2021,Wed,Chicago Cubs,St. Louis Cardinals,2,3,N,37008,249
+21/07/2021,Wed,Miami Marlins,Washington Nationals,3,1,N,21058,202
+21/07/2021,Wed,Minnesota Twins,Chicago White Sox,7,2,N,25600,195
+21/07/2021,Wed,Texas Rangers,Detroit Tigers,2,4,N,21132,147
+21/07/2021,Wed,Cleveland Indians,Houston Astros,5,4,N,21712,187
+21/07/2021,Wed,Philadelphia Phillies,New York Yankees,5,6,N,34112,257
+21/07/2021,Wed,Baltimore Orioles,Tampa Bay Rays,4,5,D,8968,171
+21/07/2021,Wed,Boston Red Sox,Toronto Blue Jays,7,4,N,14607,174
+22/07/2021,Thu,San Francisco Giants,Los Angeles Dodgers,5,3,N,47312,187
+22/07/2021,Thu,San Diego Padres,Miami Marlins,3,2,N,10977,238
+22/07/2021,Thu,Atlanta Braves,Philadelphia Phillies,7,2,N,22645,189
+22/07/2021,Thu,Chicago Cubs,St. Louis Cardinals,2,3,N,41412,169
+22/07/2021,Thu,New York Yankees,Boston Red Sox,4,5,N,34761,228
+22/07/2021,Thu,Tampa Bay Rays,Cleveland Indians,5,4,N,19338,219
+22/07/2021,Thu,Texas Rangers,Detroit Tigers,5,7,D,16033,182
+22/07/2021,Thu,Los Angeles Angels,Minnesota Twins,3,2,N,23337,158
+22/07/2021,Thu,Oakland Athletics,Seattle Mariners,4,1,N,18553,203
+23/07/2021,Fri,Arizona D'Backs,Chicago Cubs,3,8,D,34059,191
+23/07/2021,Fri,St. Louis Cardinals,Cincinnati Reds,5,6,N,30605,223
+23/07/2021,Fri,Colorado Rockies,Los Angeles Dodgers,9,6,N,43730,246
+23/07/2021,Fri,San Diego Padres,Miami Marlins,5,2,N,9264,205
+23/07/2021,Fri,Chicago White Sox,Milwaukee Brewers,1,7,N,32714,180
+23/07/2021,Fri,Toronto Blue Jays,New York Mets,0,3,N,28126,153
+23/07/2021,Fri,Atlanta Braves,Philadelphia Phillies,1,5,N,23546,190
+23/07/2021,Fri,Pittsburgh Pirates,San Francisco Giants,6,4,N,26579,208
+23/07/2021,Fri,Washington Nationals,Baltimore Orioles,1,6,N,17022,167
+23/07/2021,Fri,New York Yankees,Boston Red Sox,2,6,N,34922,206
+23/07/2021,Fri,Tampa Bay Rays,Cleveland Indians,10,5,N,23180,185
+23/07/2021,Fri,Texas Rangers,Houston Astros,3,7,N,38853,195
+23/07/2021,Fri,Detroit Tigers,Kansas City Royals,3,5,N,24912,170
+23/07/2021,Fri,Los Angeles Angels,Minnesota Twins,4,5,N,21384,187
+23/07/2021,Fri,Oakland Athletics,Seattle Mariners,3,4,N,21312,197
+24/07/2021,Sat,Arizona D'Backs,Chicago Cubs,7,3,D,37190,195
+24/07/2021,Sat,St. Louis Cardinals,Cincinnati Reds,3,5,N,33489,175
+24/07/2021,Sat,Colorado Rockies,Los Angeles Dodgers,0,1,N,42245,158
+24/07/2021,Sat,San Diego Padres,Miami Marlins,2,3,N,13207,178
+24/07/2021,Sat,Chicago White Sox,Milwaukee Brewers,1,6,N,41686,190
+24/07/2021,Sat,Toronto Blue Jays,New York Mets,10,3,N,29269,213
+24/07/2021,Sat,Atlanta Braves,Philadelphia Phillies,15,3,N,24479,211
+24/07/2021,Sat,Pittsburgh Pirates,San Francisco Giants,10,2,N,30780,207
+24/07/2021,Sat,Washington Nationals,Baltimore Orioles,3,5,N,30898,161
+24/07/2021,Sat,New York Yankees,Boston Red Sox,4,3,D,35136,182
+24/07/2021,Sat,Tampa Bay Rays,Cleveland Indians,8,2,N,23324,179
+24/07/2021,Sat,Texas Rangers,Houston Astros,1,4,N,37050,190
+24/07/2021,Sat,Detroit Tigers,Kansas City Royals,8,9,N,24616,203
+24/07/2021,Sat,Los Angeles Angels,Minnesota Twins,2,1,N,22240,154
+24/07/2021,Sat,Oakland Athletics,Seattle Mariners,4,5,N,30843,206
+25/07/2021,Sun,Arizona D'Backs,Chicago Cubs,1,5,D,32602,193
+25/07/2021,Sun,St. Louis Cardinals,Cincinnati Reds,10,6,D,21947,244
+25/07/2021,Sun,Colorado Rockies,Los Angeles Dodgers,2,3,D,42621,199
+25/07/2021,Sun,San Diego Padres,Miami Marlins,3,9,D,12765,184
+25/07/2021,Sun,Chicago White Sox,Milwaukee Brewers,3,1,N,36887,193
+25/07/2021,Sun,Toronto Blue Jays,New York Mets,4,5,D,23675,198
+25/07/2021,Sun,Atlanta Braves,Philadelphia Phillies,1,2,D,19370,150
+25/07/2021,Sun,Pittsburgh Pirates,San Francisco Giants,1,6,D,30303,174
+25/07/2021,Sun,Washington Nationals,Baltimore Orioles,4,5,D,15690,198
+25/07/2021,Sun,New York Yankees,Boston Red Sox,4,5,D,32009,170
+25/07/2021,Sun,Tampa Bay Rays,Cleveland Indians,2,3,D,18614,166
+25/07/2021,Sun,Texas Rangers,Houston Astros,1,3,D,35627,179
+25/07/2021,Sun,Detroit Tigers,Kansas City Royals,1,6,D,12703,142
+25/07/2021,Sun,Los Angeles Angels,Minnesota Twins,6,2,D,23158,162
+25/07/2021,Sun,Oakland Athletics,Seattle Mariners,3,4,D,21501,187
+26/07/2021,Mon,Cincinnati Reds,Chicago Cubs,5,6,N,29215,240
+26/07/2021,Mon,Atlanta Braves,New York Mets,2,0,N,0,132
+26/07/2021,Mon,Atlanta Braves,New York Mets,0,1,N,24384,131
+26/07/2021,Mon,Washington Nationals,Philadelphia Phillies,5,6,N,23265,217
+26/07/2021,Mon,Colorado Rockies,Los Angeles Angels,2,6,N,22751,196
+26/07/2021,Mon,Toronto Blue Jays,Boston Red Sox,4,5,N,27142,197
+26/07/2021,Mon,Chicago White Sox,Kansas City Royals,3,4,N,12384,156
+26/07/2021,Mon,Detroit Tigers,Minnesota Twins,5,6,N,17713,226
+26/07/2021,Mon,Houston Astros,Seattle Mariners,8,11,N,15162,234
+27/07/2021,Tue,Cincinnati Reds,Chicago Cubs,7,4,N,28153,192
+27/07/2021,Tue,Atlanta Braves,New York Mets,12,5,N,24000,190
+27/07/2021,Tue,Washington Nationals,Philadelphia Phillies,6,4,N,20135,194
+27/07/2021,Tue,Milwaukee Brewers,Pittsburgh Pirates,9,0,N,10618,174
+27/07/2021,Tue,Oakland Athletics,San Diego Padres,4,7,N,40162,188
+27/07/2021,Tue,Los Angeles Dodgers,San Francisco Giants,1,2,N,32878,169
+27/07/2021,Tue,Colorado Rockies,Los Angeles Angels,12,3,N,16115,233
+27/07/2021,Tue,Miami Marlins,Baltimore Orioles,7,3,N,10098,186
+27/07/2021,Tue,St. Louis Cardinals,Cleveland Indians,4,2,N,19480,171
+27/07/2021,Tue,Chicago White Sox,Kansas City Royals,5,3,N,14298,155
+27/07/2021,Tue,Detroit Tigers,Minnesota Twins,6,5,N,17643,232
+27/07/2021,Tue,Houston Astros,Seattle Mariners,8,6,N,18930,206
+27/07/2021,Tue,New York Yankees,Tampa Bay Rays,4,3,N,12678,218
+27/07/2021,Tue,Arizona D'Backs,Texas Rangers,4,5,N,27336,188
+28/07/2021,Wed,Cincinnati Reds,Chicago Cubs,8,2,N,30134,217
+28/07/2021,Wed,Atlanta Braves,New York Mets,1,2,N,25787,181
+28/07/2021,Wed,Milwaukee Brewers,Pittsburgh Pirates,7,3,N,10204,181
+28/07/2021,Wed,Oakland Athletics,San Diego Padres,10,4,D,35351,208
+28/07/2021,Wed,Los Angeles Dodgers,San Francisco Giants,8,0,N,33728,190
+28/07/2021,Wed,Colorado Rockies,Los Angeles Angels,7,8,N,16365,218
+28/07/2021,Wed,Miami Marlins,Baltimore Orioles,7,8,N,8363,212
+28/07/2021,Wed,Toronto Blue Jays,Boston Red Sox,4,1,D,27410,156
+28/07/2021,Wed,Toronto Blue Jays,Boston Red Sox,1,4,N,27783,147
+28/07/2021,Wed,St. Louis Cardinals,Cleveland Indians,2,7,D,19927,188
+28/07/2021,Wed,Chicago White Sox,Kansas City Royals,2,3,N,13626,186
+28/07/2021,Wed,Detroit Tigers,Minnesota Twins,17,14,D,17817,243
+28/07/2021,Wed,Houston Astros,Seattle Mariners,11,4,D,18908,254
+28/07/2021,Wed,New York Yankees,Tampa Bay Rays,3,1,N,11525,205
+28/07/2021,Wed,Arizona D'Backs,Texas Rangers,3,2,N,26607,162
+29/07/2021,Thu,Cincinnati Reds,Chicago Cubs,7,4,D,32793,192
+29/07/2021,Thu,Atlanta Braves,New York Mets,6,3,D,26080,173
+29/07/2021,Thu,Washington Nationals,Philadelphia Phillies,3,1,D,0,126
+29/07/2021,Thu,Washington Nationals,Philadelphia Phillies,8,11,D,19219,198
+29/07/2021,Thu,Milwaukee Brewers,Pittsburgh Pirates,12,0,N,10503,187
+29/07/2021,Thu,Colorado Rockies,San Diego Padres,0,3,N,31884,173
+29/07/2021,Thu,Los Angeles Dodgers,San Francisco Giants,0,5,D,35136,165
+29/07/2021,Thu,Oakland Athletics,Los Angeles Angels,4,0,N,18631,194
+29/07/2021,Thu,Toronto Blue Jays,Boston Red Sox,13,1,N,33191,204
+29/07/2021,Thu,Baltimore Orioles,Detroit Tigers,2,6,N,15833,155
+29/07/2021,Thu,Chicago White Sox,Kansas City Royals,0,5,D,11210,166
+29/07/2021,Thu,New York Yankees,Tampa Bay Rays,0,14,D,14134,179
+30/07/2021,Fri,Los Angeles Dodgers,Arizona D'Backs,5,6,N,20780,273
+30/07/2021,Fri,Milwaukee Brewers,Atlanta Braves,9,5,N,38680,217
+30/07/2021,Fri,New York Yankees,Miami Marlins,3,1,N,18462,197
+30/07/2021,Fri,Cincinnati Reds,New York Mets,6,2,N,31787,182
+30/07/2021,Fri,Philadelphia Phillies,Pittsburgh Pirates,0,7,N,20591,213
+30/07/2021,Fri,Colorado Rockies,San Diego Padres,9,4,N,38686,197
+30/07/2021,Fri,Houston Astros,San Francisco Giants,9,6,N,28020,238
+30/07/2021,Fri,Minnesota Twins,St. Louis Cardinals,1,5,N,34036,165
+30/07/2021,Fri,Chicago Cubs,Washington Nationals,3,4,N,33882,167
+30/07/2021,Fri,Oakland Athletics,Los Angeles Angels,2,0,N,28861,198
+30/07/2021,Fri,Cleveland Indians,Chicago White Sox,4,6,N,36123,222
+30/07/2021,Fri,Baltimore Orioles,Detroit Tigers,4,3,N,18861,172
+30/07/2021,Fri,Boston Red Sox,Tampa Bay Rays,3,7,N,11109,191
+30/07/2021,Fri,Seattle Mariners,Texas Rangers,9,5,N,27542,197
+30/07/2021,Fri,Kansas City Royals,Toronto Blue Jays,4,6,N,13446,170
+31/07/2021,Sat,Los Angeles Dodgers,Arizona D'Backs,8,3,N,23814,213
+31/07/2021,Sat,Milwaukee Brewers,Atlanta Braves,1,8,N,39088,207
+31/07/2021,Sat,New York Yankees,Miami Marlins,4,2,N,25767,205
+31/07/2021,Sat,Cincinnati Reds,New York Mets,4,5,N,26477,202
+31/07/2021,Sat,Philadelphia Phillies,Pittsburgh Pirates,2,3,N,32071,179
+31/07/2021,Sat,Colorado Rockies,San Diego Padres,5,3,N,44144,193
+31/07/2021,Sat,Houston Astros,San Francisco Giants,6,8,D,27324,191
+31/07/2021,Sat,Minnesota Twins,St. Louis Cardinals,8,1,N,33432,178
+31/07/2021,Sat,Chicago Cubs,Washington Nationals,6,3,N,31444,196
+31/07/2021,Sat,Oakland Athletics,Los Angeles Angels,0,1,D,23207,163
+31/07/2021,Sat,Cleveland Indians,Chicago White Sox,12,11,N,35866,217
+31/07/2021,Sat,Baltimore Orioles,Detroit Tigers,5,2,N,25132,179
+31/07/2021,Sat,Boston Red Sox,Tampa Bay Rays,5,9,N,20521,214
+31/07/2021,Sat,Seattle Mariners,Texas Rangers,4,5,N,33463,199
+31/07/2021,Sat,Kansas City Royals,Toronto Blue Jays,0,4,D,13953,139
+01/08/2021,Sun,Los Angeles Dodgers,Arizona D'Backs,13,0,D,17195,193
+01/08/2021,Sun,Milwaukee Brewers,Atlanta Braves,2,1,D,33469,158
+01/08/2021,Sun,New York Yankees,Miami Marlins,3,1,D,20758,184
+01/08/2021,Sun,Cincinnati Reds,New York Mets,7,1,D,23443,186
+01/08/2021,Sun,Philadelphia Phillies,Pittsburgh Pirates,15,4,D,17875,224
+01/08/2021,Sun,Colorado Rockies,San Diego Padres,1,8,D,36247,182
+01/08/2021,Sun,Houston Astros,San Francisco Giants,3,5,D,29655,181
+01/08/2021,Sun,Minnesota Twins,St. Louis Cardinals,3,7,D,28975,181
+01/08/2021,Sun,Chicago Cubs,Washington Nationals,5,6,D,25520,200
+01/08/2021,Sun,Oakland Athletics,Los Angeles Angels,8,3,D,21597,188
+01/08/2021,Sun,Cleveland Indians,Chicago White Sox,1,2,D,34344,165
+01/08/2021,Sun,Baltimore Orioles,Detroit Tigers,2,6,D,17134,176
+01/08/2021,Sun,Boston Red Sox,Tampa Bay Rays,2,3,N,17816,171
+01/08/2021,Sun,Seattle Mariners,Texas Rangers,3,4,D,23664,185
+01/08/2021,Sun,Kansas City Royals,Toronto Blue Jays,1,5,D,14427,176
+02/08/2021,Mon,San Francisco Giants,Arizona D'Backs,11,8,N,8904,244
+02/08/2021,Mon,New York Mets,Miami Marlins,3,6,N,8771,191
+02/08/2021,Mon,Pittsburgh Pirates,Milwaukee Brewers,2,6,N,23563,210
+02/08/2021,Mon,Philadelphia Phillies,Washington Nationals,7,5,N,16393,196
+02/08/2021,Mon,Baltimore Orioles,New York Yankees,7,1,N,28879,192
+02/08/2021,Mon,Seattle Mariners,Tampa Bay Rays,8,2,N,5855,200
+02/08/2021,Mon,Los Angeles Angels,Texas Rangers,1,4,N,20533,149
+02/08/2021,Mon,Cleveland Indians,Toronto Blue Jays,5,2,D,14653,194
+03/08/2021,Tue,San Francisco Giants,Arizona D'Backs,1,3,N,8809,190
+03/08/2021,Tue,Minnesota Twins,Cincinnati Reds,7,5,N,18396,217
+03/08/2021,Tue,Chicago Cubs,Colorado Rockies,6,13,N,38188,184
+03/08/2021,Tue,Houston Astros,Los Angeles Dodgers,3,0,N,52692,203
+03/08/2021,Tue,New York Mets,Miami Marlins,4,5,N,7682,163
+03/08/2021,Tue,Pittsburgh Pirates,Milwaukee Brewers,8,5,N,24902,246
+03/08/2021,Tue,Atlanta Braves,St. Louis Cardinals,6,1,N,31509,159
+03/08/2021,Tue,Philadelphia Phillies,Washington Nationals,5,4,N,17417,155
+03/08/2021,Tue,Kansas City Royals,Chicago White Sox,1,7,N,19369,164
+03/08/2021,Tue,Boston Red Sox,Detroit Tigers,2,4,N,15724,204
+03/08/2021,Tue,Baltimore Orioles,New York Yankees,1,13,N,30815,184
+03/08/2021,Tue,San Diego Padres,Oakland Athletics,8,1,N,11985,200
+03/08/2021,Tue,Seattle Mariners,Tampa Bay Rays,4,2,N,10071,192
+03/08/2021,Tue,Los Angeles Angels,Texas Rangers,11,3,N,19074,203
+03/08/2021,Tue,Cleveland Indians,Toronto Blue Jays,2,7,N,14270,166
+04/08/2021,Wed,San Francisco Giants,Arizona D'Backs,7,1,N,8091,211
+04/08/2021,Wed,Minnesota Twins,Cincinnati Reds,5,6,D,16828,195
+04/08/2021,Wed,Chicago Cubs,Colorado Rockies,3,2,N,36205,184
+04/08/2021,Wed,Houston Astros,Los Angeles Dodgers,5,7,N,52724,190
+04/08/2021,Wed,New York Mets,Miami Marlins,5,3,N,9760,213
+04/08/2021,Wed,Pittsburgh Pirates,Milwaukee Brewers,2,4,D,28003,196
+04/08/2021,Wed,Atlanta Braves,St. Louis Cardinals,7,4,N,32205,208
+04/08/2021,Wed,Philadelphia Phillies,Washington Nationals,9,5,N,18482,190
+04/08/2021,Wed,Kansas City Royals,Chicago White Sox,9,1,N,22793,194
+04/08/2021,Wed,Boston Red Sox,Detroit Tigers,4,1,N,16633,200
+04/08/2021,Wed,Baltimore Orioles,New York Yankees,3,10,N,30055,176
+04/08/2021,Wed,San Diego Padres,Oakland Athletics,4,5,D,10648,203
+04/08/2021,Wed,Seattle Mariners,Tampa Bay Rays,3,4,D,9701,159
+04/08/2021,Wed,Los Angeles Angels,Texas Rangers,2,1,N,27360,173
+04/08/2021,Wed,Cleveland Indians,Toronto Blue Jays,6,8,N,14410,196
+05/08/2021,Thu,San Francisco Giants,Arizona D'Backs,5,4,D,8773,220
+05/08/2021,Thu,Pittsburgh Pirates,Cincinnati Reds,4,7,N,19393,197
+05/08/2021,Thu,Chicago Cubs,Colorado Rockies,5,6,D,30462,190
+05/08/2021,Thu,New York Mets,Miami Marlins,2,4,D,9745,218
+05/08/2021,Thu,Atlanta Braves,St. Louis Cardinals,8,4,N,30549,210
+05/08/2021,Thu,Philadelphia Phillies,Washington Nationals,7,6,D,22575,223
+05/08/2021,Thu,Kansas City Royals,Chicago White Sox,3,2,N,23589,178
+05/08/2021,Thu,Boston Red Sox,Detroit Tigers,1,8,D,19144,194
+05/08/2021,Thu,Minnesota Twins,Houston Astros,5,3,N,26208,194
+05/08/2021,Thu,Seattle Mariners,New York Yankees,3,5,N,33211,193
+05/08/2021,Thu,Los Angeles Angels,Texas Rangers,5,0,D,21670,179
+05/08/2021,Thu,Cleveland Indians,Toronto Blue Jays,0,3,N,14289,145
+06/08/2021,Fri,Washington Nationals,Atlanta Braves,4,8,N,34454,191
+06/08/2021,Fri,Chicago White Sox,Chicago Cubs,8,6,D,39539,267
+06/08/2021,Fri,Pittsburgh Pirates,Cincinnati Reds,0,10,N,27804,161
+06/08/2021,Fri,Miami Marlins,Colorado Rockies,2,14,N,28281,171
+06/08/2021,Fri,Los Angeles Angels,Los Angeles Dodgers,4,3,N,50822,241
+06/08/2021,Fri,San Francisco Giants,Milwaukee Brewers,1,2,N,33250,188
+06/08/2021,Fri,New York Mets,Philadelphia Phillies,2,4,N,30106,196
+06/08/2021,Fri,Arizona D'Backs,San Diego Padres,8,5,N,34038,189
+06/08/2021,Fri,Kansas City Royals,St. Louis Cardinals,2,4,N,29090,169
+06/08/2021,Fri,Tampa Bay Rays,Baltimore Orioles,10,6,N,11320,227
+06/08/2021,Fri,Detroit Tigers,Cleveland Indians,1,6,N,24485,191
+06/08/2021,Fri,Minnesota Twins,Houston Astros,5,4,N,29631,234
+06/08/2021,Fri,Seattle Mariners,New York Yankees,2,3,N,43180,256
+06/08/2021,Fri,Texas Rangers,Oakland Athletics,1,4,N,9022,210
+06/08/2021,Fri,Boston Red Sox,Toronto Blue Jays,4,12,N,14719,214
+07/08/2021,Sat,Washington Nationals,Atlanta Braves,3,2,N,38300,181
+07/08/2021,Sat,Chicago White Sox,Chicago Cubs,4,0,D,40077,190
+07/08/2021,Sat,Pittsburgh Pirates,Cincinnati Reds,3,11,N,31297,195
+07/08/2021,Sat,Miami Marlins,Colorado Rockies,4,7,N,39896,197
+07/08/2021,Sat,Los Angeles Angels,Los Angeles Dodgers,3,5,N,50808,185
+07/08/2021,Sat,San Francisco Giants,Milwaukee Brewers,9,6,N,34155,266
+07/08/2021,Sat,New York Mets,Philadelphia Phillies,3,5,D,37057,215
+07/08/2021,Sat,Arizona D'Backs,San Diego Padres,2,6,N,39134,198
+07/08/2021,Sat,Kansas City Royals,St. Louis Cardinals,2,5,N,36615,187
+07/08/2021,Sat,Tampa Bay Rays,Baltimore Orioles,12,3,N,18545,182
+07/08/2021,Sat,Detroit Tigers,Cleveland Indians,2,1,N,24560,159
+07/08/2021,Sat,Minnesota Twins,Houston Astros,0,4,N,29647,175
+07/08/2021,Sat,Seattle Mariners,New York Yankees,4,5,D,35165,191
+07/08/2021,Sat,Texas Rangers,Oakland Athletics,3,12,D,10082,184
+07/08/2021,Sat,Boston Red Sox,Toronto Blue Jays,0,1,D,14768,115
+07/08/2021,Sat,Boston Red Sox,Toronto Blue Jays,2,1,N,12659,179
+08/08/2021,Sun,Washington Nationals,Atlanta Braves,4,5,D,29101,162
+08/08/2021,Sun,Chicago White Sox,Chicago Cubs,9,3,N,39412,186
+08/08/2021,Sun,Pittsburgh Pirates,Cincinnati Reds,2,3,D,23740,172
+08/08/2021,Sun,Miami Marlins,Colorado Rockies,8,13,D,34677,186
+08/08/2021,Sun,Los Angeles Angels,Los Angeles Dodgers,2,8,D,46982,178
+08/08/2021,Sun,San Francisco Giants,Milwaukee Brewers,5,4,D,38597,169
+08/08/2021,Sun,New York Mets,Philadelphia Phillies,0,3,D,39186,140
+08/08/2021,Sun,Arizona D'Backs,San Diego Padres,0,2,D,30989,163
+08/08/2021,Sun,Kansas City Royals,St. Louis Cardinals,6,5,D,31943,223
+08/08/2021,Sun,Tampa Bay Rays,Baltimore Orioles,9,6,D,10576,212
+08/08/2021,Sun,Detroit Tigers,Cleveland Indians,5,7,D,19899,182
+08/08/2021,Sun,Minnesota Twins,Houston Astros,7,5,D,26825,247
+08/08/2021,Sun,Seattle Mariners,New York Yankees,2,0,D,35437,228
+08/08/2021,Sun,Texas Rangers,Oakland Athletics,3,6,D,9548,180
+08/08/2021,Sun,Boston Red Sox,Toronto Blue Jays,8,9,D,14766,244
+09/08/2021,Mon,Miami Marlins,San Diego Padres,3,8,N,26841,186
+09/08/2021,Mon,Cincinnati Reds,Cleveland Indians,3,9,N,10708,189
+09/08/2021,Mon,New York Yankees,Kansas City Royals,8,6,N,18477,292
+09/08/2021,Mon,Chicago White Sox,Minnesota Twins,11,1,N,17858,168
+10/08/2021,Tue,Cincinnati Reds,Atlanta Braves,2,3,N,24432,182
+10/08/2021,Tue,Milwaukee Brewers,Chicago Cubs,4,2,D,29031,158
+10/08/2021,Tue,Milwaukee Brewers,Chicago Cubs,6,3,N,28674,175
+10/08/2021,Tue,Washington Nationals,New York Mets,7,8,D,27261,217
+10/08/2021,Tue,Los Angeles Dodgers,Philadelphia Phillies,5,0,N,28333,215
+10/08/2021,Tue,St. Louis Cardinals,Pittsburgh Pirates,4,1,N,10056,171
+10/08/2021,Tue,Miami Marlins,San Diego Padres,5,6,N,32060,204
+10/08/2021,Tue,Arizona D'Backs,San Francisco Giants,7,8,N,23802,190
+10/08/2021,Tue,Los Angeles Angels,Toronto Blue Jays,6,3,D,3656,163
+10/08/2021,Tue,Detroit Tigers,Baltimore Orioles,9,4,N,7124,193
+10/08/2021,Tue,Tampa Bay Rays,Boston Red Sox,8,4,N,28356,208
+10/08/2021,Tue,Oakland Athletics,Cleveland Indians,4,3,N,13041,222
+10/08/2021,Tue,Colorado Rockies,Houston Astros,0,5,N,28931,208
+10/08/2021,Tue,New York Yankees,Kansas City Royals,4,8,N,18218,183
+10/08/2021,Tue,Chicago White Sox,Minnesota Twins,3,4,N,18302,163
+10/08/2021,Tue,Texas Rangers,Seattle Mariners,5,4,N,15412,208
+10/08/2021,Tue,Toronto Blue Jays,Los Angeles Angels,4,0,N,14443,143
+11/08/2021,Wed,Cincinnati Reds,Atlanta Braves,6,8,N,23375,238
+11/08/2021,Wed,Milwaukee Brewers,Chicago Cubs,10,0,N,29619,178
+11/08/2021,Wed,Los Angeles Dodgers,Philadelphia Phillies,8,2,N,32186,230
+11/08/2021,Wed,St. Louis Cardinals,Pittsburgh Pirates,4,0,N,8548,172
+11/08/2021,Wed,Miami Marlins,San Diego Padres,7,0,D,29753,187
+11/08/2021,Wed,Arizona D'Backs,San Francisco Giants,2,7,N,20037,194
+11/08/2021,Wed,Toronto Blue Jays,Los Angeles Angels,10,2,N,22620,183
+11/08/2021,Wed,Detroit Tigers,Baltimore Orioles,5,2,N,8990,181
+11/08/2021,Wed,Tampa Bay Rays,Boston Red Sox,8,20,N,30286,197
+11/08/2021,Wed,Oakland Athletics,Cleveland Indians,6,3,N,13560,194
+11/08/2021,Wed,Colorado Rockies,Houston Astros,1,5,D,22200,184
+11/08/2021,Wed,New York Yankees,Kansas City Royals,5,2,D,13748,202
+11/08/2021,Wed,Chicago White Sox,Minnesota Twins,0,1,D,22370,168
+11/08/2021,Wed,Texas Rangers,Seattle Mariners,1,2,N,15789,192
+12/08/2021,Thu,San Diego Padres,Arizona D'Backs,3,12,N,9086,222
+12/08/2021,Thu,Cincinnati Reds,Atlanta Braves,12,3,N,23395,192
+12/08/2021,Thu,Milwaukee Brewers,Chicago Cubs,17,4,D,32502,240
+12/08/2021,Thu,Washington Nationals,New York Mets,1,4,D,0,148
+12/08/2021,Thu,Washington Nationals,New York Mets,4,5,D,25870,166
+12/08/2021,Thu,Los Angeles Dodgers,Philadelphia Phillies,1,2,D,26122,190
+12/08/2021,Thu,St. Louis Cardinals,Pittsburgh Pirates,7,6,D,8676,219
+12/08/2021,Thu,Colorado Rockies,San Francisco Giants,0,7,N,24295,164
+12/08/2021,Thu,Toronto Blue Jays,Los Angeles Angels,3,6,N,19590,188
+12/08/2021,Thu,Detroit Tigers,Baltimore Orioles,6,4,D,8382,180
+12/08/2021,Thu,Tampa Bay Rays,Boston Red Sox,8,1,D,26803,179
+12/08/2021,Thu,New York Yankees,Chicago White Sox,8,9,N,7832,209
+12/08/2021,Thu,Oakland Athletics,Cleveland Indians,17,0,D,16559,207
+12/08/2021,Thu,Texas Rangers,Seattle Mariners,1,3,D,14031,128
+13/08/2021,Fri,San Diego Padres,Arizona D'Backs,2,3,N,12866,186
+13/08/2021,Fri,Chicago Cubs,Miami Marlins,10,14,N,11728,254
+13/08/2021,Fri,Los Angeles Dodgers,New York Mets,6,5,N,38395,258
+13/08/2021,Fri,Cincinnati Reds,Philadelphia Phillies,6,1,N,26074,178
+13/08/2021,Fri,Colorado Rockies,San Francisco Giants,4,5,N,36126,193
+13/08/2021,Fri,Atlanta Braves,Washington Nationals,4,2,N,24812,182
+13/08/2021,Fri,Houston Astros,Los Angeles Angels,4,1,N,23981,171
+13/08/2021,Fri,Baltimore Orioles,Boston Red Sox,1,8,N,28022,185
+13/08/2021,Fri,Cleveland Indians,Detroit Tigers,7,4,N,22107,177
+13/08/2021,Fri,St. Louis Cardinals,Kansas City Royals,6,0,N,30620,188
+13/08/2021,Fri,Tampa Bay Rays,Minnesota Twins,10,4,N,23125,194
+13/08/2021,Fri,Toronto Blue Jays,Seattle Mariners,2,3,N,28207,180
+13/08/2021,Fri,Oakland Athletics,Texas Rangers,6,8,N,26761,182
+14/08/2021,Sat,San Diego Padres,Arizona D'Backs,0,7,N,16716,151
+14/08/2021,Sat,Chicago Cubs,Miami Marlins,4,5,N,11225,183
+14/08/2021,Sat,Los Angeles Dodgers,New York Mets,2,1,N,38669,201
+14/08/2021,Sat,Cincinnati Reds,Philadelphia Phillies,1,6,D,25100,158
+14/08/2021,Sat,Milwaukee Brewers,Pittsburgh Pirates,4,14,D,16991,163
+14/08/2021,Sat,Milwaukee Brewers,Pittsburgh Pirates,6,0,N,24081,154
+14/08/2021,Sat,Colorado Rockies,San Francisco Giants,4,1,N,32282,187
+14/08/2021,Sat,Atlanta Braves,Washington Nationals,12,2,N,27959,197
+14/08/2021,Sat,Houston Astros,Los Angeles Angels,8,2,N,27121,215
+14/08/2021,Sat,Baltimore Orioles,Boston Red Sox,2,16,D,33118,192
+14/08/2021,Sat,New York Yankees,Chicago White Sox,7,5,N,38477,260
+14/08/2021,Sat,Cleveland Indians,Detroit Tigers,4,6,N,32845,207
+14/08/2021,Sat,St. Louis Cardinals,Kansas City Royals,9,4,N,35784,205
+14/08/2021,Sat,Tampa Bay Rays,Minnesota Twins,0,12,N,21034,171
+14/08/2021,Sat,Toronto Blue Jays,Seattle Mariners,3,9,N,26020,212
+14/08/2021,Sat,Oakland Athletics,Texas Rangers,8,3,N,31904,175
+15/08/2021,Sun,San Diego Padres,Arizona D'Backs,8,2,D,17722,199
+15/08/2021,Sun,Chicago Cubs,Miami Marlins,1,4,D,10262,201
+15/08/2021,Sun,Los Angeles Dodgers,New York Mets,14,4,N,31205,228
+15/08/2021,Sun,Cincinnati Reds,Philadelphia Phillies,7,4,D,28544,234
+15/08/2021,Sun,Milwaukee Brewers,Pittsburgh Pirates,2,1,D,12001,189
+15/08/2021,Sun,Colorado Rockies,San Francisco Giants,2,5,D,33337,173
+15/08/2021,Sun,Atlanta Braves,Washington Nationals,6,5,D,27488,199
+15/08/2021,Sun,Houston Astros,Los Angeles Angels,1,3,D,19281,182
+15/08/2021,Sun,Baltimore Orioles,Boston Red Sox,2,6,D,28935,187
+15/08/2021,Sun,New York Yankees,Chicago White Sox,5,3,D,37696,228
+15/08/2021,Sun,Cleveland Indians,Detroit Tigers,11,0,D,25684,171
+15/08/2021,Sun,St. Louis Cardinals,Kansas City Royals,7,2,D,18317,184
+15/08/2021,Sun,Tampa Bay Rays,Minnesota Twins,4,5,D,22467,201
+15/08/2021,Sun,Toronto Blue Jays,Seattle Mariners,8,3,D,22679,185
+15/08/2021,Sun,Oakland Athletics,Texas Rangers,4,7,D,24990,159
+16/08/2021,Mon,Chicago Cubs,Cincinnati Reds,5,14,N,15404,217
+16/08/2021,Mon,San Diego Padres,Colorado Rockies,5,6,N,24565,152
+16/08/2021,Mon,Pittsburgh Pirates,Los Angeles Dodgers,1,2,N,48005,170
+16/08/2021,Mon,Atlanta Braves,Miami Marlins,12,2,N,6442,208
+16/08/2021,Mon,New York Mets,San Francisco Giants,5,7,N,23511,203
+16/08/2021,Mon,Oakland Athletics,Chicago White Sox,2,5,N,19410,196
+16/08/2021,Mon,Houston Astros,Kansas City Royals,6,7,N,10228,186
+16/08/2021,Mon,Cleveland Indians,Minnesota Twins,4,5,N,15622,223
+16/08/2021,Mon,Los Angeles Angels,New York Yankees,1,2,N,37010,169
+16/08/2021,Mon,Baltimore Orioles,Tampa Bay Rays,2,9,N,5460,173
+17/08/2021,Tue,Philadelphia Phillies,Arizona D'Backs,2,3,N,7796,169
+17/08/2021,Tue,Chicago Cubs,Cincinnati Reds,2,1,N,13989,165
+17/08/2021,Tue,San Diego Padres,Colorado Rockies,3,7,N,28139,177
+17/08/2021,Tue,Pittsburgh Pirates,Los Angeles Dodgers,3,4,N,53114,209
+17/08/2021,Tue,Atlanta Braves,Miami Marlins,2,0,N,6079,153
+17/08/2021,Tue,New York Mets,San Francisco Giants,2,3,N,23610,147
+17/08/2021,Tue,Milwaukee Brewers,St. Louis Cardinals,2,0,N,28058,195
+17/08/2021,Tue,Toronto Blue Jays,Washington Nationals,6,12,N,20060,205
+17/08/2021,Tue,Oakland Athletics,Chicago White Sox,0,9,N,21025,166
+17/08/2021,Tue,Los Angeles Angels,Detroit Tigers,8,2,N,24714,210
+17/08/2021,Tue,Houston Astros,Kansas City Royals,1,3,N,9748,165
+17/08/2021,Tue,Cleveland Indians,Minnesota Twins,3,1,N,19605,181
+17/08/2021,Tue,Boston Red Sox,New York Yankees,3,5,D,39078,176
+17/08/2021,Tue,Boston Red Sox,New York Yankees,0,2,N,35237,151
+17/08/2021,Tue,Baltimore Orioles,Tampa Bay Rays,0,10,N,4795,175
+17/08/2021,Tue,Seattle Mariners,Texas Rangers,3,1,N,15140,176
+18/08/2021,Wed,Philadelphia Phillies,Arizona D'Backs,2,4,N,7968,177
+18/08/2021,Wed,Chicago Cubs,Cincinnati Reds,7,1,D,16922,181
+18/08/2021,Wed,San Diego Padres,Colorado Rockies,5,7,D,20692,190
+18/08/2021,Wed,Pittsburgh Pirates,Los Angeles Dodgers,0,9,N,52140,154
+18/08/2021,Wed,Atlanta Braves,Miami Marlins,11,9,N,6871,229
+18/08/2021,Wed,New York Mets,San Francisco Giants,6,2,D,25360,242
+18/08/2021,Wed,Milwaukee Brewers,St. Louis Cardinals,6,4,N,25938,243
+18/08/2021,Wed,Toronto Blue Jays,Washington Nationals,5,8,D,18336,199
+18/08/2021,Wed,Oakland Athletics,Chicago White Sox,2,3,N,22780,200
+18/08/2021,Wed,Los Angeles Angels,Detroit Tigers,3,1,N,27282,145
+18/08/2021,Wed,Houston Astros,Kansas City Royals,2,3,N,12278,169
+18/08/2021,Wed,Cleveland Indians,Minnesota Twins,7,8,D,19949,256
+18/08/2021,Wed,Boston Red Sox,New York Yankees,2,5,N,39166,221
+18/08/2021,Wed,Baltimore Orioles,Tampa Bay Rays,4,8,N,6673,189
+18/08/2021,Wed,Seattle Mariners,Texas Rangers,3,1,N,19119,180
+19/08/2021,Thu,Philadelphia Phillies,Arizona D'Backs,2,6,D,7165,168
+19/08/2021,Thu,Miami Marlins,Cincinnati Reds,1,6,N,11581,163
+19/08/2021,Thu,New York Mets,Los Angeles Dodgers,1,4,N,42133,166
+19/08/2021,Thu,Milwaukee Brewers,St. Louis Cardinals,4,8,N,27545,201
+19/08/2021,Thu,Oakland Athletics,Chicago White Sox,5,4,D,23853,177
+19/08/2021,Thu,Los Angeles Angels,Detroit Tigers,13,10,D,20847,238
+19/08/2021,Thu,Houston Astros,Kansas City Royals,6,3,D,9884,228
+19/08/2021,Thu,Minnesota Twins,New York Yankees,5,7,N,30019,174
+19/08/2021,Thu,Baltimore Orioles,Tampa Bay Rays,2,7,D,5826,169
+19/08/2021,Thu,Seattle Mariners,Texas Rangers,9,8,D,16391,242
+20/08/2021,Fri,Kansas City Royals,Chicago Cubs,6,2,D,31835,175
+20/08/2021,Fri,Miami Marlins,Cincinnati Reds,3,5,N,19106,155
+20/08/2021,Fri,Arizona D'Backs,Colorado Rockies,4,9,N,30243,196
+20/08/2021,Fri,New York Mets,Los Angeles Dodgers,2,3,N,48117,159
+20/08/2021,Fri,Washington Nationals,Milwaukee Brewers,4,1,N,27998,189
+20/08/2021,Fri,Philadelphia Phillies,San Diego Padres,4,3,N,40927,218
+20/08/2021,Fri,Pittsburgh Pirates,St. Louis Cardinals,4,0,N,28406,174
+20/08/2021,Fri,Atlanta Braves,Baltimore Orioles,3,0,N,13583,149
+20/08/2021,Fri,Texas Rangers,Boston Red Sox,0,6,N,30012,193
+20/08/2021,Fri,Los Angeles Angels,Cleveland Indians,1,9,N,22755,182
+20/08/2021,Fri,Seattle Mariners,Houston Astros,3,12,N,26899,185
+20/08/2021,Fri,Minnesota Twins,New York Yankees,2,10,N,39124,182
+20/08/2021,Fri,San Francisco Giants,Oakland Athletics,1,4,N,40133,186
+20/08/2021,Fri,Chicago White Sox,Tampa Bay Rays,7,5,N,13178,229
+20/08/2021,Fri,Detroit Tigers,Toronto Blue Jays,4,1,N,14649,186
+21/08/2021,Sat,Kansas City Royals,Chicago Cubs,4,2,D,34005,182
+21/08/2021,Sat,Miami Marlins,Cincinnati Reds,4,7,N,34433,172
+21/08/2021,Sat,Arizona D'Backs,Colorado Rockies,2,5,N,32699,184
+21/08/2021,Sat,New York Mets,Los Angeles Dodgers,3,4,D,44783,196
+21/08/2021,Sat,Washington Nationals,Milwaukee Brewers,6,9,D,36938,258
+21/08/2021,Sat,Philadelphia Phillies,San Diego Padres,3,4,N,43383,223
+21/08/2021,Sat,Pittsburgh Pirates,St. Louis Cardinals,5,4,N,30205,205
+21/08/2021,Sat,Atlanta Braves,Baltimore Orioles,5,4,N,15774,181
+21/08/2021,Sat,Texas Rangers,Boston Red Sox,10,1,N,32495,205
+21/08/2021,Sat,Los Angeles Angels,Cleveland Indians,1,5,D,31406,170
+21/08/2021,Sat,Seattle Mariners,Houston Astros,1,15,D,29908,202
+21/08/2021,Sat,Minnesota Twins,New York Yankees,1,7,D,35247,184
+21/08/2021,Sat,San Francisco Giants,Oakland Athletics,6,5,D,36230,213
+21/08/2021,Sat,Chicago White Sox,Tampa Bay Rays,4,8,D,22275,147
+21/08/2021,Sat,Detroit Tigers,Toronto Blue Jays,0,3,D,14887,137
+22/08/2021,Sun,Kansas City Royals,Chicago Cubs,9,1,D,29640,205
+22/08/2021,Sun,Miami Marlins,Cincinnati Reds,1,3,D,17797,163
+22/08/2021,Sun,Arizona D'Backs,Colorado Rockies,8,4,D,24552,230
+22/08/2021,Sun,New York Mets,Los Angeles Dodgers,7,2,D,52749,197
+22/08/2021,Sun,Washington Nationals,Milwaukee Brewers,3,7,D,33507,233
+22/08/2021,Sun,Philadelphia Phillies,San Diego Padres,7,4,D,38548,200
+22/08/2021,Sun,Pittsburgh Pirates,St. Louis Cardinals,0,3,D,34431,175
+22/08/2021,Sun,Atlanta Braves,Baltimore Orioles,3,1,D,11180,175
+22/08/2021,Sun,Los Angeles Angels,Cleveland Indians,0,3,N,1832,167
+22/08/2021,Sun,Seattle Mariners,Houston Astros,6,3,D,27526,238
+22/08/2021,Sun,San Francisco Giants,Oakland Athletics,2,1,D,30345,190
+22/08/2021,Sun,Chicago White Sox,Tampa Bay Rays,0,9,D,16696,185
+22/08/2021,Sun,Detroit Tigers,Toronto Blue Jays,5,3,D,14865,239
+23/08/2021,Mon,New York Yankees,Atlanta Braves,5,1,N,39176,178
+23/08/2021,Mon,Colorado Rockies,Chicago Cubs,4,6,N,25577,178
+23/08/2021,Mon,Arizona D'Backs,Pittsburgh Pirates,5,6,N,8596,220
+23/08/2021,Mon,Texas Rangers,Boston Red Sox,4,8,D,27652,224
+23/08/2021,Mon,Kansas City Royals,Houston Astros,7,1,N,18742,215
+23/08/2021,Mon,Seattle Mariners,Oakland Athletics,5,3,N,4140,187
+23/08/2021,Mon,Chicago White Sox,Toronto Blue Jays,1,2,N,14640,164
+24/08/2021,Tue,New York Yankees,Atlanta Braves,5,4,N,37426,215
+24/08/2021,Tue,Washington Nationals,Miami Marlins,5,1,N,5394,196
+24/08/2021,Tue,Cincinnati Reds,Milwaukee Brewers,4,7,N,24819,226
+24/08/2021,Tue,San Francisco Giants,New York Mets,8,0,N,28558,196
+24/08/2021,Tue,Tampa Bay Rays,Philadelphia Phillies,3,1,N,23402,177
+24/08/2021,Tue,Arizona D'Backs,Pittsburgh Pirates,2,4,N,8478,166
+24/08/2021,Tue,Los Angeles Dodgers,San Diego Padres,5,2,N,41676,203
+24/08/2021,Tue,Detroit Tigers,St. Louis Cardinals,4,3,N,28185,193
+24/08/2021,Tue,Los Angeles Angels,Baltimore Orioles,14,8,N,8781,230
+24/08/2021,Tue,Minnesota Twins,Boston Red Sox,9,11,N,27986,249
+24/08/2021,Tue,Texas Rangers,Cleveland Indians,7,3,N,11369,194
+24/08/2021,Tue,Kansas City Royals,Houston Astros,0,4,N,22964,201
+24/08/2021,Tue,Seattle Mariners,Oakland Athletics,5,1,D,4508,189
+24/08/2021,Tue,Chicago White Sox,Toronto Blue Jays,5,2,N,14553,192
+25/08/2021,Wed,Colorado Rockies,Chicago Cubs,2,5,D,24161,129
+25/08/2021,Wed,Colorado Rockies,Chicago Cubs,13,10,N,24936,258
+25/08/2021,Wed,Washington Nationals,Miami Marlins,3,4,N,6237,202
+25/08/2021,Wed,Cincinnati Reds,Milwaukee Brewers,1,4,N,24715,188
+25/08/2021,Wed,San Francisco Giants,New York Mets,3,2,N,24384,172
+25/08/2021,Wed,Tampa Bay Rays,Philadelphia Phillies,7,4,N,25552,168
+25/08/2021,Wed,Arizona D'Backs,Pittsburgh Pirates,5,2,N,8357,198
+25/08/2021,Wed,Los Angeles Dodgers,San Diego Padres,5,3,N,41765,349
+25/08/2021,Wed,Detroit Tigers,St. Louis Cardinals,2,3,D,24304,200
+25/08/2021,Wed,Los Angeles Angels,Baltimore Orioles,6,10,N,15867,202
+25/08/2021,Wed,Minnesota Twins,Boston Red Sox,9,6,N,28923,247
+25/08/2021,Wed,Texas Rangers,Cleveland Indians,2,7,N,11398,176
+25/08/2021,Wed,Kansas City Royals,Houston Astros,5,6,D,21052,225
+25/08/2021,Wed,Chicago White Sox,Toronto Blue Jays,1,3,N,14276,186
+26/08/2021,Thu,Washington Nationals,Miami Marlins,5,7,N,5447,205
+26/08/2021,Thu,Cincinnati Reds,Milwaukee Brewers,5,1,D,28656,180
+26/08/2021,Thu,San Francisco Giants,New York Mets,3,2,N,25000,187
+26/08/2021,Thu,Arizona D'Backs,Philadelphia Phillies,8,7,N,20148,234
+26/08/2021,Thu,St. Louis Cardinals,Pittsburgh Pirates,7,11,N,8618,187
+26/08/2021,Thu,Los Angeles Dodgers,San Diego Padres,4,0,N,43383,181
+26/08/2021,Thu,Los Angeles Angels,Baltimore Orioles,1,13,D,10211,187
+26/08/2021,Thu,Minnesota Twins,Boston Red Sox,2,12,N,33746,213
+26/08/2021,Thu,Texas Rangers,Cleveland Indians,6,10,N,10827,192
+26/08/2021,Thu,New York Yankees,Oakland Athletics,7,6,N,8147,223
+26/08/2021,Thu,Kansas City Royals,Seattle Mariners,6,4,N,16882,206
+26/08/2021,Thu,Chicago White Sox,Toronto Blue Jays,10,7,D,14958,194
+27/08/2021,Fri,San Francisco Giants,Atlanta Braves,5,6,N,35586,174
+27/08/2021,Fri,Colorado Rockies,Los Angeles Dodgers,4,2,N,40100,190
+27/08/2021,Fri,Cincinnati Reds,Miami Marlins,6,0,N,7119,148
+27/08/2021,Fri,Washington Nationals,New York Mets,2,1,N,20274,183
+27/08/2021,Fri,Arizona D'Backs,Philadelphia Phillies,6,7,N,23181,252
+27/08/2021,Fri,St. Louis Cardinals,Pittsburgh Pirates,4,3,N,12662,198
+27/08/2021,Fri,San Diego Padres,Los Angeles Angels,5,0,N,25376,162
+27/08/2021,Fri,Tampa Bay Rays,Baltimore Orioles,6,3,N,7155,145
+27/08/2021,Fri,Chicago Cubs,Chicago White Sox,13,17,N,37892,249
+27/08/2021,Fri,Boston Red Sox,Cleveland Indians,4,3,N,20881,178
+27/08/2021,Fri,Toronto Blue Jays,Detroit Tigers,1,2,N,17259,152
+27/08/2021,Fri,Milwaukee Brewers,Minnesota Twins,0,2,N,20280,202
+27/08/2021,Fri,New York Yankees,Oakland Athletics,8,2,N,22463,207
+27/08/2021,Fri,Kansas City Royals,Seattle Mariners,8,7,N,22953,280
+27/08/2021,Fri,Houston Astros,Texas Rangers,5,4,N,29286,195
+28/08/2021,Sat,San Francisco Giants,Atlanta Braves,5,0,N,39558,173
+28/08/2021,Sat,Colorado Rockies,Los Angeles Dodgers,2,5,N,42479,222
+28/08/2021,Sat,Cincinnati Reds,Miami Marlins,1,6,N,10407,180
+28/08/2021,Sat,Washington Nationals,New York Mets,3,5,N,27870,182
+28/08/2021,Sat,Arizona D'Backs,Philadelphia Phillies,0,7,N,24692,177
+28/08/2021,Sat,St. Louis Cardinals,Pittsburgh Pirates,13,0,N,20043,225
+28/08/2021,Sat,San Diego Padres,Los Angeles Angels,2,10,N,36176,215
+28/08/2021,Sat,Tampa Bay Rays,Baltimore Orioles,4,3,N,11110,170
+28/08/2021,Sat,Chicago Cubs,Chicago White Sox,7,0,N,38668,165
+28/08/2021,Sat,Boston Red Sox,Cleveland Indians,5,3,D,26221,239
+28/08/2021,Sat,Toronto Blue Jays,Detroit Tigers,3,2,N,18783,219
+28/08/2021,Sat,Milwaukee Brewers,Minnesota Twins,4,6,N,29342,167
+28/08/2021,Sat,New York Yankees,Oakland Athletics,2,3,D,18337,165
+28/08/2021,Sat,Kansas City Royals,Seattle Mariners,4,2,D,24575,193
+28/08/2021,Sat,Houston Astros,Texas Rangers,5,2,N,37810,168
+29/08/2021,Sun,San Francisco Giants,Atlanta Braves,0,9,D,28820,195
+29/08/2021,Sun,Colorado Rockies,Los Angeles Dodgers,5,0,D,37569,201
+29/08/2021,Sun,Cincinnati Reds,Miami Marlins,1,2,D,11019,156
+29/08/2021,Sun,Washington Nationals,New York Mets,4,9,D,24247,206
+29/08/2021,Sun,Arizona D'Backs,Philadelphia Phillies,4,7,D,22237,205
+29/08/2021,Sun,St. Louis Cardinals,Pittsburgh Pirates,3,4,D,10290,180
+29/08/2021,Sun,Tampa Bay Rays,Baltimore Orioles,12,8,D,8353,189
+29/08/2021,Sun,Chicago Cubs,Chicago White Sox,1,13,D,38565,180
+29/08/2021,Sun,Boston Red Sox,Cleveland Indians,5,7,D,22883,202
+29/08/2021,Sun,Toronto Blue Jays,Detroit Tigers,2,1,D,15956,174
+29/08/2021,Sun,Milwaukee Brewers,Minnesota Twins,6,2,D,26186,172
+29/08/2021,Sun,New York Yankees,Oakland Athletics,1,3,D,18468,192
+29/08/2021,Sun,Kansas City Royals,Seattle Mariners,3,4,D,20044,171
+29/08/2021,Sun,Houston Astros,Texas Rangers,2,13,D,31062,192
+30/08/2021,Mon,San Diego Padres,Arizona D'Backs,7,5,N,8482,215
+30/08/2021,Mon,St. Louis Cardinals,Cincinnati Reds,3,1,N,10773,167
+30/08/2021,Mon,Atlanta Braves,Los Angeles Dodgers,3,5,N,49410,180
+30/08/2021,Mon,Milwaukee Brewers,San Francisco Giants,3,1,N,23154,195
+30/08/2021,Mon,Philadelphia Phillies,Washington Nationals,7,4,N,17353,217
+30/08/2021,Mon,New York Yankees,Los Angeles Angels,7,8,N,29436,190
+30/08/2021,Mon,Minnesota Twins,Detroit Tigers,3,2,D,13425,162
+30/08/2021,Mon,Houston Astros,Seattle Mariners,4,3,N,11630,215
+30/08/2021,Mon,Boston Red Sox,Tampa Bay Rays,1,6,N,6753,200
+30/08/2021,Mon,Colorado Rockies,Texas Rangers,3,4,N,14990,169
+30/08/2021,Mon,Baltimore Orioles,Toronto Blue Jays,3,7,N,14406,175
+31/08/2021,Tue,San Diego Padres,Arizona D'Backs,3,0,N,10818,185
+31/08/2021,Tue,Atlanta Braves,Los Angeles Dodgers,2,3,N,44952,175
+31/08/2021,Tue,Miami Marlins,New York Mets,1,3,N,18101,125
+31/08/2021,Tue,Milwaukee Brewers,San Francisco Giants,6,2,N,20897,190
+31/08/2021,Tue,Philadelphia Phillies,Washington Nationals,12,6,N,16844,230
+31/08/2021,Tue,New York Yankees,Los Angeles Angels,4,6,N,34813,192
+31/08/2021,Tue,Pittsburgh Pirates,Chicago White Sox,2,4,N,19221,177
+31/08/2021,Tue,Oakland Athletics,Detroit Tigers,9,3,N,13853,178
+31/08/2021,Tue,Cleveland Indians,Kansas City Royals,7,2,N,11542,174
+31/08/2021,Tue,Chicago Cubs,Minnesota Twins,3,1,N,22224,214
+31/08/2021,Tue,Houston Astros,Seattle Mariners,0,4,N,10452,193
+31/08/2021,Tue,Boston Red Sox,Tampa Bay Rays,5,8,N,6868,188
+31/08/2021,Tue,Colorado Rockies,Texas Rangers,3,4,N,18383,196
+31/08/2021,Tue,Baltimore Orioles,Toronto Blue Jays,4,2,N,13963,175
+01/09/2021,Wed,San Diego Padres,Arizona D'Backs,3,8,D,5945,196
+01/09/2021,Wed,St. Louis Cardinals,Cincinnati Reds,5,4,D,10365,140
+01/09/2021,Wed,St. Louis Cardinals,Cincinnati Reds,2,12,N,10892,168
+01/09/2021,Wed,Atlanta Braves,Los Angeles Dodgers,3,4,N,47473,180
+01/09/2021,Wed,Milwaukee Brewers,San Francisco Giants,5,2,N,21189,225
+01/09/2021,Wed,New York Yankees,Los Angeles Angels,4,1,D,28753,170
+01/09/2021,Wed,Pittsburgh Pirates,Chicago White Sox,3,6,N,19231,179
+01/09/2021,Wed,Oakland Athletics,Detroit Tigers,6,8,N,12593,193
+01/09/2021,Wed,Cleveland Indians,Kansas City Royals,5,3,N,10516,216
+01/09/2021,Wed,Chicago Cubs,Minnesota Twins,3,0,N,21784,148
+01/09/2021,Wed,Houston Astros,Seattle Mariners,0,1,D,10519,197
+01/09/2021,Wed,Boston Red Sox,Tampa Bay Rays,3,2,N,7808,193
+01/09/2021,Wed,Colorado Rockies,Texas Rangers,9,5,D,14747,241
+01/09/2021,Wed,Baltimore Orioles,Toronto Blue Jays,4,5,N,14262,185
+02/09/2021,Thu,Pittsburgh Pirates,Chicago Cubs,5,6,N,26963,235
+02/09/2021,Thu,Atlanta Braves,Colorado Rockies,6,5,N,21481,171
+02/09/2021,Thu,Miami Marlins,New York Mets,3,4,N,23737,179
+02/09/2021,Thu,Milwaukee Brewers,San Francisco Giants,1,5,D,21023,151
+02/09/2021,Thu,Philadelphia Phillies,Washington Nationals,7,6,D,12280,232
+02/09/2021,Thu,Oakland Athletics,Detroit Tigers,8,6,D,11623,216
+02/09/2021,Thu,Cleveland Indians,Kansas City Royals,4,2,N,10042,176
+02/09/2021,Thu,Boston Red Sox,Tampa Bay Rays,4,0,N,7923,175
+03/09/2021,Fri,Seattle Mariners,Arizona D'Backs,6,5,N,12729,211
+03/09/2021,Fri,Pittsburgh Pirates,Chicago Cubs,5,6,D,24441,182
+03/09/2021,Fri,Detroit Tigers,Cincinnati Reds,15,5,N,19430,240
+03/09/2021,Fri,Atlanta Braves,Colorado Rockies,3,4,N,24371,151
+03/09/2021,Fri,Philadelphia Phillies,Miami Marlins,3,10,N,7073,188
+03/09/2021,Fri,St. Louis Cardinals,Milwaukee Brewers,15,4,N,23987,204
+03/09/2021,Fri,Houston Astros,San Diego Padres,6,3,N,37033,217
+03/09/2021,Fri,Los Angeles Dodgers,San Francisco Giants,2,3,N,39338,272
+03/09/2021,Fri,New York Mets,Washington Nationals,6,2,N,26779,229
+03/09/2021,Fri,Texas Rangers,Los Angeles Angels,2,3,N,19074,202
+03/09/2021,Fri,Cleveland Indians,Boston Red Sox,5,8,N,31127,189
+03/09/2021,Fri,Chicago White Sox,Kansas City Royals,2,7,N,14210,197
+03/09/2021,Fri,Baltimore Orioles,New York Yankees,3,4,N,34085,228
+03/09/2021,Fri,Minnesota Twins,Tampa Bay Rays,3,5,N,8864,145
+03/09/2021,Fri,Oakland Athletics,Toronto Blue Jays,10,11,N,14843,186
+04/09/2021,Sat,Seattle Mariners,Arizona D'Backs,8,5,N,18819,190
+04/09/2021,Sat,Pittsburgh Pirates,Chicago Cubs,6,7,D,30020,222
+04/09/2021,Sat,Detroit Tigers,Cincinnati Reds,4,7,N,26962,198
+04/09/2021,Sat,Atlanta Braves,Colorado Rockies,6,7,N,35351,190
+04/09/2021,Sat,Philadelphia Phillies,Miami Marlins,2,3,N,9256,186
+04/09/2021,Sat,St. Louis Cardinals,Milwaukee Brewers,0,4,N,33439,146
+04/09/2021,Sat,Houston Astros,San Diego Padres,2,10,N,35338,201
+04/09/2021,Sat,Los Angeles Dodgers,San Francisco Giants,6,1,N,41146,208
+04/09/2021,Sat,New York Mets,Washington Nationals,11,9,D,13916,245
+04/09/2021,Sat,New York Mets,Washington Nationals,3,4,N,22420,137
+04/09/2021,Sat,Texas Rangers,Los Angeles Angels,1,4,N,22697,141
+04/09/2021,Sat,Cleveland Indians,Boston Red Sox,3,4,D,33081,189
+04/09/2021,Sat,Chicago White Sox,Kansas City Royals,10,7,N,18800,216
+04/09/2021,Sat,Baltimore Orioles,New York Yankees,4,3,D,34571,234
+04/09/2021,Sat,Minnesota Twins,Tampa Bay Rays,4,11,D,13861,189
+04/09/2021,Sat,Oakland Athletics,Toronto Blue Jays,8,10,D,14947,193
+05/09/2021,Sun,Seattle Mariners,Arizona D'Backs,10,4,D,14408,229
+05/09/2021,Sun,Pittsburgh Pirates,Chicago Cubs,8,11,D,30155,252
+05/09/2021,Sun,Detroit Tigers,Cincinnati Reds,4,1,D,23083,174
+05/09/2021,Sun,Atlanta Braves,Colorado Rockies,9,2,D,33957,158
+05/09/2021,Sun,Philadelphia Phillies,Miami Marlins,4,3,D,8082,220
+05/09/2021,Sun,St. Louis Cardinals,Milwaukee Brewers,5,6,D,33845,248
+05/09/2021,Sun,Houston Astros,San Diego Padres,3,4,D,35007,178
+05/09/2021,Sun,Los Angeles Dodgers,San Francisco Giants,4,6,D,41155,202
+05/09/2021,Sun,New York Mets,Washington Nationals,13,6,D,22162,215
+05/09/2021,Sun,Texas Rangers,Los Angeles Angels,7,3,D,18492,195
+05/09/2021,Sun,Cleveland Indians,Boston Red Sox,11,5,D,27578,239
+05/09/2021,Sun,Chicago White Sox,Kansas City Royals,0,6,D,19696,174
+05/09/2021,Sun,Baltimore Orioles,New York Yankees,8,7,D,33091,241
+05/09/2021,Sun,Minnesota Twins,Tampa Bay Rays,6,5,D,14165,212
+05/09/2021,Sun,Oakland Athletics,Toronto Blue Jays,0,8,D,14988,182
+06/09/2021,Mon,Cincinnati Reds,Chicago Cubs,3,4,D,27289,165
+06/09/2021,Mon,San Francisco Giants,Colorado Rockies,10,5,D,27967,207
+06/09/2021,Mon,Philadelphia Phillies,Milwaukee Brewers,12,0,D,30192,201
+06/09/2021,Mon,Detroit Tigers,Pittsburgh Pirates,3,6,D,11141,166
+06/09/2021,Mon,Los Angeles Dodgers,St. Louis Cardinals,5,1,D,43575,157
+06/09/2021,Mon,New York Mets,Washington Nationals,3,4,D,17623,205
+06/09/2021,Mon,Texas Rangers,Los Angeles Angels,4,0,N,16241,157
+06/09/2021,Mon,Kansas City Royals,Baltimore Orioles,3,2,D,11973,182
+06/09/2021,Mon,Tampa Bay Rays,Boston Red Sox,11,10,D,26512,294
+06/09/2021,Mon,Minnesota Twins,Cleveland Indians,5,2,N,12675,172
+06/09/2021,Mon,Seattle Mariners,Houston Astros,2,11,N,25802,203
+06/09/2021,Mon,Toronto Blue Jays,New York Yankees,8,0,D,31196,165
+07/09/2021,Tue,Texas Rangers,Arizona D'Backs,3,1,N,8758,167
+07/09/2021,Tue,Washington Nationals,Atlanta Braves,5,8,N,20544,194
+07/09/2021,Tue,Cincinnati Reds,Chicago Cubs,4,3,N,24925,169
+07/09/2021,Tue,San Francisco Giants,Colorado Rockies,12,3,N,24387,182
+07/09/2021,Tue,New York Mets,Miami Marlins,9,4,N,5848,239
+07/09/2021,Tue,Philadelphia Phillies,Milwaukee Brewers,0,10,N,22955,185
+07/09/2021,Tue,Detroit Tigers,Pittsburgh Pirates,2,3,N,8329,196
+07/09/2021,Tue,Los Angeles Angels,San Diego Padres,4,0,N,34405,173
+07/09/2021,Tue,Los Angeles Dodgers,St. Louis Cardinals,7,2,N,34500,186
+07/09/2021,Tue,Kansas City Royals,Baltimore Orioles,3,7,N,4981,167
+07/09/2021,Tue,Tampa Bay Rays,Boston Red Sox,12,7,N,25065,177
+07/09/2021,Tue,Minnesota Twins,Cleveland Indians,3,0,N,10448,219
+07/09/2021,Tue,Seattle Mariners,Houston Astros,4,5,N,20353,209
+07/09/2021,Tue,Toronto Blue Jays,New York Yankees,5,1,N,30164,176
+07/09/2021,Tue,Chicago White Sox,Oakland Athletics,6,3,N,4556,200
+08/09/2021,Wed,Texas Rangers,Arizona D'Backs,8,5,D,6354,215
+08/09/2021,Wed,Washington Nationals,Atlanta Braves,4,2,N,20074,215
+08/09/2021,Wed,Cincinnati Reds,Chicago Cubs,1,4,N,25861,169
+08/09/2021,Wed,San Francisco Giants,Colorado Rockies,7,4,D,20358,215
+08/09/2021,Wed,New York Mets,Miami Marlins,1,2,N,6378,186
+08/09/2021,Wed,Philadelphia Phillies,Milwaukee Brewers,3,4,N,20654,209
+08/09/2021,Wed,Detroit Tigers,Pittsburgh Pirates,5,1,N,8382,171
+08/09/2021,Wed,Los Angeles Angels,San Diego Padres,5,8,N,34537,211
+08/09/2021,Wed,Los Angeles Dodgers,St. Louis Cardinals,4,5,N,35566,155
+08/09/2021,Wed,Kansas City Royals,Baltimore Orioles,8,9,N,4965,212
+08/09/2021,Wed,Tampa Bay Rays,Boston Red Sox,1,2,N,26649,166
+08/09/2021,Wed,Minnesota Twins,Cleveland Indians,3,0,N,11037,143
+08/09/2021,Wed,Seattle Mariners,Houston Astros,8,5,D,19089,226
+08/09/2021,Wed,Toronto Blue Jays,New York Yankees,6,3,N,25873,234
+08/09/2021,Wed,Chicago White Sox,Oakland Athletics,1,5,N,8147,170
+09/09/2021,Thu,Washington Nationals,Atlanta Braves,6,7,N,23657,227
+09/09/2021,Thu,New York Mets,Miami Marlins,2,3,N,8075,179
+09/09/2021,Thu,Colorado Rockies,Philadelphia Phillies,4,3,N,18071,180
+09/09/2021,Thu,Los Angeles Dodgers,St. Louis Cardinals,1,2,D,31173,176
+09/09/2021,Thu,Kansas City Royals,Baltimore Orioles,6,0,N,5087,164
+09/09/2021,Thu,Minnesota Twins,Cleveland Indians,1,4,N,11846,166
+09/09/2021,Thu,Toronto Blue Jays,New York Yankees,6,4,N,30112,210
+09/09/2021,Thu,Chicago White Sox,Oakland Athletics,1,3,D,5078,161
+10/09/2021,Fri,Miami Marlins,Atlanta Braves,2,6,N,33850,204
+10/09/2021,Fri,San Francisco Giants,Chicago Cubs,6,1,D,29439,184
+10/09/2021,Fri,San Diego Padres,Los Angeles Dodgers,0,3,N,48403,173
+10/09/2021,Fri,New York Yankees,New York Mets,3,10,N,37288,203
+10/09/2021,Fri,Colorado Rockies,Philadelphia Phillies,11,2,N,22138,219
+10/09/2021,Fri,Washington Nationals,Pittsburgh Pirates,3,4,N,11808,172
+10/09/2021,Fri,Cincinnati Reds,St. Louis Cardinals,4,2,N,29597,163
+10/09/2021,Fri,Toronto Blue Jays,Baltimore Orioles,3,6,N,11751,214
+10/09/2021,Fri,Boston Red Sox,Chicago White Sox,3,4,N,34365,228
+10/09/2021,Fri,Milwaukee Brewers,Cleveland Indians,10,3,N,17667,204
+10/09/2021,Fri,Tampa Bay Rays,Detroit Tigers,4,10,N,18321,206
+10/09/2021,Fri,Los Angeles Angels,Houston Astros,5,10,N,28740,217
+10/09/2021,Fri,Kansas City Royals,Minnesota Twins,6,4,N,20803,217
+10/09/2021,Fri,Texas Rangers,Oakland Athletics,5,10,N,7157,205
+10/09/2021,Fri,Arizona D'Backs,Seattle Mariners,4,5,N,14379,158
+11/09/2021,Sat,Miami Marlins,Atlanta Braves,6,4,N,35250,203
+11/09/2021,Sat,San Francisco Giants,Chicago Cubs,15,4,D,34723,227
+11/09/2021,Sat,San Diego Padres,Los Angeles Dodgers,4,5,N,46969,182
+11/09/2021,Sat,New York Yankees,New York Mets,8,7,N,43144,238
+11/09/2021,Sat,Colorado Rockies,Philadelphia Phillies,1,6,N,23232,197
+11/09/2021,Sat,Washington Nationals,Pittsburgh Pirates,7,10,N,17993,233
+11/09/2021,Sat,Cincinnati Reds,St. Louis Cardinals,4,6,N,33404,164
+11/09/2021,Sat,Toronto Blue Jays,Baltimore Orioles,11,10,D,0,191
+11/09/2021,Sat,Toronto Blue Jays,Baltimore Orioles,11,2,N,10219,148
+11/09/2021,Sat,Boston Red Sox,Chicago White Sox,9,8,N,37854,252
+11/09/2021,Sat,Milwaukee Brewers,Cleveland Indians,3,0,N,20100,159
+11/09/2021,Sat,Tampa Bay Rays,Detroit Tigers,7,2,N,18842,169
+11/09/2021,Sat,Los Angeles Angels,Houston Astros,4,2,N,31547,222
+11/09/2021,Sat,Kansas City Royals,Minnesota Twins,2,9,N,19532,193
+11/09/2021,Sat,Texas Rangers,Oakland Athletics,8,6,D,7945,166
+11/09/2021,Sat,Arizona D'Backs,Seattle Mariners,7,3,N,15483,177
+12/09/2021,Sun,Miami Marlins,Atlanta Braves,3,5,D,27847,197
+12/09/2021,Sun,San Francisco Giants,Chicago Cubs,6,5,D,32021,182
+12/09/2021,Sun,San Diego Padres,Los Angeles Dodgers,0,8,D,42637,165
+12/09/2021,Sun,New York Yankees,New York Mets,6,7,N,33805,246
+12/09/2021,Sun,Colorado Rockies,Philadelphia Phillies,5,4,D,24099,207
+12/09/2021,Sun,Washington Nationals,Pittsburgh Pirates,6,2,D,9714,186
+12/09/2021,Sun,Cincinnati Reds,St. Louis Cardinals,0,2,D,32872,155
+12/09/2021,Sun,Toronto Blue Jays,Baltimore Orioles,22,7,D,8474,206
+12/09/2021,Sun,Boston Red Sox,Chicago White Sox,1,2,D,36178,177
+12/09/2021,Sun,Milwaukee Brewers,Cleveland Indians,11,1,D,16332,179
+12/09/2021,Sun,Tampa Bay Rays,Detroit Tigers,7,8,D,13396,228
+12/09/2021,Sun,Los Angeles Angels,Houston Astros,1,3,D,28763,199
+12/09/2021,Sun,Kansas City Royals,Minnesota Twins,5,3,D,19496,211
+12/09/2021,Sun,Texas Rangers,Oakland Athletics,4,3,D,6983,184
+12/09/2021,Sun,Arizona D'Backs,Seattle Mariners,5,4,D,13551,183
+13/09/2021,Mon,Arizona D'Backs,Los Angeles Dodgers,1,5,N,43273,195
+13/09/2021,Mon,St. Louis Cardinals,New York Mets,7,0,N,19057,221
+13/09/2021,Mon,San Diego Padres,San Francisco Giants,1,9,N,21078,171
+13/09/2021,Mon,Miami Marlins,Washington Nationals,3,0,N,19759,156
+13/09/2021,Mon,Minnesota Twins,New York Yankees,5,6,D,31528,211
+13/09/2021,Mon,Boston Red Sox,Seattle Mariners,4,5,N,18219,191
+13/09/2021,Mon,Houston Astros,Texas Rangers,15,1,N,18903,233
+13/09/2021,Mon,Tampa Bay Rays,Toronto Blue Jays,1,8,N,12119,173
+14/09/2021,Tue,Colorado Rockies,Atlanta Braves,5,4,N,22579,192
+14/09/2021,Tue,Arizona D'Backs,Los Angeles Dodgers,4,8,N,44630,194
+14/09/2021,Tue,St. Louis Cardinals,New York Mets,7,6,N,21825,274
+14/09/2021,Tue,Chicago Cubs,Philadelphia Phillies,6,3,N,16170,204
+14/09/2021,Tue,Cincinnati Reds,Pittsburgh Pirates,5,6,N,8896,180
+14/09/2021,Tue,San Diego Padres,San Francisco Giants,1,6,N,23192,197
+14/09/2021,Tue,Miami Marlins,Washington Nationals,2,8,N,17030,201
+14/09/2021,Tue,New York Yankees,Baltimore Orioles,7,2,N,10235,208
+14/09/2021,Tue,Los Angeles Angels,Chicago White Sox,3,9,N,21848,201
+14/09/2021,Tue,Milwaukee Brewers,Detroit Tigers,0,1,N,12433,196
+14/09/2021,Tue,Oakland Athletics,Kansas City Royals,7,10,N,10254,239
+14/09/2021,Tue,Cleveland Indians,Minnesota Twins,3,1,D,15319,126
+14/09/2021,Tue,Cleveland Indians,Minnesota Twins,3,6,N,18905,137
+14/09/2021,Tue,Boston Red Sox,Seattle Mariners,8,4,N,19887,239
+14/09/2021,Tue,Houston Astros,Texas Rangers,1,8,N,19451,165
+14/09/2021,Tue,Tampa Bay Rays,Toronto Blue Jays,2,0,N,13103,140
+15/09/2021,Wed,Colorado Rockies,Atlanta Braves,3,2,N,21382,256
+15/09/2021,Wed,Arizona D'Backs,Los Angeles Dodgers,3,5,N,46520,206
+15/09/2021,Wed,St. Louis Cardinals,New York Mets,11,4,N,21001,214
+15/09/2021,Wed,Chicago Cubs,Philadelphia Phillies,5,6,N,16299,192
+15/09/2021,Wed,Cincinnati Reds,Pittsburgh Pirates,4,5,N,9320,183
+15/09/2021,Wed,San Diego Padres,San Francisco Giants,9,6,N,21212,246
+15/09/2021,Wed,Miami Marlins,Washington Nationals,8,6,D,16309,233
+15/09/2021,Wed,New York Yankees,Baltimore Orioles,4,3,N,10402,198
+15/09/2021,Wed,Los Angeles Angels,Chicago White Sox,3,2,N,26505,192
+15/09/2021,Wed,Milwaukee Brewers,Detroit Tigers,1,4,D,11321,166
+15/09/2021,Wed,Oakland Athletics,Kansas City Royals,12,10,N,11056,242
+15/09/2021,Wed,Cleveland Indians,Minnesota Twins,12,3,N,14222,169
+15/09/2021,Wed,Boston Red Sox,Seattle Mariners,9,4,D,17860,238
+15/09/2021,Wed,Houston Astros,Texas Rangers,7,2,N,20991,176
+15/09/2021,Wed,Tampa Bay Rays,Toronto Blue Jays,3,6,D,12153,149
+16/09/2021,Thu,Chicago Cubs,Philadelphia Phillies,8,17,N,20208,238
+16/09/2021,Thu,Cincinnati Reds,Pittsburgh Pirates,1,0,D,9102,185
+16/09/2021,Thu,San Diego Padres,San Francisco Giants,7,4,D,23379,219
+16/09/2021,Thu,New York Yankees,Baltimore Orioles,2,3,N,20164,244
+16/09/2021,Thu,Los Angeles Angels,Chicago White Sox,9,3,D,27098,196
+16/09/2021,Thu,Oakland Athletics,Kansas City Royals,7,2,D,11729,208
+16/09/2021,Thu,Detroit Tigers,Tampa Bay Rays,2,5,N,10206,158
+16/09/2021,Thu,Houston Astros,Texas Rangers,12,1,N,19121,208
+17/09/2021,Fri,Los Angeles Dodgers,Cincinnati Reds,1,3,N,28926,154
+17/09/2021,Fri,Pittsburgh Pirates,Miami Marlins,2,1,N,7884,184
+17/09/2021,Fri,Chicago Cubs,Milwaukee Brewers,5,8,N,28483,225
+17/09/2021,Fri,Philadelphia Phillies,New York Mets,4,3,N,26967,232
+17/09/2021,Fri,Atlanta Braves,San Francisco Giants,5,6,N,26644,195
+17/09/2021,Fri,San Diego Padres,St. Louis Cardinals,2,8,N,30937,193
+17/09/2021,Fri,Colorado Rockies,Washington Nationals,9,8,N,21195,244
+17/09/2021,Fri,Oakland Athletics,Los Angeles Angels,5,4,N,18918,199
+17/09/2021,Fri,Baltimore Orioles,Boston Red Sox,1,7,N,29811,207
+17/09/2021,Fri,Arizona D'Backs,Houston Astros,3,4,N,22595,220
+17/09/2021,Fri,Seattle Mariners,Kansas City Royals,6,2,N,14904,215
+17/09/2021,Fri,Cleveland Indians,New York Yankees,0,8,N,31403,170
+17/09/2021,Fri,Detroit Tigers,Tampa Bay Rays,4,7,N,16451,197
+17/09/2021,Fri,Chicago White Sox,Texas Rangers,8,0,N,28288,207
+17/09/2021,Fri,Minnesota Twins,Toronto Blue Jays,7,3,N,14798,182
+18/09/2021,Sat,Los Angeles Dodgers,Cincinnati Reds,5,1,D,29861,185
+18/09/2021,Sat,Pittsburgh Pirates,Miami Marlins,6,3,N,12300,210
+18/09/2021,Sat,Chicago Cubs,Milwaukee Brewers,4,6,N,33625,215
+18/09/2021,Sat,Philadelphia Phillies,New York Mets,5,3,N,33442,215
+18/09/2021,Sat,Atlanta Braves,San Francisco Giants,0,2,N,32058,160
+18/09/2021,Sat,San Diego Padres,St. Louis Cardinals,2,3,N,40626,179
+18/09/2021,Sat,Colorado Rockies,Washington Nationals,6,0,D,29315,186
+18/09/2021,Sat,Oakland Athletics,Los Angeles Angels,3,1,N,27150,186
+18/09/2021,Sat,Baltimore Orioles,Boston Red Sox,3,9,D,30027,189
+18/09/2021,Sat,Arizona D'Backs,Houston Astros,6,4,N,25314,224
+18/09/2021,Sat,Seattle Mariners,Kansas City Royals,1,8,N,20085,207
+18/09/2021,Sat,Cleveland Indians,New York Yankees,11,3,D,39088,206
+18/09/2021,Sat,Detroit Tigers,Tampa Bay Rays,4,3,D,22921,170
+18/09/2021,Sat,Chicago White Sox,Texas Rangers,1,2,N,31121,195
+18/09/2021,Sat,Minnesota Twins,Toronto Blue Jays,2,6,D,14722,178
+19/09/2021,Sun,Los Angeles Dodgers,Cincinnati Reds,8,5,D,26621,189
+19/09/2021,Sun,Pittsburgh Pirates,Miami Marlins,5,6,D,9870,216
+19/09/2021,Sun,Chicago Cubs,Milwaukee Brewers,6,4,D,34213,226
+19/09/2021,Sun,Philadelphia Phillies,New York Mets,2,3,N,24832,214
+19/09/2021,Sun,Atlanta Braves,San Francisco Giants,3,0,D,32210,171
+19/09/2021,Sun,San Diego Padres,St. Louis Cardinals,7,8,D,35326,196
+19/09/2021,Sun,Colorado Rockies,Washington Nationals,0,3,D,26303,181
+19/09/2021,Sun,Oakland Athletics,Los Angeles Angels,3,2,D,22456,201
+19/09/2021,Sun,Baltimore Orioles,Boston Red Sox,6,8,D,27010,175
+19/09/2021,Sun,Arizona D'Backs,Houston Astros,6,7,D,23888,197
+19/09/2021,Sun,Seattle Mariners,Kansas City Royals,7,1,D,16872,184
+19/09/2021,Sun,Cleveland Indians,New York Yankees,11,1,D,34110,205
+19/09/2021,Sun,Detroit Tigers,Tampa Bay Rays,2,0,D,17948,164
+19/09/2021,Sun,Chicago White Sox,Texas Rangers,7,2,D,24918,186
+19/09/2021,Sun,Minnesota Twins,Toronto Blue Jays,3,5,D,14601,178
+20/09/2021,Mon,Atlanta Braves,Arizona D'Backs,11,4,N,9642,209
+20/09/2021,Mon,Pittsburgh Pirates,Cincinnati Reds,5,9,N,17086,205
+20/09/2021,Mon,Washington Nationals,Miami Marlins,7,8,N,5383,235
+20/09/2021,Mon,St. Louis Cardinals,Milwaukee Brewers,5,2,N,28291,163
+20/09/2021,Mon,Baltimore Orioles,Philadelphia Phillies,2,0,N,21440,169
+20/09/2021,Mon,Houston Astros,Los Angeles Angels,10,0,N,16070,192
+20/09/2021,Mon,Kansas City Royals,Cleveland Indians,7,2,D,0,128
+20/09/2021,Mon,Kansas City Royals,Cleveland Indians,4,2,N,11459,157
+20/09/2021,Mon,Chicago White Sox,Detroit Tigers,3,4,N,12884,176
+20/09/2021,Mon,Texas Rangers,New York Yankees,3,4,N,22160,201
+20/09/2021,Mon,Seattle Mariners,Oakland Athletics,4,2,N,4068,167
+20/09/2021,Mon,Toronto Blue Jays,Tampa Bay Rays,4,6,N,10119,203
+21/09/2021,Tue,Atlanta Braves,Arizona D'Backs,6,1,N,8879,187
+21/09/2021,Tue,Minnesota Twins,Chicago Cubs,9,5,N,25594,245
+21/09/2021,Tue,Pittsburgh Pirates,Cincinnati Reds,6,2,N,9475,216
+21/09/2021,Tue,Los Angeles Dodgers,Colorado Rockies,5,4,N,23869,210
+21/09/2021,Tue,Washington Nationals,Miami Marlins,7,1,N,5926,182
+21/09/2021,Tue,St. Louis Cardinals,Milwaukee Brewers,2,1,N,30475,204
+21/09/2021,Tue,Baltimore Orioles,Philadelphia Phillies,2,3,N,18955,220
+21/09/2021,Tue,San Francisco Giants,San Diego Padres,6,5,N,36439,225
+21/09/2021,Tue,Houston Astros,Los Angeles Angels,10,5,N,18332,188
+21/09/2021,Tue,New York Mets,Boston Red Sox,3,6,N,32146,218
+21/09/2021,Tue,Kansas City Royals,Cleveland Indians,1,4,N,23341,155
+21/09/2021,Tue,Chicago White Sox,Detroit Tigers,3,5,D,10585,207
+21/09/2021,Tue,Texas Rangers,New York Yankees,1,7,N,23335,180
+21/09/2021,Tue,Seattle Mariners,Oakland Athletics,5,2,N,4246,179
+21/09/2021,Tue,Toronto Blue Jays,Tampa Bay Rays,4,2,N,9888,199
+22/09/2021,Wed,Atlanta Braves,Arizona D'Backs,9,2,N,10631,180
+22/09/2021,Wed,Minnesota Twins,Chicago Cubs,5,4,N,24402,182
+22/09/2021,Wed,Los Angeles Dodgers,Colorado Rockies,5,10,N,27013,205
+22/09/2021,Wed,Washington Nationals,Miami Marlins,7,5,N,5908,197
+22/09/2021,Wed,St. Louis Cardinals,Milwaukee Brewers,10,2,N,29635,177
+22/09/2021,Wed,Baltimore Orioles,Philadelphia Phillies,3,4,N,18133,199
+22/09/2021,Wed,San Francisco Giants,San Diego Padres,8,6,N,38189,236
+22/09/2021,Wed,Houston Astros,Los Angeles Angels,9,5,N,14863,258
+22/09/2021,Wed,New York Mets,Boston Red Sox,5,12,N,30254,222
+22/09/2021,Wed,Texas Rangers,New York Yankees,3,7,N,25170,201
+22/09/2021,Wed,Seattle Mariners,Oakland Athletics,4,1,N,4149,178
+22/09/2021,Wed,Toronto Blue Jays,Tampa Bay Rays,1,7,D,10994,200
+23/09/2021,Thu,Atlanta Braves,Arizona D'Backs,4,6,D,6880,176
+23/09/2021,Thu,Washington Nationals,Cincinnati Reds,3,2,N,11836,189
+23/09/2021,Thu,Los Angeles Dodgers,Colorado Rockies,7,5,D,22356,241
+23/09/2021,Thu,St. Louis Cardinals,Milwaukee Brewers,8,5,D,30804,211
+23/09/2021,Thu,Pittsburgh Pirates,Philadelphia Phillies,6,12,N,16154,201
+23/09/2021,Thu,San Francisco Giants,San Diego Padres,6,7,D,31049,250
+23/09/2021,Thu,Houston Astros,Los Angeles Angels,2,3,N,19829,198
+23/09/2021,Thu,Texas Rangers,Baltimore Orioles,0,3,N,6328,166
+23/09/2021,Thu,Chicago White Sox,Cleveland Indians,7,2,D,11851,166
+23/09/2021,Thu,Chicago White Sox,Cleveland Indians,3,5,N,11336,154
+23/09/2021,Thu,Toronto Blue Jays,Minnesota Twins,2,7,N,15509,214
+23/09/2021,Thu,Seattle Mariners,Oakland Athletics,6,5,D,4966,196
+24/09/2021,Fri,Los Angeles Dodgers,Arizona D'Backs,4,2,N,19001,179
+24/09/2021,Fri,St. Louis Cardinals,Chicago Cubs,8,5,D,29030,159
+24/09/2021,Fri,St. Louis Cardinals,Chicago Cubs,12,4,N,35020,161
+24/09/2021,Fri,Washington Nationals,Cincinnati Reds,7,8,N,16021,264
+24/09/2021,Fri,San Francisco Giants,Colorado Rockies,7,2,N,41613,186
+24/09/2021,Fri,New York Mets,Milwaukee Brewers,1,5,N,27452,176
+24/09/2021,Fri,Pittsburgh Pirates,Philadelphia Phillies,6,8,N,20548,219
+24/09/2021,Fri,Atlanta Braves,San Diego Padres,4,0,N,33265,148
+24/09/2021,Fri,Seattle Mariners,Los Angeles Angels,6,5,N,18551,220
+24/09/2021,Fri,Texas Rangers,Baltimore Orioles,8,5,N,7935,213
+24/09/2021,Fri,New York Yankees,Boston Red Sox,8,3,N,36026,211
+24/09/2021,Fri,Chicago White Sox,Cleveland Indians,1,0,N,18576,168
+24/09/2021,Fri,Kansas City Royals,Detroit Tigers,3,1,N,24877,187
+24/09/2021,Fri,Toronto Blue Jays,Minnesota Twins,1,3,N,18861,158
+24/09/2021,Fri,Houston Astros,Oakland Athletics,2,14,N,21105,226
+24/09/2021,Fri,Miami Marlins,Tampa Bay Rays,0,8,N,15340,179
+25/09/2021,Sat,Los Angeles Dodgers,Arizona D'Backs,2,7,N,28026,187
+25/09/2021,Sat,St. Louis Cardinals,Chicago Cubs,8,5,D,32918,198
+25/09/2021,Sat,Washington Nationals,Cincinnati Reds,6,7,N,18293,221
+25/09/2021,Sat,San Francisco Giants,Colorado Rockies,7,2,N,45063,216
+25/09/2021,Sat,New York Mets,Milwaukee Brewers,1,2,N,35388,196
+25/09/2021,Sat,Pittsburgh Pirates,Philadelphia Phillies,0,3,D,28135,153
+25/09/2021,Sat,Atlanta Braves,San Diego Padres,10,8,D,39026,247
+25/09/2021,Sat,Seattle Mariners,Los Angeles Angels,1,14,N,30221,187
+25/09/2021,Sat,Texas Rangers,Baltimore Orioles,2,3,N,10645,174
+25/09/2021,Sat,New York Yankees,Boston Red Sox,5,3,D,36103,213
+25/09/2021,Sat,Chicago White Sox,Cleveland Indians,0,6,N,24082,160
+25/09/2021,Sat,Kansas City Royals,Detroit Tigers,1,5,N,16424,180
+25/09/2021,Sat,Toronto Blue Jays,Minnesota Twins,6,1,N,27183,198
+25/09/2021,Sat,Houston Astros,Oakland Athletics,1,2,D,13037,169
+25/09/2021,Sat,Miami Marlins,Tampa Bay Rays,3,7,N,23783,179
+26/09/2021,Sun,Los Angeles Dodgers,Arizona D'Backs,3,0,D,16648,208
+26/09/2021,Sun,St. Louis Cardinals,Chicago Cubs,4,2,D,26547,216
+26/09/2021,Sun,Washington Nationals,Cincinnati Reds,2,9,D,21328,223
+26/09/2021,Sun,San Francisco Giants,Colorado Rockies,6,2,D,31043,211
+26/09/2021,Sun,New York Mets,Milwaukee Brewers,4,8,D,43430,204
+26/09/2021,Sun,Pittsburgh Pirates,Philadelphia Phillies,6,0,D,29336,211
+26/09/2021,Sun,Atlanta Braves,San Diego Padres,4,3,D,41294,228
+26/09/2021,Sun,Seattle Mariners,Los Angeles Angels,5,1,D,22057,189
+26/09/2021,Sun,Texas Rangers,Baltimore Orioles,7,4,D,13495,191
+26/09/2021,Sun,New York Yankees,Boston Red Sox,6,3,N,36312,222
+26/09/2021,Sun,Chicago White Sox,Cleveland Indians,5,2,D,21957,218
+26/09/2021,Sun,Kansas City Royals,Detroit Tigers,2,1,D,23788,198
+26/09/2021,Sun,Toronto Blue Jays,Minnesota Twins,5,2,D,20676,207
+26/09/2021,Sun,Houston Astros,Oakland Athletics,3,4,D,12288,217
+26/09/2021,Sun,Miami Marlins,Tampa Bay Rays,2,3,D,20826,174
+27/09/2021,Mon,Pittsburgh Pirates,Cincinnati Reds,1,13,D,11055,191
+27/09/2021,Mon,Washington Nationals,Colorado Rockies,5,4,N,20388,225
+27/09/2021,Mon,Kansas City Royals,Cleveland Indians,3,8,D,13121,164
+27/09/2021,Mon,Chicago White Sox,Detroit Tigers,8,7,D,11044,224
+27/09/2021,Mon,Oakland Athletics,Seattle Mariners,4,13,N,11169,200
+28/09/2021,Tue,Philadelphia Phillies,Atlanta Braves,1,2,N,29238,166
+28/09/2021,Tue,Washington Nationals,Colorado Rockies,1,3,N,21693,180
+28/09/2021,Tue,San Diego Padres,Los Angeles Dodgers,1,2,N,52128,184
+28/09/2021,Tue,Miami Marlins,New York Mets,2,5,D,0,142
+28/09/2021,Tue,Miami Marlins,New York Mets,1,2,N,20647,179
+28/09/2021,Tue,Chicago Cubs,Pittsburgh Pirates,6,8,N,9218,184
+28/09/2021,Tue,Arizona D'Backs,San Francisco Giants,4,6,N,28122,222
+28/09/2021,Tue,Milwaukee Brewers,St. Louis Cardinals,2,6,N,35726,174
+28/09/2021,Tue,Boston Red Sox,Baltimore Orioles,2,4,N,8098,157
+28/09/2021,Tue,Cincinnati Reds,Chicago White Sox,1,7,N,25242,169
+28/09/2021,Tue,Tampa Bay Rays,Houston Astros,3,4,N,32297,179
+28/09/2021,Tue,Cleveland Indians,Kansas City Royals,4,6,N,11670,204
+28/09/2021,Tue,Detroit Tigers,Minnesota Twins,2,3,N,16329,183
+28/09/2021,Tue,Oakland Athletics,Seattle Mariners,2,4,N,12635,188
+28/09/2021,Tue,Los Angeles Angels,Texas Rangers,2,5,N,20066,179
+28/09/2021,Tue,New York Yankees,Toronto Blue Jays,7,2,N,28769,216
+29/09/2021,Wed,Philadelphia Phillies,Atlanta Braves,2,7,N,27664,185
+29/09/2021,Wed,Washington Nationals,Colorado Rockies,5,10,D,20613,237
+29/09/2021,Wed,San Diego Padres,Los Angeles Dodgers,9,11,N,45366,214
+29/09/2021,Wed,Miami Marlins,New York Mets,3,2,N,22610,159
+29/09/2021,Wed,Chicago Cubs,Pittsburgh Pirates,3,2,N,9236,224
+29/09/2021,Wed,Arizona D'Backs,San Francisco Giants,0,1,N,23110,172
+29/09/2021,Wed,Milwaukee Brewers,St. Louis Cardinals,4,0,N,35283,168
+29/09/2021,Wed,Boston Red Sox,Baltimore Orioles,6,0,N,8732,182
+29/09/2021,Wed,Cincinnati Reds,Chicago White Sox,1,6,N,23018,161
+29/09/2021,Wed,Tampa Bay Rays,Houston Astros,7,0,N,28321,184
+29/09/2021,Wed,Cleveland Indians,Kansas City Royals,5,10,N,10373,196
+29/09/2021,Wed,Detroit Tigers,Minnesota Twins,2,5,N,17254,185
+29/09/2021,Wed,Oakland Athletics,Seattle Mariners,2,4,N,17366,186
+29/09/2021,Wed,Los Angeles Angels,Texas Rangers,7,2,N,23241,200
+29/09/2021,Wed,New York Yankees,Toronto Blue Jays,5,6,N,29601,172
+30/09/2021,Thu,Philadelphia Phillies,Atlanta Braves,3,5,N,38235,173
+30/09/2021,Thu,San Diego Padres,Los Angeles Dodgers,3,8,N,52550,175
+30/09/2021,Thu,Miami Marlins,New York Mets,3,12,N,24312,205
+30/09/2021,Thu,Chicago Cubs,Pittsburgh Pirates,9,0,N,10152,169
+30/09/2021,Thu,Arizona D'Backs,San Francisco Giants,4,5,N,27503,208
+30/09/2021,Thu,Milwaukee Brewers,St. Louis Cardinals,3,4,D,29161,161
+30/09/2021,Thu,Boston Red Sox,Baltimore Orioles,2,6,N,13012,160
+30/09/2021,Thu,Tampa Bay Rays,Houston Astros,2,3,N,31608,180
+30/09/2021,Thu,Cleveland Indians,Kansas City Royals,6,1,N,11288,184
+30/09/2021,Thu,Detroit Tigers,Minnesota Twins,10,7,N,21186,213
+30/09/2021,Thu,Los Angeles Angels,Texas Rangers,6,7,D,19960,198
+30/09/2021,Thu,New York Yankees,Toronto Blue Jays,6,2,N,29659,209
+01/10/2021,Fri,Colorado Rockies,Arizona D'Backs,9,7,N,15189,202
+01/10/2021,Fri,New York Mets,Atlanta Braves,4,3,N,32659,182
+01/10/2021,Fri,Milwaukee Brewers,Los Angeles Dodgers,6,8,N,51388,218
+01/10/2021,Fri,Philadelphia Phillies,Miami Marlins,5,0,N,8469,181
+01/10/2021,Fri,Cincinnati Reds,Pittsburgh Pirates,2,9,N,13582,201
+01/10/2021,Fri,San Diego Padres,San Francisco Giants,0,3,N,33975,170
+01/10/2021,Fri,Chicago Cubs,St. Louis Cardinals,3,4,N,41618,205
+01/10/2021,Fri,Boston Red Sox,Washington Nationals,4,2,N,32521,205
+01/10/2021,Fri,Detroit Tigers,Chicago White Sox,1,8,N,30729,205
+01/10/2021,Fri,Oakland Athletics,Houston Astros,8,6,N,26762,234
+01/10/2021,Fri,Minnesota Twins,Kansas City Royals,6,11,N,14293,210
+01/10/2021,Fri,Tampa Bay Rays,New York Yankees,4,3,N,41469,205
+01/10/2021,Fri,Los Angeles Angels,Seattle Mariners,2,1,N,44169,193
+01/10/2021,Fri,Cleveland Indians,Texas Rangers,9,6,N,22700,186
+01/10/2021,Fri,Baltimore Orioles,Toronto Blue Jays,4,6,N,28855,175
+02/10/2021,Sat,Colorado Rockies,Arizona D'Backs,2,11,N,19418,197
+02/10/2021,Sat,New York Mets,Atlanta Braves,5,6,N,37616,193
+02/10/2021,Sat,Milwaukee Brewers,Los Angeles Dodgers,3,8,N,49705,173
+02/10/2021,Sat,Philadelphia Phillies,Miami Marlins,1,3,N,9655,172
+02/10/2021,Sat,Cincinnati Reds,Pittsburgh Pirates,6,8,N,22910,222
+02/10/2021,Sat,San Diego Padres,San Francisco Giants,3,2,D,40760,221
+02/10/2021,Sat,Chicago Cubs,St. Louis Cardinals,6,5,N,45239,205
+02/10/2021,Sat,Boston Red Sox,Washington Nationals,5,3,D,41465,233
+02/10/2021,Sat,Detroit Tigers,Chicago White Sox,4,5,N,36320,185
+02/10/2021,Sat,Oakland Athletics,Houston Astros,4,10,N,29208,228
+02/10/2021,Sat,Minnesota Twins,Kansas City Royals,4,0,N,22321,172
+02/10/2021,Sat,Tampa Bay Rays,New York Yankees,12,2,D,41648,206
+02/10/2021,Sat,Los Angeles Angels,Seattle Mariners,4,6,N,44414,217
+02/10/2021,Sat,Cleveland Indians,Texas Rangers,2,7,N,27362,170
+02/10/2021,Sat,Baltimore Orioles,Toronto Blue Jays,1,10,D,29916,167
+03/10/2021,Sun,Colorado Rockies,Arizona D'Backs,4,5,D,12565,201
+03/10/2021,Sun,New York Mets,Atlanta Braves,0,5,D,33203,146
+03/10/2021,Sun,Milwaukee Brewers,Los Angeles Dodgers,3,10,D,43170,200
+03/10/2021,Sun,Philadelphia Phillies,Miami Marlins,4,5,D,9149,166
+03/10/2021,Sun,Cincinnati Reds,Pittsburgh Pirates,6,3,D,13011,179
+03/10/2021,Sun,San Diego Padres,San Francisco Giants,4,11,D,36901,176
+03/10/2021,Sun,Chicago Cubs,St. Louis Cardinals,3,2,D,46525,131
+03/10/2021,Sun,Boston Red Sox,Washington Nationals,7,5,D,33986,226
+03/10/2021,Sun,Detroit Tigers,Chicago White Sox,5,2,D,30722,196
+03/10/2021,Sun,Oakland Athletics,Houston Astros,6,7,D,29752,172
+03/10/2021,Sun,Minnesota Twins,Kansas City Royals,7,3,D,17158,190
+03/10/2021,Sun,Tampa Bay Rays,New York Yankees,0,1,D,40409,183
+03/10/2021,Sun,Los Angeles Angels,Seattle Mariners,7,3,D,44229,236
+03/10/2021,Sun,Cleveland Indians,Texas Rangers,6,0,D,28396,174
+03/10/2021,Sun,Baltimore Orioles,Toronto Blue Jays,4,12,D,29942,202

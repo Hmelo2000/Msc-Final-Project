@@ -1,0 +1,899 @@
+﻿Date,Day of Week,Visitor Team,Home Team,VisitorPts,HomePts,Day or Night,Time of Game (minutes)
+23/07/2020,Thu,San Francisco Giants,Los Angeles Dodgers,1,8,N,176
+23/07/2020,Thu,New York Yankees,Washington Nationals,4,1,N,103
+24/07/2020,Fri,Milwaukee Brewers,Chicago Cubs,0,3,N,150
+24/07/2020,Fri,Detroit Tigers,Cincinnati Reds,1,7,N,165
+24/07/2020,Fri,San Francisco Giants,Los Angeles Dodgers,1,9,N,175
+24/07/2020,Fri,Atlanta Braves,New York Mets,0,1,D,145
+24/07/2020,Fri,Miami Marlins,Philadelphia Phillies,5,2,N,190
+24/07/2020,Fri,Arizona D'Backs,San Diego Padres,2,7,N,185
+24/07/2020,Fri,Pittsburgh Pirates,St. Louis Cardinals,4,5,N,172
+24/07/2020,Fri,Baltimore Orioles,Boston Red Sox,2,13,N,198
+24/07/2020,Fri,Minnesota Twins,Chicago White Sox,10,5,N,211
+24/07/2020,Fri,Kansas City Royals,Cleveland Indians,0,2,N,178
+24/07/2020,Fri,Seattle Mariners,Houston Astros,2,8,N,169
+24/07/2020,Fri,Los Angeles Angels,Oakland Athletics,3,7,N,226
+24/07/2020,Fri,Toronto Blue Jays,Tampa Bay Rays,6,4,N,207
+24/07/2020,Fri,Colorado Rockies,Texas Rangers,0,1,N,177
+25/07/2020,Sat,Milwaukee Brewers,Chicago Cubs,8,3,D,216
+25/07/2020,Sat,Detroit Tigers,Cincinnati Reds,6,4,N,181
+25/07/2020,Sat,San Francisco Giants,Los Angeles Dodgers,5,4,D,196
+25/07/2020,Sat,Atlanta Braves,New York Mets,5,3,D,201
+25/07/2020,Sat,Miami Marlins,Philadelphia Phillies,1,7,D,174
+25/07/2020,Sat,Arizona D'Backs,San Diego Padres,1,5,N,198
+25/07/2020,Sat,Pittsburgh Pirates,St. Louis Cardinals,1,9,D,175
+25/07/2020,Sat,New York Yankees,Washington Nationals,2,9,N,193
+25/07/2020,Sat,Baltimore Orioles,Boston Red Sox,7,2,D,181
+25/07/2020,Sat,Minnesota Twins,Chicago White Sox,3,10,D,197
+25/07/2020,Sat,Kansas City Royals,Cleveland Indians,3,2,N,172
+25/07/2020,Sat,Seattle Mariners,Houston Astros,2,7,D,173
+25/07/2020,Sat,Los Angeles Angels,Oakland Athletics,4,1,D,147
+25/07/2020,Sat,Toronto Blue Jays,Tampa Bay Rays,1,4,D,167
+25/07/2020,Sat,Colorado Rockies,Texas Rangers,3,2,D,214
+26/07/2020,Sun,Milwaukee Brewers,Chicago Cubs,1,9,D,184
+26/07/2020,Sun,Detroit Tigers,Cincinnati Reds,3,2,D,184
+26/07/2020,Sun,San Francisco Giants,Los Angeles Dodgers,3,1,N,208
+26/07/2020,Sun,Atlanta Braves,New York Mets,14,1,N,200
+26/07/2020,Sun,Miami Marlins,Philadelphia Phillies,11,6,D,224
+26/07/2020,Sun,Arizona D'Backs,San Diego Padres,4,3,D,224
+26/07/2020,Sun,Pittsburgh Pirates,St. Louis Cardinals,5,1,D,176
+26/07/2020,Sun,New York Yankees,Washington Nationals,3,2,D,187
+26/07/2020,Sun,Baltimore Orioles,Boston Red Sox,7,4,D,193
+26/07/2020,Sun,Minnesota Twins,Chicago White Sox,14,2,D,218
+26/07/2020,Sun,Kansas City Royals,Cleveland Indians,2,9,D,184
+26/07/2020,Sun,Seattle Mariners,Houston Astros,7,6,D,221
+26/07/2020,Sun,Los Angeles Angels,Oakland Athletics,4,6,D,182
+26/07/2020,Sun,Toronto Blue Jays,Tampa Bay Rays,5,6,D,235
+26/07/2020,Sun,Colorado Rockies,Texas Rangers,5,2,D,185
+27/07/2020,Mon,Chicago Cubs,Cincinnati Reds,8,7,N,226
+27/07/2020,Mon,Milwaukee Brewers,Pittsburgh Pirates,6,5,N,234
+27/07/2020,Mon,Arizona D'Backs,San Diego Padres,2,6,D,183
+27/07/2020,Mon,Toronto Blue Jays,Washington Nationals,4,1,N,179
+27/07/2020,Mon,New York Mets,Boston Red Sox,7,4,N,191
+27/07/2020,Mon,Kansas City Royals,Detroit Tigers,14,6,N,200
+27/07/2020,Mon,Seattle Mariners,Houston Astros,5,8,N,184
+27/07/2020,Mon,Los Angeles Angels,Oakland Athletics,0,3,D,179
+27/07/2020,Mon,Atlanta Braves,Tampa Bay Rays,5,14,N,183
+28/07/2020,Tue,Chicago Cubs,Cincinnati Reds,8,5,N,182
+28/07/2020,Tue,Milwaukee Brewers,Pittsburgh Pirates,6,8,N,202
+28/07/2020,Tue,San Diego Padres,San Francisco Giants,5,3,N,174
+28/07/2020,Tue,Toronto Blue Jays,Washington Nationals,5,1,N,180
+28/07/2020,Tue,Seattle Mariners,Los Angeles Angels,2,10,N,195
+28/07/2020,Tue,New York Mets,Boston Red Sox,8,3,N,178
+28/07/2020,Tue,Chicago White Sox,Cleveland Indians,3,4,D,195
+28/07/2020,Tue,Chicago White Sox,Cleveland Indians,3,5,D,163
+28/07/2020,Tue,Kansas City Royals,Detroit Tigers,3,4,N,145
+28/07/2020,Tue,Los Angeles Dodgers,Houston Astros,5,2,N,199
+28/07/2020,Tue,St. Louis Cardinals,Minnesota Twins,3,6,N,162
+28/07/2020,Tue,Colorado Rockies,Oakland Athletics,8,3,N,178
+28/07/2020,Tue,Atlanta Braves,Tampa Bay Rays,2,5,N,183
+28/07/2020,Tue,Arizona D'Backs,Texas Rangers,4,1,N,190
+29/07/2020,Wed,Tampa Bay Rays,Atlanta Braves,4,7,N,202
+29/07/2020,Wed,Chicago Cubs,Cincinnati Reds,7,12,N,203
+29/07/2020,Wed,Boston Red Sox,New York Mets,6,5,N,224
+29/07/2020,Wed,Milwaukee Brewers,Pittsburgh Pirates,3,0,N,182
+29/07/2020,Wed,San Diego Padres,San Francisco Giants,6,7,N,182
+29/07/2020,Wed,Seattle Mariners,Los Angeles Angels,10,7,N,227
+29/07/2020,Wed,New York Yankees,Baltimore Orioles,9,3,N,192
+29/07/2020,Wed,Chicago White Sox,Cleveland Indians,4,0,N,177
+29/07/2020,Wed,Kansas City Royals,Detroit Tigers,4,5,N,160
+29/07/2020,Wed,Los Angeles Dodgers,Houston Astros,4,2,N,284
+29/07/2020,Wed,St. Louis Cardinals,Minnesota Twins,0,3,N,173
+29/07/2020,Wed,Colorado Rockies,Oakland Athletics,5,1,D,175
+29/07/2020,Wed,Arizona D'Backs,Texas Rangers,4,7,D,207
+29/07/2020,Wed,Washington Nationals,Toronto Blue Jays,4,0,N,213
+30/07/2020,Thu,Los Angeles Dodgers,Arizona D'Backs,6,3,N,199
+30/07/2020,Thu,Tampa Bay Rays,Atlanta Braves,1,2,N,160
+30/07/2020,Thu,Boston Red Sox,New York Mets,4,2,N,229
+30/07/2020,Thu,San Diego Padres,San Francisco Giants,12,7,N,244
+30/07/2020,Thu,Seattle Mariners,Los Angeles Angels,8,5,N,179
+30/07/2020,Thu,New York Yankees,Baltimore Orioles,8,6,N,186
+30/07/2020,Thu,Kansas City Royals,Detroit Tigers,5,3,N,169
+30/07/2020,Thu,Cleveland Indians,Minnesota Twins,2,0,N,172
+30/07/2020,Thu,Washington Nationals,Toronto Blue Jays,6,4,D,215
+31/07/2020,Fri,Los Angeles Dodgers,Arizona D'Backs,3,5,N,195
+31/07/2020,Fri,New York Mets,Atlanta Braves,10,11,N,215
+31/07/2020,Fri,Pittsburgh Pirates,Chicago Cubs,3,6,N,226
+31/07/2020,Fri,San Diego Padres,Colorado Rockies,8,7,N,217
+31/07/2020,Fri,Texas Rangers,San Francisco Giants,2,9,N,184
+31/07/2020,Fri,Houston Astros,Los Angeles Angels,9,6,N,261
+31/07/2020,Fri,Tampa Bay Rays,Baltimore Orioles,3,6,N,216
+31/07/2020,Fri,Cincinnati Reds,Detroit Tigers,2,7,N,151
+31/07/2020,Fri,Chicago White Sox,Kansas City Royals,3,2,N,176
+31/07/2020,Fri,Cleveland Indians,Minnesota Twins,1,4,N,186
+31/07/2020,Fri,Boston Red Sox,New York Yankees,1,5,N,188
+31/07/2020,Fri,Oakland Athletics,Seattle Mariners,3,5,N,154
+01/08/2020,Sat,Los Angeles Dodgers,Arizona D'Backs,11,2,N,169
+01/08/2020,Sat,New York Mets,Atlanta Braves,1,7,N,201
+01/08/2020,Sat,Pittsburgh Pirates,Chicago Cubs,3,4,N,191
+01/08/2020,Sat,San Diego Padres,Colorado Rockies,1,6,N,170
+01/08/2020,Sat,Texas Rangers,San Francisco Giants,3,7,N,209
+01/08/2020,Sat,Houston Astros,Los Angeles Angels,4,5,D,238
+01/08/2020,Sat,Tampa Bay Rays,Baltimore Orioles,4,5,N,230
+01/08/2020,Sat,Chicago White Sox,Kansas City Royals,11,5,N,224
+01/08/2020,Sat,Cleveland Indians,Minnesota Twins,0,3,N,160
+01/08/2020,Sat,Boston Red Sox,New York Yankees,2,5,N,187
+01/08/2020,Sat,Oakland Athletics,Seattle Mariners,3,2,N,191
+02/08/2020,Sun,Los Angeles Dodgers,Arizona D'Backs,3,0,D,176
+02/08/2020,Sun,New York Mets,Atlanta Braves,0,4,D,186
+02/08/2020,Sun,Pittsburgh Pirates,Chicago Cubs,1,2,D,217
+02/08/2020,Sun,San Diego Padres,Colorado Rockies,6,9,D,172
+02/08/2020,Sun,Texas Rangers,San Francisco Giants,9,5,D,184
+02/08/2020,Sun,Houston Astros,Los Angeles Angels,6,5,D,277
+02/08/2020,Sun,Tampa Bay Rays,Baltimore Orioles,1,5,D,176
+02/08/2020,Sun,Cincinnati Reds,Detroit Tigers,4,3,D,145
+02/08/2020,Sun,Cincinnati Reds,Detroit Tigers,4,0,D,156
+02/08/2020,Sun,Chicago White Sox,Kansas City Royals,9,2,D,181
+02/08/2020,Sun,Cleveland Indians,Minnesota Twins,1,3,D,174
+02/08/2020,Sun,Boston Red Sox,New York Yankees,7,9,N,192
+02/08/2020,Sun,Oakland Athletics,Seattle Mariners,3,2,D,200
+03/08/2020,Mon,New York Mets,Atlanta Braves,7,2,N,196
+03/08/2020,Mon,Kansas City Royals,Chicago Cubs,0,2,N,163
+03/08/2020,Mon,Cleveland Indians,Cincinnati Reds,2,3,N,153
+03/08/2020,Mon,San Francisco Giants,Colorado Rockies,6,7,N,168
+03/08/2020,Mon,Chicago White Sox,Milwaukee Brewers,6,4,N,223
+03/08/2020,Mon,Los Angeles Dodgers,San Diego Padres,4,5,N,164
+03/08/2020,Mon,Pittsburgh Pirates,Minnesota Twins,4,5,N,193
+03/08/2020,Mon,Philadelphia Phillies,New York Yankees,3,6,N,180
+03/08/2020,Mon,Oakland Athletics,Seattle Mariners,11,1,N,184
+04/08/2020,Tue,Houston Astros,Arizona D'Backs,8,2,N,189
+04/08/2020,Tue,Toronto Blue Jays,Atlanta Braves,1,10,N,186
+04/08/2020,Tue,Kansas City Royals,Chicago Cubs,4,5,N,171
+04/08/2020,Tue,Cleveland Indians,Cincinnati Reds,4,2,N,179
+04/08/2020,Tue,San Francisco Giants,Colorado Rockies,2,5,N,156
+04/08/2020,Tue,Chicago White Sox,Milwaukee Brewers,3,2,N,194
+04/08/2020,Tue,Los Angeles Dodgers,San Diego Padres,5,2,N,184
+04/08/2020,Tue,New York Mets,Washington Nationals,3,5,N,193
+04/08/2020,Tue,Miami Marlins,Baltimore Orioles,4,0,N,158
+04/08/2020,Tue,Pittsburgh Pirates,Minnesota Twins,3,7,D,210
+04/08/2020,Tue,Texas Rangers,Oakland Athletics,1,5,N,172
+04/08/2020,Tue,Los Angeles Angels,Seattle Mariners,5,3,N,175
+04/08/2020,Tue,Boston Red Sox,Tampa Bay Rays,1,5,N,194
+05/08/2020,Wed,Houston Astros,Arizona D'Backs,7,14,N,194
+05/08/2020,Wed,Toronto Blue Jays,Atlanta Braves,2,1,N,180
+05/08/2020,Wed,San Francisco Giants,Colorado Rockies,4,3,N,168
+05/08/2020,Wed,Miami Marlins,Baltimore Orioles,1,0,N,139
+05/08/2020,Wed,Philadelphia Phillies,New York Yankees,11,7,D,164
+05/08/2020,Wed,Minnesota Twins,Pittsburgh Pirates,5,2,N,172
+05/08/2020,Wed,Los Angeles Dodgers,San Diego Padres,7,6,N,191
+05/08/2020,Wed,New York Mets,Washington Nationals,3,1,N,166
+05/08/2020,Wed,Baltimore Orioles,Miami Marlins,1,2,D,126
+05/08/2020,Wed,Milwaukee Brewers,Chicago White Sox,1,0,N,141
+05/08/2020,Wed,Cincinnati Reds,Cleveland Indians,0,2,N,176
+05/08/2020,Wed,Chicago Cubs,Kansas City Royals,6,1,N,189
+05/08/2020,Wed,New York Yankees,Philadelphia Phillies,3,1,D,158
+05/08/2020,Wed,Texas Rangers,Oakland Athletics,4,6,N,175
+05/08/2020,Wed,Los Angeles Angels,Seattle Mariners,6,7,N,189
+05/08/2020,Wed,Boston Red Sox,Tampa Bay Rays,5,0,N,185
+06/08/2020,Thu,Houston Astros,Arizona D'Backs,4,5,D,195
+06/08/2020,Thu,Toronto Blue Jays,Atlanta Braves,3,4,N,157
+06/08/2020,Thu,San Francisco Giants,Colorado Rockies,4,6,D,186
+06/08/2020,Thu,Baltimore Orioles,Miami Marlins,7,8,N,178
+06/08/2020,Thu,New York Yankees,Philadelphia Phillies,4,5,N,202
+06/08/2020,Thu,Minnesota Twins,Pittsburgh Pirates,5,6,D,187
+06/08/2020,Thu,Milwaukee Brewers,Chicago White Sox,8,3,N,221
+06/08/2020,Thu,Cincinnati Reds,Cleveland Indians,0,13,N,173
+06/08/2020,Thu,Chicago Cubs,Kansas City Royals,2,13,N,182
+06/08/2020,Thu,Texas Rangers,Oakland Athletics,4,6,D,159
+06/08/2020,Thu,Los Angeles Angels,Seattle Mariners,6,1,D,143
+07/08/2020,Fri,San Francisco Giants,Los Angeles Dodgers,2,7,N,196
+07/08/2020,Fri,Cincinnati Reds,Milwaukee Brewers,8,3,N,179
+07/08/2020,Fri,Miami Marlins,New York Mets,4,3,N,214
+07/08/2020,Fri,Detroit Tigers,Pittsburgh Pirates,17,13,N,273
+07/08/2020,Fri,Arizona D'Backs,San Diego Padres,0,3,N,147
+07/08/2020,Fri,Baltimore Orioles,Washington Nationals,11,0,N,180
+07/08/2020,Fri,Toronto Blue Jays,Boston Red Sox,3,5,N,213
+07/08/2020,Fri,Cleveland Indians,Chicago White Sox,0,2,N,168
+07/08/2020,Fri,Minnesota Twins,Kansas City Royals,2,3,N,173
+07/08/2020,Fri,Houston Astros,Oakland Athletics,2,3,N,253
+07/08/2020,Fri,Colorado Rockies,Seattle Mariners,8,4,N,193
+07/08/2020,Fri,New York Yankees,Tampa Bay Rays,0,1,N,172
+07/08/2020,Fri,Los Angeles Angels,Texas Rangers,3,4,N,218
+08/08/2020,Sat,San Francisco Giants,Los Angeles Dodgers,5,4,N,174
+08/08/2020,Sat,Cincinnati Reds,Milwaukee Brewers,4,1,N,160
+08/08/2020,Sat,Miami Marlins,New York Mets,4,8,N,183
+08/08/2020,Sat,Atlanta Braves,Philadelphia Phillies,0,5,N,151
+08/08/2020,Sat,Detroit Tigers,Pittsburgh Pirates,11,5,D,202
+08/08/2020,Sat,Arizona D'Backs,San Diego Padres,3,2,N,171
+08/08/2020,Sat,Baltimore Orioles,Washington Nationals,5,3,N,207
+08/08/2020,Sat,Toronto Blue Jays,Boston Red Sox,2,1,N,198
+08/08/2020,Sat,Cleveland Indians,Chicago White Sox,7,1,D,191
+08/08/2020,Sat,Minnesota Twins,Kansas City Royals,6,9,N,235
+08/08/2020,Sat,Houston Astros,Oakland Athletics,1,3,D,144
+08/08/2020,Sat,Colorado Rockies,Seattle Mariners,5,0,N,169
+08/08/2020,Sat,New York Yankees,Tampa Bay Rays,8,4,D,172
+08/08/2020,Sat,New York Yankees,Tampa Bay Rays,3,5,D,167
+08/08/2020,Sat,Los Angeles Angels,Texas Rangers,0,2,N,166
+09/08/2020,Sun,San Francisco Giants,Los Angeles Dodgers,2,6,D,161
+09/08/2020,Sun,Cincinnati Reds,Milwaukee Brewers,3,9,D,194
+09/08/2020,Sun,Miami Marlins,New York Mets,2,4,D,189
+09/08/2020,Sun,Atlanta Braves,Philadelphia Phillies,5,2,D,179
+09/08/2020,Sun,Atlanta Braves,Philadelphia Phillies,8,0,D,149
+09/08/2020,Sun,Detroit Tigers,Pittsburgh Pirates,2,1,D,165
+09/08/2020,Sun,Arizona D'Backs,San Diego Padres,5,9,D,179
+09/08/2020,Sun,Baltimore Orioles,Washington Nationals,6,2,N,191
+09/08/2020,Sun,Toronto Blue Jays,Boston Red Sox,3,5,D,166
+09/08/2020,Sun,Cleveland Indians,Chicago White Sox,5,4,N,200
+09/08/2020,Sun,Minnesota Twins,Kansas City Royals,2,4,D,196
+09/08/2020,Sun,Houston Astros,Oakland Athletics,2,7,D,178
+09/08/2020,Sun,Colorado Rockies,Seattle Mariners,3,5,D,165
+09/08/2020,Sun,New York Yankees,Tampa Bay Rays,3,4,D,188
+09/08/2020,Sun,Los Angeles Angels,Texas Rangers,3,7,D,216
+10/08/2020,Mon,Arizona D'Backs,Colorado Rockies,12,8,N,223
+10/08/2020,Mon,San Diego Padres,Los Angeles Dodgers,2,1,N,176
+10/08/2020,Mon,Minnesota Twins,Milwaukee Brewers,4,2,N,177
+10/08/2020,Mon,Washington Nationals,New York Mets,16,4,N,179
+10/08/2020,Mon,Atlanta Braves,Philadelphia Phillies,8,13,N,174
+10/08/2020,Mon,Oakland Athletics,Los Angeles Angels,9,10,N,221
+10/08/2020,Mon,Tampa Bay Rays,Boston Red Sox,8,7,N,264
+10/08/2020,Mon,Chicago White Sox,Detroit Tigers,1,5,N,167
+10/08/2020,Mon,San Francisco Giants,Houston Astros,4,6,N,187
+10/08/2020,Mon,Seattle Mariners,Texas Rangers,10,2,N,198
+11/08/2020,Tue,Kansas City Royals,Cincinnati Reds,5,6,N,213
+11/08/2020,Tue,Arizona D'Backs,Colorado Rockies,7,8,N,196
+11/08/2020,Tue,San Diego Padres,Los Angeles Dodgers,6,2,N,182
+11/08/2020,Tue,Minnesota Twins,Milwaukee Brewers,4,6,N,176
+11/08/2020,Tue,Washington Nationals,New York Mets,2,1,N,175
+11/08/2020,Tue,Baltimore Orioles,Philadelphia Phillies,10,9,N,240
+11/08/2020,Tue,Oakland Athletics,Los Angeles Angels,0,6,N,176
+11/08/2020,Tue,Tampa Bay Rays,Boston Red Sox,8,2,N,205
+11/08/2020,Tue,Chicago Cubs,Cleveland Indians,7,1,N,194
+11/08/2020,Tue,Chicago White Sox,Detroit Tigers,8,4,N,171
+11/08/2020,Tue,San Francisco Giants,Houston Astros,7,6,N,232
+11/08/2020,Tue,Atlanta Braves,New York Yankees,6,9,N,198
+11/08/2020,Tue,Seattle Mariners,Texas Rangers,2,4,N,176
+11/08/2020,Tue,Miami Marlins,Toronto Blue Jays,4,5,N,200
+12/08/2020,Wed,Kansas City Royals,Cincinnati Reds,5,4,N,220
+12/08/2020,Wed,Arizona D'Backs,Colorado Rockies,13,7,D,236
+12/08/2020,Wed,San Diego Padres,Los Angeles Dodgers,0,6,N,172
+12/08/2020,Wed,Minnesota Twins,Milwaukee Brewers,12,2,N,188
+12/08/2020,Wed,Washington Nationals,New York Mets,6,11,N,199
+12/08/2020,Wed,Baltimore Orioles,Philadelphia Phillies,5,4,N,208
+12/08/2020,Wed,Oakland Athletics,Los Angeles Angels,8,4,D,200
+12/08/2020,Wed,Tampa Bay Rays,Boston Red Sox,9,5,N,178
+12/08/2020,Wed,Chicago Cubs,Cleveland Indians,7,2,N,212
+12/08/2020,Wed,Chicago White Sox,Detroit Tigers,7,5,D,192
+12/08/2020,Wed,San Francisco Giants,Houston Astros,1,5,N,205
+12/08/2020,Wed,Atlanta Braves,New York Yankees,3,6,N,220
+12/08/2020,Wed,Seattle Mariners,Texas Rangers,4,7,N,189
+12/08/2020,Wed,Miami Marlins,Toronto Blue Jays,14,11,N,260
+13/08/2020,Thu,Milwaukee Brewers,Chicago Cubs,2,4,N,186
+13/08/2020,Thu,Pittsburgh Pirates,Cincinnati Reds,9,6,N,201
+13/08/2020,Thu,San Diego Padres,Los Angeles Dodgers,2,11,N,165
+13/08/2020,Thu,Washington Nationals,New York Mets,2,8,D,205
+13/08/2020,Thu,Baltimore Orioles,Philadelphia Phillies,11,4,D,209
+13/08/2020,Thu,Tampa Bay Rays,Boston Red Sox,17,8,D,224
+14/08/2020,Fri,San Diego Padres,Arizona D'Backs,1,5,N,183
+14/08/2020,Fri,Milwaukee Brewers,Chicago Cubs,4,3,N,193
+14/08/2020,Fri,Pittsburgh Pirates,Cincinnati Reds,1,8,N,170
+14/08/2020,Fri,Texas Rangers,Colorado Rockies,3,2,N,153
+14/08/2020,Fri,Atlanta Braves,Miami Marlins,2,8,N,179
+14/08/2020,Fri,New York Mets,Philadelphia Phillies,5,6,N,204
+14/08/2020,Fri,Oakland Athletics,San Francisco Giants,8,7,N,203
+14/08/2020,Fri,Los Angeles Dodgers,Los Angeles Angels,7,4,N,178
+14/08/2020,Fri,Washington Nationals,Baltimore Orioles,15,3,N,190
+14/08/2020,Fri,Cleveland Indians,Detroit Tigers,10,5,N,175
+14/08/2020,Fri,Seattle Mariners,Houston Astros,1,11,N,190
+14/08/2020,Fri,Boston Red Sox,New York Yankees,3,10,N,215
+14/08/2020,Fri,Tampa Bay Rays,Toronto Blue Jays,4,12,N,189
+15/08/2020,Sat,San Diego Padres,Arizona D'Backs,6,7,N,203
+15/08/2020,Sat,Milwaukee Brewers,Chicago Cubs,6,5,D,204
+15/08/2020,Sat,Texas Rangers,Colorado Rockies,6,4,N,202
+15/08/2020,Sat,Atlanta Braves,Miami Marlins,2,1,N,179
+15/08/2020,Sat,New York Mets,Philadelphia Phillies,2,6,N,165
+15/08/2020,Sat,Oakland Athletics,San Francisco Giants,7,6,D,218
+15/08/2020,Sat,Los Angeles Dodgers,Los Angeles Angels,6,5,N,197
+15/08/2020,Sat,Washington Nationals,Baltimore Orioles,3,7,N,190
+15/08/2020,Sat,St. Louis Cardinals,Chicago White Sox,5,1,D,139
+15/08/2020,Sat,St. Louis Cardinals,Chicago White Sox,6,3,N,150
+15/08/2020,Sat,Cleveland Indians,Detroit Tigers,3,1,N,192
+15/08/2020,Sat,Seattle Mariners,Houston Astros,1,2,N,150
+15/08/2020,Sat,Kansas City Royals,Minnesota Twins,2,4,D,150
+15/08/2020,Sat,Kansas City Royals,Minnesota Twins,4,2,D,162
+15/08/2020,Sat,Boston Red Sox,New York Yankees,5,11,N,185
+15/08/2020,Sat,Tampa Bay Rays,Toronto Blue Jays,3,2,D,217
+16/08/2020,Sun,San Diego Padres,Arizona D'Backs,4,5,D,193
+16/08/2020,Sun,Milwaukee Brewers,Chicago Cubs,6,5,D,191
+16/08/2020,Sun,Texas Rangers,Colorado Rockies,6,10,D,180
+16/08/2020,Sun,Atlanta Braves,Miami Marlins,4,0,D,178
+16/08/2020,Sun,New York Mets,Philadelphia Phillies,2,6,D,177
+16/08/2020,Sun,Oakland Athletics,San Francisco Giants,15,3,D,211
+16/08/2020,Sun,Los Angeles Dodgers,Los Angeles Angels,8,3,D,190
+16/08/2020,Sun,Washington Nationals,Baltimore Orioles,6,5,D,218
+16/08/2020,Sun,St. Louis Cardinals,Chicago White Sox,2,7,D,172
+16/08/2020,Sun,Cleveland Indians,Detroit Tigers,8,5,D,206
+16/08/2020,Sun,Seattle Mariners,Houston Astros,2,3,D,176
+16/08/2020,Sun,Kansas City Royals,Minnesota Twins,2,4,D,157
+16/08/2020,Sun,Boston Red Sox,New York Yankees,2,4,N,186
+16/08/2020,Sun,Tampa Bay Rays,Toronto Blue Jays,7,5,D,174
+17/08/2020,Mon,Oakland Athletics,Arizona D'Backs,3,4,N,186
+17/08/2020,Mon,Washington Nationals,Atlanta Braves,6,7,N,215
+17/08/2020,Mon,St. Louis Cardinals,Chicago Cubs,3,1,D,123
+17/08/2020,Mon,Seattle Mariners,Los Angeles Dodgers,9,11,N,212
+17/08/2020,Mon,New York Mets,Miami Marlins,11,4,N,235
+17/08/2020,Mon,Chicago Cubs,St. Louis Cardinals,5,4,N,153
+17/08/2020,Mon,San Francisco Giants,Los Angeles Angels,6,7,N,192
+17/08/2020,Mon,Toronto Blue Jays,Baltimore Orioles,7,2,N,165
+17/08/2020,Mon,Detroit Tigers,Chicago White Sox,2,7,N,192
+17/08/2020,Mon,Colorado Rockies,Houston Astros,1,2,N,170
+17/08/2020,Mon,Kansas City Royals,Minnesota Twins,1,4,N,186
+17/08/2020,Mon,Boston Red Sox,New York Yankees,3,6,N,166
+17/08/2020,Mon,San Diego Padres,Texas Rangers,14,4,N,187
+18/08/2020,Tue,Oakland Athletics,Arizona D'Backs,1,10,D,184
+18/08/2020,Tue,Washington Nationals,Atlanta Braves,8,5,N,224
+18/08/2020,Tue,St. Louis Cardinals,Chicago Cubs,3,6,N,249
+18/08/2020,Tue,Seattle Mariners,Los Angeles Dodgers,1,2,D,158
+18/08/2020,Tue,New York Mets,Miami Marlins,8,3,N,200
+18/08/2020,Tue,Cleveland Indians,Pittsburgh Pirates,6,3,N,242
+18/08/2020,Tue,San Francisco Giants,Los Angeles Angels,8,2,D,186
+18/08/2020,Tue,Toronto Blue Jays,Baltimore Orioles,8,7,N,237
+18/08/2020,Tue,Philadelphia Phillies,Boston Red Sox,13,6,N,246
+18/08/2020,Tue,Detroit Tigers,Chicago White Sox,4,10,N,180
+18/08/2020,Tue,Colorado Rockies,Houston Astros,1,2,D,183
+18/08/2020,Tue,Milwaukee Brewers,Minnesota Twins,3,4,N,268
+18/08/2020,Tue,Tampa Bay Rays,New York Yankees,6,3,N,195
+18/08/2020,Tue,San Diego Padres,Texas Rangers,6,4,D,216
+19/08/2020,Wed,St. Louis Cardinals,Chicago Cubs,9,3,D,181
+19/08/2020,Wed,Houston Astros,Colorado Rockies,13,6,N,189
+19/08/2020,Wed,New York Mets,Miami Marlins,5,3,N,194
+19/08/2020,Wed,Cleveland Indians,Pittsburgh Pirates,6,1,N,176
+19/08/2020,Wed,Texas Rangers,San Diego Padres,3,6,N,203
+19/08/2020,Wed,Los Angeles Angels,San Francisco Giants,2,7,N,185
+19/08/2020,Wed,Chicago Cubs,St. Louis Cardinals,4,2,N,146
+19/08/2020,Wed,Toronto Blue Jays,Baltimore Orioles,5,2,D,180
+19/08/2020,Wed,Philadelphia Phillies,Boston Red Sox,3,6,D,216
+19/08/2020,Wed,Detroit Tigers,Chicago White Sox,3,5,N,151
+19/08/2020,Wed,Cincinnati Reds,Kansas City Royals,0,4,D,131
+19/08/2020,Wed,Cincinnati Reds,Kansas City Royals,5,0,N,142
+19/08/2020,Wed,Milwaukee Brewers,Minnesota Twins,9,3,N,179
+19/08/2020,Wed,Tampa Bay Rays,New York Yankees,4,2,N,192
+19/08/2020,Wed,Arizona D'Backs,Oakland Athletics,1,4,N,177
+19/08/2020,Wed,Los Angeles Dodgers,Seattle Mariners,4,6,N,195
+20/08/2020,Thu,Houston Astros,Colorado Rockies,10,8,D,211
+20/08/2020,Thu,Cleveland Indians,Pittsburgh Pirates,2,0,N,204
+20/08/2020,Thu,Texas Rangers,San Diego Padres,7,8,N,239
+20/08/2020,Thu,Los Angeles Angels,San Francisco Giants,5,10,N,220
+20/08/2020,Thu,Cincinnati Reds,St. Louis Cardinals,4,5,N,192
+20/08/2020,Thu,Boston Red Sox,Baltimore Orioles,7,1,N,206
+20/08/2020,Thu,Detroit Tigers,Chicago White Sox,0,9,D,176
+20/08/2020,Thu,Milwaukee Brewers,Minnesota Twins,1,7,N,178
+20/08/2020,Thu,Tampa Bay Rays,New York Yankees,10,5,D,205
+20/08/2020,Thu,Arizona D'Backs,Oakland Athletics,1,5,N,169
+20/08/2020,Thu,Los Angeles Dodgers,Seattle Mariners,6,1,D,162
+20/08/2020,Thu,Philadelphia Phillies,Toronto Blue Jays,2,3,D,163
+20/08/2020,Thu,Philadelphia Phillies,Toronto Blue Jays,8,9,D,186
+21/08/2020,Fri,Philadelphia Phillies,Atlanta Braves,2,11,N,198
+21/08/2020,Fri,Chicago White Sox,Chicago Cubs,10,1,N,174
+21/08/2020,Fri,Colorado Rockies,Los Angeles Dodgers,1,5,N,155
+21/08/2020,Fri,Milwaukee Brewers,Pittsburgh Pirates,2,7,N,173
+21/08/2020,Fri,Houston Astros,San Diego Padres,3,4,N,221
+21/08/2020,Fri,Arizona D'Backs,San Francisco Giants,2,6,N,178
+21/08/2020,Fri,Cincinnati Reds,St. Louis Cardinals,4,2,N,190
+21/08/2020,Fri,Miami Marlins,Washington Nationals,3,2,N,186
+21/08/2020,Fri,Boston Red Sox,Baltimore Orioles,8,5,N,184
+21/08/2020,Fri,Detroit Tigers,Cleveland Indians,10,5,N,198
+21/08/2020,Fri,Minnesota Twins,Kansas City Royals,2,7,N,194
+21/08/2020,Fri,Los Angeles Angels,Oakland Athletics,3,5,N,187
+21/08/2020,Fri,Texas Rangers,Seattle Mariners,4,7,N,161
+21/08/2020,Fri,Toronto Blue Jays,Tampa Bay Rays,6,5,N,211
+22/08/2020,Sat,Philadelphia Phillies,Atlanta Braves,5,6,N,198
+22/08/2020,Sat,Chicago White Sox,Chicago Cubs,7,4,N,213
+22/08/2020,Sat,Colorado Rockies,Los Angeles Dodgers,3,4,N,185
+22/08/2020,Sat,Miami Marlins,Washington Nationals,4,5,D,178
+22/08/2020,Sat,Milwaukee Brewers,Pittsburgh Pirates,5,12,D,210
+22/08/2020,Sat,Houston Astros,San Diego Padres,2,13,N,161
+22/08/2020,Sat,Arizona D'Backs,San Francisco Giants,1,5,N,163
+22/08/2020,Sat,Cincinnati Reds,St. Louis Cardinals,0,3,N,135
+22/08/2020,Sat,Washington Nationals,Miami Marlins,3,5,N,151
+22/08/2020,Sat,Boston Red Sox,Baltimore Orioles,4,5,N,216
+22/08/2020,Sat,Detroit Tigers,Cleveland Indians,1,6,N,157
+22/08/2020,Sat,Minnesota Twins,Kansas City Royals,7,2,N,203
+22/08/2020,Sat,Los Angeles Angels,Oakland Athletics,4,3,D,186
+22/08/2020,Sat,Texas Rangers,Seattle Mariners,1,10,N,171
+22/08/2020,Sat,Toronto Blue Jays,Tampa Bay Rays,1,2,N,201
+23/08/2020,Sun,Philadelphia Phillies,Atlanta Braves,5,4,N,197
+23/08/2020,Sun,Chicago White Sox,Chicago Cubs,1,2,D,195
+23/08/2020,Sun,Colorado Rockies,Los Angeles Dodgers,3,11,D,178
+23/08/2020,Sun,Milwaukee Brewers,Pittsburgh Pirates,4,5,D,191
+23/08/2020,Sun,Houston Astros,San Diego Padres,3,5,D,184
+23/08/2020,Sun,Arizona D'Backs,San Francisco Giants,1,6,D,172
+23/08/2020,Sun,Cincinnati Reds,St. Louis Cardinals,2,6,D,183
+23/08/2020,Sun,Miami Marlins,Washington Nationals,3,9,D,192
+23/08/2020,Sun,Boston Red Sox,Baltimore Orioles,4,5,D,197
+23/08/2020,Sun,Detroit Tigers,Cleveland Indians,7,4,D,202
+23/08/2020,Sun,Minnesota Twins,Kansas City Royals,5,4,D,215
+23/08/2020,Sun,Los Angeles Angels,Oakland Athletics,4,5,D,220
+23/08/2020,Sun,Texas Rangers,Seattle Mariners,1,4,D,134
+23/08/2020,Sun,Toronto Blue Jays,Tampa Bay Rays,4,5,D,194
+24/08/2020,Mon,Colorado Rockies,Arizona D'Backs,3,2,N,199
+24/08/2020,Mon,Cincinnati Reds,Milwaukee Brewers,2,4,N,155
+24/08/2020,Mon,Kansas City Royals,St. Louis Cardinals,3,9,N,190
+24/08/2020,Mon,Miami Marlins,Washington Nationals,11,8,N,242
+24/08/2020,Mon,Minnesota Twins,Cleveland Indians,3,2,N,194
+24/08/2020,Mon,Chicago Cubs,Detroit Tigers,9,3,N,181
+24/08/2020,Mon,Los Angeles Angels,Houston Astros,4,11,N,205
+24/08/2020,Mon,Toronto Blue Jays,Tampa Bay Rays,6,4,D,209
+24/08/2020,Mon,Oakland Athletics,Texas Rangers,2,3,N,172
+25/08/2020,Tue,Colorado Rockies,Arizona D'Backs,5,4,N,232
+25/08/2020,Tue,Miami Marlins,New York Mets,4,0,N,157
+25/08/2020,Tue,Cincinnati Reds,Milwaukee Brewers,2,3,N,167
+25/08/2020,Tue,New York Mets,Miami Marlins,0,3,N,144
+25/08/2020,Tue,Seattle Mariners,San Diego Padres,8,3,N,188
+25/08/2020,Tue,Los Angeles Dodgers,San Francisco Giants,8,10,N,262
+25/08/2020,Tue,Kansas City Royals,St. Louis Cardinals,5,4,N,187
+25/08/2020,Tue,Philadelphia Phillies,Washington Nationals,8,3,N,193
+25/08/2020,Tue,Pittsburgh Pirates,Chicago White Sox,0,4,N,143
+25/08/2020,Tue,Minnesota Twins,Cleveland Indians,2,4,N,172
+25/08/2020,Tue,Chicago Cubs,Detroit Tigers,1,7,N,193
+25/08/2020,Tue,Los Angeles Angels,Houston Astros,3,6,D,146
+25/08/2020,Tue,Los Angeles Angels,Houston Astros,12,5,N,204
+25/08/2020,Tue,Baltimore Orioles,Tampa Bay Rays,2,4,N,161
+25/08/2020,Tue,Oakland Athletics,Texas Rangers,10,3,N,195
+25/08/2020,Tue,Boston Red Sox,Toronto Blue Jays,9,7,N,222
+26/08/2020,Wed,Colorado Rockies,Arizona D'Backs,8,7,N,223
+26/08/2020,Wed,New York Yankees,Atlanta Braves,1,5,D,125
+26/08/2020,Wed,New York Yankees,Atlanta Braves,1,2,N,118
+26/08/2020,Wed,Miami Marlins,New York Mets,4,5,N,196
+26/08/2020,Wed,Kansas City Royals,St. Louis Cardinals,5,6,N,217
+26/08/2020,Wed,Philadelphia Phillies,Washington Nationals,3,2,N,199
+26/08/2020,Wed,Pittsburgh Pirates,Chicago White Sox,3,10,D,161
+26/08/2020,Wed,Minnesota Twins,Cleveland Indians,3,6,N,194
+26/08/2020,Wed,Chicago Cubs,Detroit Tigers,6,7,N,203
+26/08/2020,Wed,Baltimore Orioles,Tampa Bay Rays,3,4,N,206
+26/08/2020,Wed,Oakland Athletics,Texas Rangers,3,1,N,188
+26/08/2020,Wed,Boston Red Sox,Toronto Blue Jays,1,9,N,178
+27/08/2020,Thu,Cincinnati Reds,Milwaukee Brewers,6,1,D,171
+27/08/2020,Thu,Cincinnati Reds,Milwaukee Brewers,6,0,N,153
+27/08/2020,Thu,Seattle Mariners,San Diego Padres,7,10,D,169
+27/08/2020,Thu,Seattle Mariners,San Diego Padres,8,3,D,159
+27/08/2020,Thu,Los Angeles Dodgers,San Francisco Giants,7,0,D,137
+27/08/2020,Thu,Los Angeles Dodgers,San Francisco Giants,2,0,D,150
+27/08/2020,Thu,Pittsburgh Pirates,St. Louis Cardinals,4,3,D,168
+27/08/2020,Thu,Pittsburgh Pirates,St. Louis Cardinals,2,0,N,122
+28/08/2020,Fri,San Francisco Giants,Arizona D'Backs,4,7,N,169
+28/08/2020,Fri,Chicago Cubs,Cincinnati Reds,5,6,N,177
+28/08/2020,Fri,San Diego Padres,Colorado Rockies,10,4,N,209
+28/08/2020,Fri,Tampa Bay Rays,Miami Marlins,2,0,N,175
+28/08/2020,Fri,Pittsburgh Pirates,Milwaukee Brewers,1,9,N,175
+28/08/2020,Fri,New York Mets,New York Yankees,6,4,D,150
+28/08/2020,Fri,Atlanta Braves,Philadelphia Phillies,4,7,N,247
+28/08/2020,Fri,Cleveland Indians,St. Louis Cardinals,14,2,N,231
+28/08/2020,Fri,Seattle Mariners,Los Angeles Angels,2,3,N,170
+28/08/2020,Fri,Washington Nationals,Boston Red Sox,10,2,N,201
+28/08/2020,Fri,Kansas City Royals,Chicago White Sox,5,6,N,239
+28/08/2020,Fri,New York Yankees,New York Mets,3,4,N,143
+28/08/2020,Fri,Los Angeles Dodgers,Texas Rangers,2,6,N,190
+28/08/2020,Fri,Baltimore Orioles,Toronto Blue Jays,4,5,N,199
+29/08/2020,Sat,San Francisco Giants,Arizona D'Backs,5,2,N,192
+29/08/2020,Sat,Chicago Cubs,Cincinnati Reds,3,0,D,167
+29/08/2020,Sat,Chicago Cubs,Cincinnati Reds,5,6,N,173
+29/08/2020,Sat,San Diego Padres,Colorado Rockies,3,4,N,188
+29/08/2020,Sat,Tampa Bay Rays,Miami Marlins,4,0,N,167
+29/08/2020,Sat,Pittsburgh Pirates,Milwaukee Brewers,6,7,N,199
+29/08/2020,Sat,Atlanta Braves,Philadelphia Phillies,1,4,D,153
+29/08/2020,Sat,Cleveland Indians,St. Louis Cardinals,2,1,D,246
+29/08/2020,Sat,Seattle Mariners,Los Angeles Angels,3,16,N,206
+29/08/2020,Sat,Washington Nationals,Boston Red Sox,3,5,N,205
+29/08/2020,Sat,Kansas City Royals,Chicago White Sox,9,6,D,213
+29/08/2020,Sat,Minnesota Twins,Detroit Tigers,2,8,D,131
+29/08/2020,Sat,Minnesota Twins,Detroit Tigers,2,4,D,132
+29/08/2020,Sat,Oakland Athletics,Houston Astros,2,4,D,127
+29/08/2020,Sat,Oakland Athletics,Houston Astros,3,6,N,153
+29/08/2020,Sat,New York Mets,New York Yankees,1,2,D,180
+29/08/2020,Sat,Los Angeles Dodgers,Texas Rangers,7,4,N,216
+29/08/2020,Sat,Baltimore Orioles,Toronto Blue Jays,0,5,N,164
+30/08/2020,Sun,San Francisco Giants,Arizona D'Backs,4,1,D,175
+30/08/2020,Sun,Chicago Cubs,Cincinnati Reds,10,1,D,206
+30/08/2020,Sun,San Diego Padres,Colorado Rockies,13,2,D,187
+30/08/2020,Sun,Tampa Bay Rays,Miami Marlins,12,7,D,206
+30/08/2020,Sun,Pittsburgh Pirates,Milwaukee Brewers,5,1,D,193
+30/08/2020,Sun,New York Mets,New York Yankees,7,8,D,202
+30/08/2020,Sun,Atlanta Braves,Philadelphia Phillies,12,10,N,253
+30/08/2020,Sun,Cleveland Indians,St. Louis Cardinals,2,7,D,144
+30/08/2020,Sun,Seattle Mariners,Los Angeles Angels,2,1,D,207
+30/08/2020,Sun,Washington Nationals,Boston Red Sox,5,9,D,206
+30/08/2020,Sun,Kansas City Royals,Chicago White Sox,2,5,D,218
+30/08/2020,Sun,Minnesota Twins,Detroit Tigers,2,3,D,161
+30/08/2020,Sun,New York Yankees,New York Mets,5,2,N,165
+30/08/2020,Sun,Los Angeles Dodgers,Texas Rangers,7,2,D,220
+30/08/2020,Sun,Baltimore Orioles,Toronto Blue Jays,5,6,D,178
+31/08/2020,Mon,St. Louis Cardinals,Cincinnati Reds,7,5,N,189
+31/08/2020,Mon,San Diego Padres,Colorado Rockies,6,0,N,169
+31/08/2020,Mon,Pittsburgh Pirates,Milwaukee Brewers,5,6,N,205
+31/08/2020,Mon,Miami Marlins,New York Mets,5,3,D,183
+31/08/2020,Mon,Washington Nationals,Philadelphia Phillies,6,8,N,168
+31/08/2020,Mon,Seattle Mariners,Los Angeles Angels,2,1,D,150
+31/08/2020,Mon,Atlanta Braves,Boston Red Sox,6,3,N,199
+31/08/2020,Mon,Cleveland Indians,Kansas City Royals,1,2,N,191
+31/08/2020,Mon,Chicago White Sox,Minnesota Twins,8,5,N,223
+31/08/2020,Mon,Tampa Bay Rays,New York Yankees,5,3,N,201
+31/08/2020,Mon,Baltimore Orioles,Toronto Blue Jays,4,3,D,218
+01/09/2020,Tue,St. Louis Cardinals,Cincinnati Reds,16,2,N,207
+01/09/2020,Tue,San Francisco Giants,Colorado Rockies,23,5,N,228
+01/09/2020,Tue,Arizona D'Backs,Los Angeles Dodgers,3,6,N,166
+01/09/2020,Tue,Toronto Blue Jays,Miami Marlins,2,3,N,160
+01/09/2020,Tue,Detroit Tigers,Milwaukee Brewers,12,1,N,214
+01/09/2020,Tue,Washington Nationals,Philadelphia Phillies,0,6,N,194
+01/09/2020,Tue,Chicago Cubs,Pittsburgh Pirates,8,7,N,250
+01/09/2020,Tue,New York Mets,Baltimore Orioles,5,9,N,179
+01/09/2020,Tue,Atlanta Braves,Boston Red Sox,10,3,N,185
+01/09/2020,Tue,Texas Rangers,Houston Astros,6,5,N,208
+01/09/2020,Tue,Cleveland Indians,Kansas City Royals,10,1,N,190
+01/09/2020,Tue,Chicago White Sox,Minnesota Twins,2,3,N,192
+01/09/2020,Tue,Tampa Bay Rays,New York Yankees,3,5,N,159
+02/09/2020,Wed,St. Louis Cardinals,Cincinnati Reds,3,4,N,175
+02/09/2020,Wed,San Francisco Giants,Colorado Rockies,6,9,D,215
+02/09/2020,Wed,Arizona D'Backs,Los Angeles Dodgers,2,3,N,191
+02/09/2020,Wed,Toronto Blue Jays,Miami Marlins,2,1,N,157
+02/09/2020,Wed,Detroit Tigers,Milwaukee Brewers,5,8,N,200
+02/09/2020,Wed,Washington Nationals,Philadelphia Phillies,0,3,N,170
+02/09/2020,Wed,Chicago Cubs,Pittsburgh Pirates,8,2,N,195
+02/09/2020,Wed,San Diego Padres,Los Angeles Angels,11,4,N,193
+02/09/2020,Wed,New York Mets,Baltimore Orioles,9,4,D,192
+02/09/2020,Wed,Atlanta Braves,Boston Red Sox,7,5,N,181
+02/09/2020,Wed,Texas Rangers,Houston Astros,1,2,N,147
+02/09/2020,Wed,Cleveland Indians,Kansas City Royals,5,0,N,149
+02/09/2020,Wed,Chicago White Sox,Minnesota Twins,1,8,N,203
+02/09/2020,Wed,Tampa Bay Rays,New York Yankees,5,2,N,225
+03/09/2020,Thu,Arizona D'Backs,Los Angeles Dodgers,1,5,N,178
+03/09/2020,Thu,New York Yankees,New York Mets,7,9,D,240
+03/09/2020,Thu,Washington Nationals,Philadelphia Phillies,5,6,D,230
+03/09/2020,Thu,Chicago Cubs,Pittsburgh Pirates,2,6,D,196
+03/09/2020,Thu,San Diego Padres,Los Angeles Angels,0,2,D,160
+03/09/2020,Thu,Toronto Blue Jays,Boston Red Sox,6,2,N,242
+03/09/2020,Thu,Texas Rangers,Houston Astros,4,8,D,191
+03/09/2020,Thu,Chicago White Sox,Kansas City Royals,11,6,N,198
+04/09/2020,Fri,Washington Nationals,Atlanta Braves,1,7,D,150
+04/09/2020,Fri,Washington Nationals,Atlanta Braves,10,9,N,192
+04/09/2020,Fri,St. Louis Cardinals,Chicago Cubs,1,4,N,185
+04/09/2020,Fri,Cincinnati Reds,Pittsburgh Pirates,4,2,D,151
+04/09/2020,Fri,Colorado Rockies,Los Angeles Dodgers,6,10,N,206
+04/09/2020,Fri,Philadelphia Phillies,New York Mets,5,3,N,191
+04/09/2020,Fri,Pittsburgh Pirates,Cincinnati Reds,4,3,N,145
+04/09/2020,Fri,Arizona D'Backs,San Francisco Giants,6,5,N,212
+04/09/2020,Fri,Houston Astros,Los Angeles Angels,5,6,N,267
+04/09/2020,Fri,New York Yankees,Baltimore Orioles,6,5,N,217
+04/09/2020,Fri,New York Yankees,Baltimore Orioles,3,6,N,151
+04/09/2020,Fri,Toronto Blue Jays,Boston Red Sox,8,7,D,162
+04/09/2020,Fri,Milwaukee Brewers,Cleveland Indians,7,1,N,175
+04/09/2020,Fri,Detroit Tigers,Minnesota Twins,0,2,D,105
+04/09/2020,Fri,Chicago White Sox,Kansas City Royals,7,4,N,222
+04/09/2020,Fri,Minnesota Twins,Detroit Tigers,3,2,D,177
+04/09/2020,Fri,San Diego Padres,Oakland Athletics,7,0,N,161
+04/09/2020,Fri,Texas Rangers,Seattle Mariners,3,6,N,176
+04/09/2020,Fri,Miami Marlins,Tampa Bay Rays,4,5,N,177
+04/09/2020,Fri,Boston Red Sox,Toronto Blue Jays,3,2,N,169
+05/09/2020,Sat,Washington Nationals,Atlanta Braves,10,4,N,211
+05/09/2020,Sat,St. Louis Cardinals,Chicago Cubs,4,2,D,160
+05/09/2020,Sat,Colorado Rockies,Los Angeles Dodgers,5,2,N,165
+05/09/2020,Sat,Philadelphia Phillies,New York Mets,1,5,N,188
+05/09/2020,Sat,Cincinnati Reds,Pittsburgh Pirates,6,2,N,203
+05/09/2020,Sat,Arizona D'Backs,San Francisco Giants,3,4,N,186
+05/09/2020,Sat,Chicago Cubs,St. Louis Cardinals,1,5,N,136
+05/09/2020,Sat,Houston Astros,Los Angeles Angels,9,10,D,181
+05/09/2020,Sat,New York Yankees,Baltimore Orioles,1,6,N,167
+05/09/2020,Sat,Toronto Blue Jays,Boston Red Sox,8,9,N,221
+05/09/2020,Sat,Milwaukee Brewers,Cleveland Indians,3,4,N,201
+05/09/2020,Sat,Los Angeles Angels,Houston Astros,7,6,N,164
+05/09/2020,Sat,Chicago White Sox,Kansas City Royals,5,3,N,190
+05/09/2020,Sat,Detroit Tigers,Minnesota Twins,3,4,N,172
+05/09/2020,Sat,San Diego Padres,Oakland Athletics,4,8,D,180
+05/09/2020,Sat,Texas Rangers,Seattle Mariners,3,5,N,184
+05/09/2020,Sat,Miami Marlins,Tampa Bay Rays,7,3,N,196
+06/09/2020,Sun,Washington Nationals,Atlanta Braves,3,10,D,206
+06/09/2020,Sun,St. Louis Cardinals,Chicago Cubs,7,3,N,197
+06/09/2020,Sun,Colorado Rockies,Los Angeles Dodgers,7,6,N,223
+06/09/2020,Sun,Philadelphia Phillies,New York Mets,1,14,D,198
+06/09/2020,Sun,Cincinnati Reds,Pittsburgh Pirates,2,3,D,182
+06/09/2020,Sun,Arizona D'Backs,San Francisco Giants,2,4,D,172
+06/09/2020,Sun,Houston Astros,Los Angeles Angels,5,9,D,208
+06/09/2020,Sun,New York Yankees,Baltimore Orioles,1,5,D,182
+06/09/2020,Sun,Toronto Blue Jays,Boston Red Sox,10,8,D,263
+06/09/2020,Sun,Milwaukee Brewers,Cleveland Indians,1,4,D,193
+06/09/2020,Sun,Chicago White Sox,Kansas City Royals,8,2,D,214
+06/09/2020,Sun,Detroit Tigers,Minnesota Twins,10,8,D,223
+06/09/2020,Sun,San Diego Padres,Oakland Athletics,5,3,D,184
+06/09/2020,Sun,Texas Rangers,Seattle Mariners,3,4,D,165
+06/09/2020,Sun,Miami Marlins,Tampa Bay Rays,4,5,D,198
+07/09/2020,Mon,Miami Marlins,Atlanta Braves,5,4,D,232
+07/09/2020,Mon,St. Louis Cardinals,Chicago Cubs,1,5,D,171
+07/09/2020,Mon,Philadelphia Phillies,New York Mets,9,8,D,220
+07/09/2020,Mon,Colorado Rockies,San Diego Padres,0,1,N,182
+07/09/2020,Mon,Arizona D'Backs,San Francisco Giants,2,4,N,176
+07/09/2020,Mon,Tampa Bay Rays,Washington Nationals,1,6,N,161
+07/09/2020,Mon,Kansas City Royals,Cleveland Indians,2,5,N,172
+07/09/2020,Mon,Detroit Tigers,Minnesota Twins,2,6,D,164
+07/09/2020,Mon,Houston Astros,Oakland Athletics,0,6,N,175
+07/09/2020,Mon,Texas Rangers,Seattle Mariners,4,8,D,180
+07/09/2020,Mon,New York Yankees,Toronto Blue Jays,7,12,N,242
+08/09/2020,Tue,Los Angeles Dodgers,Arizona D'Backs,10,9,N,265
+08/09/2020,Tue,Miami Marlins,Atlanta Braves,8,0,N,192
+08/09/2020,Tue,Cincinnati Reds,Chicago Cubs,0,3,N,156
+08/09/2020,Tue,Baltimore Orioles,New York Mets,11,2,N,181
+08/09/2020,Tue,Boston Red Sox,Philadelphia Phillies,5,6,D,169
+08/09/2020,Tue,Boston Red Sox,Philadelphia Phillies,5,2,N,156
+08/09/2020,Tue,Chicago White Sox,Pittsburgh Pirates,4,5,N,199
+08/09/2020,Tue,Colorado Rockies,San Diego Padres,5,14,N,196
+08/09/2020,Tue,Seattle Mariners,San Francisco Giants,5,6,N,184
+08/09/2020,Tue,Minnesota Twins,St. Louis Cardinals,7,3,D,151
+08/09/2020,Tue,Minnesota Twins,St. Louis Cardinals,4,6,N,168
+08/09/2020,Tue,Tampa Bay Rays,Washington Nationals,3,5,N,200
+08/09/2020,Tue,Kansas City Royals,Cleveland Indians,8,6,N,193
+08/09/2020,Tue,Milwaukee Brewers,Detroit Tigers,3,8,N,185
+08/09/2020,Tue,Oakland Athletics,Houston Astros,4,2,D,143
+08/09/2020,Tue,Houston Astros,Oakland Athletics,5,4,N,172
+08/09/2020,Tue,Los Angeles Angels,Texas Rangers,1,7,N,172
+08/09/2020,Tue,New York Yankees,Toronto Blue Jays,1,2,N,180
+09/09/2020,Wed,Los Angeles Dodgers,Arizona D'Backs,6,4,N,200
+09/09/2020,Wed,Miami Marlins,Atlanta Braves,9,29,N,254
+09/09/2020,Wed,Cincinnati Reds,Chicago Cubs,3,0,N,174
+09/09/2020,Wed,Baltimore Orioles,New York Mets,6,7,N,205
+09/09/2020,Wed,Chicago White Sox,Pittsburgh Pirates,8,1,N,188
+09/09/2020,Wed,Colorado Rockies,San Diego Padres,3,5,N,174
+09/09/2020,Wed,Seattle Mariners,San Francisco Giants,1,10,N,185
+09/09/2020,Wed,Kansas City Royals,Cleveland Indians,3,0,N,183
+09/09/2020,Wed,Milwaukee Brewers,Detroit Tigers,19,0,D,184
+09/09/2020,Wed,Houston Astros,Oakland Athletics,2,3,N,173
+09/09/2020,Wed,Los Angeles Angels,Texas Rangers,3,7,N,218
+09/09/2020,Wed,New York Yankees,Toronto Blue Jays,7,2,N,184
+10/09/2020,Thu,Los Angeles Dodgers,Arizona D'Backs,2,5,N,211
+10/09/2020,Thu,Cincinnati Reds,Chicago Cubs,5,8,N,247
+10/09/2020,Thu,Philadelphia Phillies,Miami Marlins,6,7,N,206
+10/09/2020,Thu,San Francisco Giants,San Diego Padres,1,6,N,168
+10/09/2020,Thu,Detroit Tigers,St. Louis Cardinals,2,12,D,154
+10/09/2020,Thu,Detroit Tigers,St. Louis Cardinals,6,3,D,160
+10/09/2020,Thu,Atlanta Braves,Washington Nationals,7,6,N,220
+10/09/2020,Thu,Kansas City Royals,Cleveland Indians,11,1,N,168
+10/09/2020,Thu,Houston Astros,Oakland Athletics,1,3,D,138
+10/09/2020,Thu,Boston Red Sox,Tampa Bay Rays,4,3,N,202
+10/09/2020,Thu,Los Angeles Angels,Texas Rangers,6,2,D,184
+11/09/2020,Fri,Seattle Mariners,Arizona D'Backs,3,4,N,152
+11/09/2020,Fri,Los Angeles Angels,Colorado Rockies,4,8,N,188
+11/09/2020,Fri,Philadelphia Phillies,Miami Marlins,11,0,N,153
+11/09/2020,Fri,Philadelphia Phillies,Miami Marlins,3,5,N,161
+11/09/2020,Fri,Chicago Cubs,Milwaukee Brewers,0,1,N,170
+11/09/2020,Fri,Cincinnati Reds,St. Louis Cardinals,3,1,N,144
+11/09/2020,Fri,Atlanta Braves,Washington Nationals,7,8,N,288
+11/09/2020,Fri,Detroit Tigers,Chicago White Sox,3,4,N,182
+11/09/2020,Fri,Pittsburgh Pirates,Kansas City Royals,3,4,N,190
+11/09/2020,Fri,Cleveland Indians,Minnesota Twins,1,3,N,163
+11/09/2020,Fri,Baltimore Orioles,New York Yankees,0,6,D,122
+11/09/2020,Fri,Baltimore Orioles,New York Yankees,1,10,N,160
+11/09/2020,Fri,Boston Red Sox,Tampa Bay Rays,1,11,N,217
+11/09/2020,Fri,Oakland Athletics,Texas Rangers,10,6,N,202
+11/09/2020,Fri,New York Mets,Toronto Blue Jays,18,1,N,210
+12/09/2020,Sat,Seattle Mariners,Arizona D'Backs,7,3,N,165
+12/09/2020,Sat,Los Angeles Angels,Colorado Rockies,5,2,N,224
+12/09/2020,Sat,Houston Astros,Los Angeles Dodgers,7,5,N,195
+12/09/2020,Sat,Philadelphia Phillies,Miami Marlins,12,6,N,223
+12/09/2020,Sat,Chicago Cubs,Milwaukee Brewers,4,2,N,162
+12/09/2020,Sat,Cincinnati Reds,St. Louis Cardinals,1,7,N,188
+12/09/2020,Sat,Atlanta Braves,Washington Nationals,2,1,N,184
+12/09/2020,Sat,Detroit Tigers,Chicago White Sox,0,14,N,182
+12/09/2020,Sat,Pittsburgh Pirates,Kansas City Royals,4,7,N,186
+12/09/2020,Sat,Cleveland Indians,Minnesota Twins,4,8,N,176
+12/09/2020,Sat,Baltimore Orioles,New York Yankees,1,2,D,191
+12/09/2020,Sat,Boston Red Sox,Tampa Bay Rays,4,5,N,157
+12/09/2020,Sat,Oakland Athletics,Texas Rangers,2,5,D,118
+12/09/2020,Sat,Oakland Athletics,Texas Rangers,10,1,N,179
+12/09/2020,Sat,New York Mets,Toronto Blue Jays,2,3,N,202
+13/09/2020,Sun,Seattle Mariners,Arizona D'Backs,7,3,D,212
+13/09/2020,Sun,Los Angeles Angels,Colorado Rockies,5,3,D,184
+13/09/2020,Sun,Houston Astros,Los Angeles Dodgers,1,8,N,172
+13/09/2020,Sun,Philadelphia Phillies,Miami Marlins,1,2,D,121
+13/09/2020,Sun,Philadelphia Phillies,Miami Marlins,1,8,D,142
+13/09/2020,Sun,Chicago Cubs,Milwaukee Brewers,12,0,D,170
+13/09/2020,Sun,San Francisco Giants,San Diego Padres,0,6,D,128
+13/09/2020,Sun,San Francisco Giants,San Diego Padres,1,3,D,132
+13/09/2020,Sun,Cincinnati Reds,St. Louis Cardinals,10,5,D,222
+13/09/2020,Sun,Atlanta Braves,Washington Nationals,8,4,D,217
+13/09/2020,Sun,Detroit Tigers,Chicago White Sox,2,5,D,188
+13/09/2020,Sun,Pittsburgh Pirates,Kansas City Royals,0,11,D,182
+13/09/2020,Sun,Cleveland Indians,Minnesota Twins,5,7,D,223
+13/09/2020,Sun,Baltimore Orioles,New York Yankees,1,3,D,164
+13/09/2020,Sun,Boston Red Sox,Tampa Bay Rays,6,3,D,191
+13/09/2020,Sun,Oakland Athletics,Texas Rangers,3,6,D,177
+13/09/2020,Sun,New York Mets,Toronto Blue Jays,3,7,D,192
+14/09/2020,Mon,Pittsburgh Pirates,Cincinnati Reds,1,3,D,145
+14/09/2020,Mon,Pittsburgh Pirates,Cincinnati Reds,4,9,N,178
+14/09/2020,Mon,Philadelphia Phillies,Miami Marlins,2,6,D,167
+14/09/2020,Mon,St. Louis Cardinals,Milwaukee Brewers,1,2,D,157
+14/09/2020,Mon,St. Louis Cardinals,Milwaukee Brewers,3,2,N,222
+14/09/2020,Mon,Los Angeles Dodgers,San Diego Padres,2,7,N,179
+14/09/2020,Mon,Atlanta Braves,Baltimore Orioles,1,14,N,174
+14/09/2020,Mon,Minnesota Twins,Chicago White Sox,1,3,N,231
+14/09/2020,Mon,Oakland Athletics,Seattle Mariners,5,6,D,138
+14/09/2020,Mon,Oakland Athletics,Seattle Mariners,9,0,N,144
+15/09/2020,Tue,Cleveland Indians,Chicago Cubs,5,6,N,197
+15/09/2020,Tue,Pittsburgh Pirates,Cincinnati Reds,1,4,N,160
+15/09/2020,Tue,Oakland Athletics,Colorado Rockies,1,3,N,161
+15/09/2020,Tue,Boston Red Sox,Miami Marlins,2,0,N,185
+15/09/2020,Tue,St. Louis Cardinals,Milwaukee Brewers,3,18,N,189
+15/09/2020,Tue,New York Mets,Philadelphia Phillies,1,4,N,178
+15/09/2020,Tue,Los Angeles Dodgers,San Diego Padres,3,1,N,179
+15/09/2020,Tue,Arizona D'Backs,Los Angeles Angels,9,8,N,186
+15/09/2020,Tue,Atlanta Braves,Baltimore Orioles,5,1,N,177
+15/09/2020,Tue,Minnesota Twins,Chicago White Sox,2,6,N,184
+15/09/2020,Tue,Kansas City Royals,Detroit Tigers,0,6,N,207
+15/09/2020,Tue,Texas Rangers,Houston Astros,1,4,N,180
+15/09/2020,Tue,Toronto Blue Jays,New York Yankees,6,20,N,192
+15/09/2020,Tue,Washington Nationals,Tampa Bay Rays,1,6,N,188
+16/09/2020,Wed,Cleveland Indians,Chicago Cubs,2,3,N,193
+16/09/2020,Wed,Pittsburgh Pirates,Cincinnati Reds,0,1,N,154
+16/09/2020,Wed,Oakland Athletics,Colorado Rockies,3,1,D,177
+16/09/2020,Wed,Boston Red Sox,Miami Marlins,4,8,N,215
+16/09/2020,Wed,St. Louis Cardinals,Milwaukee Brewers,4,2,D,121
+16/09/2020,Wed,St. Louis Cardinals,Milwaukee Brewers,0,6,N,121
+16/09/2020,Wed,New York Mets,Philadelphia Phillies,5,4,N,197
+16/09/2020,Wed,Los Angeles Dodgers,San Diego Padres,7,5,D,205
+16/09/2020,Wed,Arizona D'Backs,Los Angeles Angels,9,6,N,190
+16/09/2020,Wed,Atlanta Braves,Baltimore Orioles,1,5,N,155
+16/09/2020,Wed,Minnesota Twins,Chicago White Sox,5,1,N,185
+16/09/2020,Wed,Kansas City Royals,Detroit Tigers,4,0,N,153
+16/09/2020,Wed,Texas Rangers,Houston Astros,1,0,N,156
+16/09/2020,Wed,Toronto Blue Jays,New York Yankees,2,13,N,182
+16/09/2020,Wed,San Francisco Giants,Seattle Mariners,9,3,N,209
+16/09/2020,Wed,Washington Nationals,Tampa Bay Rays,4,2,D,211
+17/09/2020,Thu,Los Angeles Dodgers,Colorado Rockies,9,3,N,187
+17/09/2020,Thu,Boston Red Sox,Miami Marlins,5,3,D,189
+17/09/2020,Thu,New York Mets,Philadelphia Phillies,10,6,N,252
+17/09/2020,Thu,St. Louis Cardinals,Pittsburgh Pirates,1,5,N,145
+17/09/2020,Thu,Arizona D'Backs,Los Angeles Angels,3,7,D,187
+17/09/2020,Thu,Tampa Bay Rays,Baltimore Orioles,3,1,D,148
+17/09/2020,Thu,Minnesota Twins,Chicago White Sox,3,4,D,200
+17/09/2020,Thu,Cleveland Indians,Detroit Tigers,10,3,N,184
+17/09/2020,Thu,Texas Rangers,Houston Astros,1,2,N,153
+17/09/2020,Thu,Toronto Blue Jays,New York Yankees,7,10,N,199
+17/09/2020,Thu,San Francisco Giants,Seattle Mariners,6,4,D,214
+17/09/2020,Thu,Baltimore Orioles,Tampa Bay Rays,6,10,N,158
+18/09/2020,Fri,Minnesota Twins,Chicago Cubs,0,1,N,154
+18/09/2020,Fri,Chicago White Sox,Cincinnati Reds,1,7,N,171
+18/09/2020,Fri,Los Angeles Dodgers,Colorado Rockies,15,6,N,204
+18/09/2020,Fri,Washington Nationals,Miami Marlins,5,0,N,135
+18/09/2020,Fri,Washington Nationals,Miami Marlins,3,14,N,174
+18/09/2020,Fri,Kansas City Royals,Milwaukee Brewers,5,9,N,200
+18/09/2020,Fri,Atlanta Braves,New York Mets,15,2,N,219
+18/09/2020,Fri,Philadelphia Phillies,Toronto Blue Jays,7,0,D,153
+18/09/2020,Fri,St. Louis Cardinals,Pittsburgh Pirates,6,5,D,188
+18/09/2020,Fri,Pittsburgh Pirates,St. Louis Cardinals,2,7,N,139
+18/09/2020,Fri,Texas Rangers,Los Angeles Angels,2,6,N,175
+18/09/2020,Fri,Tampa Bay Rays,Baltimore Orioles,2,1,N,179
+18/09/2020,Fri,New York Yankees,Boston Red Sox,6,5,N,295
+18/09/2020,Fri,Cleveland Indians,Detroit Tigers,1,0,N,213
+18/09/2020,Fri,Arizona D'Backs,Houston Astros,6,3,N,188
+18/09/2020,Fri,San Francisco Giants,Oakland Athletics,0,6,N,173
+18/09/2020,Fri,San Diego Padres,Seattle Mariners,6,1,N,181
+18/09/2020,Fri,Toronto Blue Jays,Philadelphia Phillies,7,8,N,194
+19/09/2020,Sat,Minnesota Twins,Chicago Cubs,8,1,N,190
+19/09/2020,Sat,Chicago White Sox,Cincinnati Reds,5,0,N,177
+19/09/2020,Sat,Los Angeles Dodgers,Colorado Rockies,6,1,N,152
+19/09/2020,Sat,Washington Nationals,Miami Marlins,3,7,N,186
+19/09/2020,Sat,Kansas City Royals,Milwaukee Brewers,0,5,N,175
+19/09/2020,Sat,Atlanta Braves,New York Mets,2,7,N,212
+19/09/2020,Sat,Toronto Blue Jays,Philadelphia Phillies,1,3,N,196
+19/09/2020,Sat,St. Louis Cardinals,Pittsburgh Pirates,5,4,N,186
+19/09/2020,Sat,Texas Rangers,Los Angeles Angels,3,4,N,155
+19/09/2020,Sat,Tampa Bay Rays,Baltimore Orioles,3,1,N,184
+19/09/2020,Sat,New York Yankees,Boston Red Sox,8,0,N,179
+19/09/2020,Sat,Cleveland Indians,Detroit Tigers,2,5,N,180
+19/09/2020,Sat,Arizona D'Backs,Houston Astros,2,3,N,157
+19/09/2020,Sat,San Francisco Giants,Oakland Athletics,0,6,D,154
+19/09/2020,Sat,San Diego Padres,Seattle Mariners,1,4,N,179
+20/09/2020,Sun,Minnesota Twins,Chicago Cubs,4,0,N,187
+20/09/2020,Sun,Chicago White Sox,Cincinnati Reds,3,7,D,216
+20/09/2020,Sun,Los Angeles Dodgers,Colorado Rockies,3,6,D,195
+20/09/2020,Sun,Washington Nationals,Miami Marlins,1,2,D,157
+20/09/2020,Sun,Washington Nationals,Miami Marlins,15,0,D,174
+20/09/2020,Sun,Kansas City Royals,Milwaukee Brewers,3,5,D,163
+20/09/2020,Sun,Atlanta Braves,New York Mets,7,0,D,189
+20/09/2020,Sun,Toronto Blue Jays,Philadelphia Phillies,6,3,D,208
+20/09/2020,Sun,St. Louis Cardinals,Pittsburgh Pirates,2,1,D,170
+20/09/2020,Sun,Texas Rangers,Los Angeles Angels,7,2,D,180
+20/09/2020,Sun,Tampa Bay Rays,Baltimore Orioles,1,2,D,151
+20/09/2020,Sun,New York Yankees,Boston Red Sox,2,10,D,202
+20/09/2020,Sun,Cleveland Indians,Detroit Tigers,7,4,D,179
+20/09/2020,Sun,Arizona D'Backs,Houston Astros,2,3,D,184
+20/09/2020,Sun,San Francisco Giants,Oakland Athletics,14,2,D,201
+20/09/2020,Sun,San Diego Padres,Seattle Mariners,7,4,D,242
+21/09/2020,Mon,Miami Marlins,Atlanta Braves,4,5,N,210
+21/09/2020,Mon,Milwaukee Brewers,Cincinnati Reds,3,6,N,176
+21/09/2020,Mon,Tampa Bay Rays,New York Mets,2,1,N,180
+21/09/2020,Mon,Chicago Cubs,Pittsburgh Pirates,5,0,N,178
+21/09/2020,Mon,Colorado Rockies,San Francisco Giants,7,2,N,213
+21/09/2020,Mon,Philadelphia Phillies,Washington Nationals,1,5,N,228
+21/09/2020,Mon,Texas Rangers,Los Angeles Angels,5,8,D,180
+21/09/2020,Mon,Chicago White Sox,Cleveland Indians,4,7,N,194
+21/09/2020,Mon,St. Louis Cardinals,Kansas City Royals,1,4,N,175
+21/09/2020,Mon,Houston Astros,Seattle Mariners,1,6,N,154
+21/09/2020,Mon,New York Yankees,Toronto Blue Jays,5,11,N,236
+22/09/2020,Tue,Texas Rangers,Arizona D'Backs,0,7,N,176
+22/09/2020,Tue,Miami Marlins,Atlanta Braves,1,11,N,170
+22/09/2020,Tue,Milwaukee Brewers,Cincinnati Reds,3,2,N,147
+22/09/2020,Tue,Oakland Athletics,Los Angeles Dodgers,2,7,N,198
+22/09/2020,Tue,Tampa Bay Rays,New York Mets,2,5,N,183
+22/09/2020,Tue,Chicago Cubs,Pittsburgh Pirates,2,3,N,165
+22/09/2020,Tue,Los Angeles Angels,San Diego Padres,4,2,N,190
+22/09/2020,Tue,Colorado Rockies,San Francisco Giants,2,5,N,206
+22/09/2020,Tue,Philadelphia Phillies,Washington Nationals,1,5,D,129
+22/09/2020,Tue,Philadelphia Phillies,Washington Nationals,7,8,N,205
+22/09/2020,Tue,Baltimore Orioles,Boston Red Sox,3,8,N,211
+22/09/2020,Tue,Chicago White Sox,Cleveland Indians,3,5,N,201
+22/09/2020,Tue,St. Louis Cardinals,Kansas City Royals,5,0,N,189
+22/09/2020,Tue,Detroit Tigers,Minnesota Twins,4,5,N,223
+22/09/2020,Tue,Houston Astros,Seattle Mariners,6,1,N,186
+22/09/2020,Tue,New York Yankees,Toronto Blue Jays,12,1,N,209
+23/09/2020,Wed,Texas Rangers,Arizona D'Backs,3,7,D,177
+23/09/2020,Wed,Miami Marlins,Atlanta Braves,4,9,N,181
+23/09/2020,Wed,Milwaukee Brewers,Cincinnati Reds,1,6,N,158
+23/09/2020,Wed,Oakland Athletics,Los Angeles Dodgers,6,4,N,172
+23/09/2020,Wed,Tampa Bay Rays,New York Mets,8,5,N,173
+23/09/2020,Wed,Chicago Cubs,Pittsburgh Pirates,1,2,N,177
+23/09/2020,Wed,Los Angeles Angels,San Diego Padres,5,2,D,204
+23/09/2020,Wed,Colorado Rockies,San Francisco Giants,2,7,N,190
+23/09/2020,Wed,Philadelphia Phillies,Washington Nationals,12,3,N,168
+23/09/2020,Wed,Baltimore Orioles,Boston Red Sox,1,9,N,184
+23/09/2020,Wed,Chicago White Sox,Cleveland Indians,2,3,N,194
+23/09/2020,Wed,St. Louis Cardinals,Kansas City Royals,3,12,N,170
+23/09/2020,Wed,Detroit Tigers,Minnesota Twins,6,7,N,196
+23/09/2020,Wed,Houston Astros,Seattle Mariners,2,3,D,189
+23/09/2020,Wed,New York Yankees,Toronto Blue Jays,1,14,N,219
+24/09/2020,Thu,Miami Marlins,Atlanta Braves,4,2,N,215
+24/09/2020,Thu,Oakland Athletics,Los Angeles Dodgers,1,5,N,170
+24/09/2020,Thu,Chicago Cubs,Pittsburgh Pirates,0,7,D,156
+24/09/2020,Thu,Colorado Rockies,San Francisco Giants,5,4,D,253
+24/09/2020,Thu,Milwaukee Brewers,St. Louis Cardinals,2,4,N,223
+24/09/2020,Thu,New York Mets,Washington Nationals,3,2,N,195
+24/09/2020,Thu,Baltimore Orioles,Boston Red Sox,13,1,N,194
+24/09/2020,Thu,Chicago White Sox,Cleveland Indians,4,5,N,168
+24/09/2020,Thu,Detroit Tigers,Kansas City Royals,7,8,N,202
+24/09/2020,Thu,Houston Astros,Texas Rangers,12,4,N,191
+24/09/2020,Thu,New York Yankees,Toronto Blue Jays,1,4,N,191
+25/09/2020,Fri,Colorado Rockies,Arizona D'Backs,0,4,D,156
+25/09/2020,Fri,Colorado Rockies,Arizona D'Backs,5,11,N,178
+25/09/2020,Fri,Boston Red Sox,Atlanta Braves,7,8,N,239
+25/09/2020,Fri,Los Angeles Angels,Los Angeles Dodgers,5,9,N,222
+25/09/2020,Fri,Milwaukee Brewers,St. Louis Cardinals,3,0,D,132
+25/09/2020,Fri,San Diego Padres,San Francisco Giants,4,5,D,147
+25/09/2020,Fri,San Francisco Giants,San Diego Padres,5,6,N,157
+25/09/2020,Fri,St. Louis Cardinals,Milwaukee Brewers,9,1,N,156
+25/09/2020,Fri,Chicago Cubs,Chicago White Sox,10,0,N,184
+25/09/2020,Fri,Pittsburgh Pirates,Cleveland Indians,3,4,N,198
+25/09/2020,Fri,Detroit Tigers,Kansas City Royals,2,3,N,170
+25/09/2020,Fri,Cincinnati Reds,Minnesota Twins,7,2,N,218
+25/09/2020,Fri,Miami Marlins,New York Yankees,4,3,N,200
+25/09/2020,Fri,Seattle Mariners,Oakland Athletics,1,3,N,188
+25/09/2020,Fri,Philadelphia Phillies,Tampa Bay Rays,4,6,N,188
+25/09/2020,Fri,Houston Astros,Texas Rangers,4,5,N,195
+25/09/2020,Fri,Baltimore Orioles,Toronto Blue Jays,5,10,N,161
+26/09/2020,Sat,Colorado Rockies,Arizona D'Backs,10,3,N,183
+26/09/2020,Sat,Boston Red Sox,Atlanta Braves,8,2,N,202
+26/09/2020,Sat,Los Angeles Angels,Los Angeles Dodgers,6,7,N,199
+26/09/2020,Sat,San Diego Padres,San Francisco Giants,6,2,N,167
+26/09/2020,Sat,Milwaukee Brewers,St. Louis Cardinals,3,0,N,158
+26/09/2020,Sat,New York Mets,Washington Nationals,3,4,D,159
+26/09/2020,Sat,New York Mets,Washington Nationals,3,5,N,155
+26/09/2020,Sat,Chicago Cubs,Chicago White Sox,5,9,N,200
+26/09/2020,Sat,Pittsburgh Pirates,Cleveland Indians,8,0,N,176
+26/09/2020,Sat,Detroit Tigers,Kansas City Royals,4,3,N,180
+26/09/2020,Sat,Cincinnati Reds,Minnesota Twins,3,7,N,186
+26/09/2020,Sat,Miami Marlins,New York Yankees,4,11,D,200
+26/09/2020,Sat,Seattle Mariners,Oakland Athletics,5,1,D,159
+26/09/2020,Sat,Oakland Athletics,Seattle Mariners,3,12,D,135
+26/09/2020,Sat,Philadelphia Phillies,Tampa Bay Rays,3,4,N,173
+26/09/2020,Sat,Houston Astros,Texas Rangers,1,6,N,164
+26/09/2020,Sat,Baltimore Orioles,Toronto Blue Jays,2,5,N,178
+27/09/2020,Sun,Colorado Rockies,Arizona D'Backs,3,11,D,174
+27/09/2020,Sun,Boston Red Sox,Atlanta Braves,9,1,D,203
+27/09/2020,Sun,Los Angeles Angels,Los Angeles Dodgers,0,5,D,174
+27/09/2020,Sun,San Diego Padres,San Francisco Giants,5,4,D,202
+27/09/2020,Sun,Milwaukee Brewers,St. Louis Cardinals,2,5,D,178
+27/09/2020,Sun,New York Mets,Washington Nationals,5,15,D,215
+27/09/2020,Sun,Chicago Cubs,Chicago White Sox,10,8,D,217
+27/09/2020,Sun,Pittsburgh Pirates,Cleveland Indians,6,8,D,180
+27/09/2020,Sun,Detroit Tigers,Kansas City Royals,1,3,D,147
+27/09/2020,Sun,Cincinnati Reds,Minnesota Twins,5,3,D,233
+27/09/2020,Sun,Miami Marlins,New York Yankees,5,0,D,185
+27/09/2020,Sun,Seattle Mariners,Oakland Athletics,2,6,D,186
+27/09/2020,Sun,Philadelphia Phillies,Tampa Bay Rays,0,5,D,179
+27/09/2020,Sun,Houston Astros,Texas Rangers,4,8,D,208
+27/09/2020,Sun,Baltimore Orioles,Toronto Blue Jays,7,5,D,172
