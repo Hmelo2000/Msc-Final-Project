@@ -416,7 +416,7 @@ from PIL import ImageTk, Image
  
 root = Tk()
 root.title("American Sports Prediction System") #Set Title of the Window
-root.geometry("720x570") # Setting Dimensions
+root.geometry("720x585") # Setting Dimensions
 
 Title = Label(root, text="Which sport (out of the 3 below) would you like to make a prediciton in: ", font=("Gamerock", 17, "bold"))
 Title.grid(row=0, column=0)
