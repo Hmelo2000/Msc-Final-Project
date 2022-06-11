@@ -1,10 +1,11 @@
 # Msc-Final-Project
 
-Hockey Data obtained from: https://www.hockey-reference.com/leagues/NHL_2021_games.html 
-Basketball Data obtained from: https://www.basketball-reference.com/leagues/NBA_2021_games.html
+Basketball data obtained from: https://www.basketball-reference.com
+Hockey data obtained from: https://www.hockey-reference.com
+Baseball data obtained from: https://www.retrosheet.org
 
-Tasks done:
-2 algorithms sucessfully implemented to make predictions for basketball and hockey
-
-Tasks still to be done:
-Implement another machine learning algorithm and add another sport (football) as well 
+Machine Learning Algorithms Implemented:
+1. Logistic Regression
+2. Decision Tree
+3. Nearest Neighbors
+4. MLP (Multi-layer Perceptron)
